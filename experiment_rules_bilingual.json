@@ -1,0 +1,210 @@
+[
+  [
+    "R1",
+    [
+      "Transfer changes with context",
+      "迁移随情境改变"
+    ],
+    [
+      "Shared updating versus context-dependent expression",
+      "共享更新与情境依赖表达"
+    ],
+    [
+      "Cross training and test cues; read the first probe before new error.",
+      "交叉训练与测试线索；在新误差出现前读取首次探针。"
+    ],
+    [
+      "Test-cue effects identify expression; training effects persisting under a common test cue motivate updating/retention comparisons.",
+      "测试线索效应识别表达；共同测试线索下保留的训练效应推动更新/保持比较。"
+    ],
+    [
+      "Match sensory information and cue credibility; include cue-only no-error controls.",
+      "匹配感觉信息与线索可信度；加入纯线索无误差对照。"
+    ],
+    "E02–E04, E19",
+    "Input, gain and retention factors can reproduce the same product; family recovery remains low.",
+    "输入、增益与保持可产生相同乘积；家族恢复率仍低。"
+  ],
+  [
+    "R2",
+    [
+      "Learning changes with sensory reliability or source",
+      "学习随感觉可靠性或来源改变"
+    ],
+    [
+      "Input changes versus updating with mixed report loadings",
+      "输入变化与混合报告载荷下的更新"
+    ],
+    [
+      "Add active/passive reports and independent loading calibration; test report predictions in a new context.",
+      "增加主动/被动报告及独立载荷校准，在新情境检验报告预测。"
+    ],
+    [
+      "Separated predictions support factor contrasts; unknown or collinear loadings retain a continuum of decompositions.",
+      "预测分离支持因子对比；未知或共线载荷保留连续等价分解。"
+    ],
+    [
+      "Match kinematics and sensory exposure; measure passive-exposure aftereffects and report transport.",
+      "匹配运动学与感觉暴露；测量被动暴露后效及报告迁移。"
+    ],
+    "E12, E15, E17, E24–E26",
+    "Exact aliases survive precise reports when update cross-loading is ignored; the new stress test varies this loading.",
+    "忽略更新交叉载荷时，精确报告仍可产生精确混淆；新压力测试改变该载荷。"
+  ],
+  [
+    "R3",
+    [
+      "Correction and next-trial learning covary",
+      "纠错与下一试次学习共变"
+    ],
+    [
+      "Fixed temporal copying versus integrated teaching signal",
+      "固定时间复制与整合教学信号"
+    ],
+    [
+      "Add two error-onset times and a late sign reversal; record full correction, holding and next-trial waveforms.",
+      "增加两个误差起始时点及晚期反转；记录完整纠错、保持与下一试次波形。"
+    ],
+    [
+      "Timing displacement supports copying; preserved learning timing with tonic-amplitude prediction supports integration.",
+      "时间位移支持复制；学习时间保持而持续幅度可预测学习，支持整合。"
+    ],
+    [
+      "Fit on one timing and predict the other; match perceived error and observation noise.",
+      "在一个时序拟合并预测另一个；匹配感知误差与观测噪声。"
+    ],
+    "E06–E07, E18",
+    "The reduced matrix simulations omit temporal waveform mechanisms; this contrast needs a separate time-resolved recovery study.",
+    "简化矩阵模拟未包含时间波形机制；该对比需要独立的时序模型恢复研究。"
+  ],
+  [
+    "R4",
+    [
+      "Similar paths accompany different forces",
+      "相似轨迹伴随不同力"
+    ],
+    [
+      "Neural gain versus impedance",
+      "神经增益与阻抗"
+    ],
+    [
+      "Add background EMG and multidirectional small mechanical perturbations, resolved by latency.",
+      "增加背景肌电及小幅多方向机械扰动，并按潜伏期分解。"
+    ],
+    [
+      "A stiffness change explains a mechanical contribution; residual response structure at matched mechanics constrains neural control.",
+      "刚度变化解释力学贡献；匹配力学后的残余响应结构约束神经控制。"
+    ],
+    [
+      "Match speed and posture; separate intrinsic mechanics from delayed feedback.",
+      "匹配速度与姿势；分离内在力学与延迟反馈。"
+    ],
+    "E08–E10",
+    "The archived routing model has no explicit musculoskeletal impedance state; it cannot validate this rule quantitatively.",
+    "存档路由模型没有显式肌骨阻抗状态，无法定量验证该规则。"
+  ],
+  [
+    "R5",
+    [
+      "A dissociation varies with delay",
+      "分离随延迟变化"
+    ],
+    [
+      "Different acquisition versus different retention or probe-induced learning",
+      "获得差异与保持或探针诱发学习差异"
+    ],
+    [
+      "Use independent first probes at multiple delays; counterbalance visual feedback during channels.",
+      "在多个延迟使用独立首次探针；平衡通道中的视觉反馈。"
+    ],
+    [
+      "An early difference supports acquisition/readout effects; a later divergence directs attention to retention and probe exposure.",
+      "早期差异支持获得/读出效应；晚期分歧指向保持与探针暴露。"
+    ],
+    [
+      "Avoid repeated probes as an unmodelled training block; include sensory-matched retention controls.",
+      "避免将重复探针作为未建模训练块；加入感觉匹配保持对照。"
+    ],
+    "E04, E11, E20",
+    "Retention calibration is assumed in the simulation and must transfer to the target context.",
+    "模拟假设保持校准有效；其向目标情境的迁移需验证。"
+  ],
+  [
+    "R6",
+    [
+      "Output ratios vary with delay",
+      "输出比例随延迟变化"
+    ],
+    [
+      "Common temporal modes with mixed readout versus output-specific modes",
+      "混合读出的共同时间模式与输出特异模式"
+    ],
+    [
+      "Measure both outputs over multiple independent delays and reserve new delays or histories.",
+      "在多个独立延迟测量两个输出，并留出新延迟或历史。"
+    ],
+    [
+      "A changing ratio rejects an effectively one-mode trajectory; common recurrences test shared temporal dynamics.",
+      "比例变化排除有效单模式轨迹；共同递推检验共同时间动力学。"
+    ],
+    [
+      "Control probe-driven updating, exposure, baseline gains and near-zero responses.",
+      "控制探针诱发更新、暴露、基线增益及接近零的响应。"
+    ],
+    "E01–E03, E17, E28",
+    "Fixed mixed readout generates changing ratios; duplicated separate states reproduce common-mode predictions exactly.",
+    "固定混合读出产生变化比例；复制的分别状态精确复现共同模式预测。"
+  ],
+  [
+    "R7",
+    [
+      "A shared model predicts held-out data better",
+      "共享模型的留出预测更优"
+    ],
+    [
+      "Mechanistic sharing versus statistical stabilization",
+      "机制共享与统计稳定化"
+    ],
+    [
+      "Match effective regularization, optimize all competitors and evaluate recovery across realistic and near-equivalent instances.",
+      "匹配有效正则化，充分优化所有竞争模型，跨真实噪声与近等价实例评估恢复。"
+    ],
+    [
+      "Prediction advantage establishes predictive utility; mechanism selection additionally requires distinguishable intervention predictions and reliable recovery.",
+      "预测优势确立预测效用；机制选择还需要可区分干预预测及可靠恢复。"
+    ],
+    [
+      "Preserve nested shared subsets within separate models; use full learning trajectories and complete held-out conditions.",
+      "保留分别模型中的嵌套共享子集；使用完整学习轨迹与完整留出条件。"
+    ],
+    "E21; computational archive",
+    "New cross-study tests compare 3/4/6/8-parameter temporal families with source-only ridge selection and paired residual recovery.",
+    "新增跨研究检验比较3/4/6/8参数时间家族，采用来源内正则选择及配对残差恢复。"
+  ],
+  [
+    "R8",
+    [
+      "Task error changes apparent implicit learning",
+      "任务误差改变表观隐式学习"
+    ],
+    [
+      "Task-error interaction versus strategic addition and attentional modulation",
+      "任务误差交互与策略叠加、注意调节"
+    ],
+    [
+      "Cross task error with fixed cursor error, target flicker and instruction; collect matched aim reports plus immediate no-feedback aftereffects.",
+      "交叉任务误差、固定光标误差、目标闪烁及指示，采集匹配瞄准报告与即时无反馈后效。"
+    ],
+    [
+      "A residual task-error slope after aim and attention controls supports interaction; instruction-sensitive improvement with stable implicit aftereffects supports strategic addition.",
+      "控制瞄准与注意后的残余任务误差斜率支持交互；改善对指示敏感而隐式后效稳定，支持策略叠加。"
+    ],
+    [
+      "Match target-event timing, reporting demand, reaction time and feedback availability; model the measured attention component.",
+      "匹配目标事件时序、报告要求、反应时间与反馈可用性，建模所测注意成分。"
+    ],
+    "E22–E23, E27",
+    "The matrix benchmark does not implement explicit strategy or attention; this rule is evidence-derived and requires temporal/strategic model recovery.",
+    "矩阵基准未实现显式策略或注意；该规则由证据导出，需要时序/策略模型恢复。"
+  ]
+]

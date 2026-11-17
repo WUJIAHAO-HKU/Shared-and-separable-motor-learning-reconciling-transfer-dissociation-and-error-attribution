@@ -1,0 +1,4206 @@
+{
+  "file": "PROJECT_ROOT\\editable_figures\\concept_figures_bilingual.pptx",
+  "slide_size_pt": [
+    720.0,
+    468.0
+  ],
+  "note": "Inventory, not visual verification. Group-child bounds use local coordinates; theme-inherited fills are not resolved.",
+  "slides": [
+    {
+      "slide_xml": "ppt/slides/slide1.xml",
+      "counts": {
+        "sp": 90,
+        "cxnSp": 26
+      },
+      "direct_gradient_fills": 0,
+      "warnings": [],
+      "objects": [
+        {
+          "name": "001 figure title",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Evidence for shared and separable learning",
+          "bounds_pt": [
+            17.28,
+            8.6399,
+            685.44,
+            27.36
+          ]
+        },
+        {
+          "name": "002 figure subtitle",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Locate the shared process across inputs, outputs and timescales",
+          "bounds_pt": [
+            17.28,
+            37.44,
+            685.44,
+            20.16
+          ]
+        },
+        {
+          "name": "003 evidence panel",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            17.28,
+            67.68,
+            162.72,
+            121.68
+          ]
+        },
+        {
+          "name": "004 evidence accent",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            17.28,
+            67.68,
+            162.72,
+            2.88
+          ]
+        },
+        {
+          "name": "005 evidence heading",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Transfer",
+          "bounds_pt": [
+            24.48,
+            75.6,
+            148.32,
+            20.16
+          ]
+        },
+        {
+          "name": "006 evidence observation",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Planned compensation\nand rapid correction",
+          "bounds_pt": [
+            24.48,
+            153.3599,
+            148.32,
+            30.96
+          ]
+        },
+        {
+          "name": "007 arm links / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            34.56,
+            116.64,
+            18.9,
+            21.6
+          ]
+        },
+        {
+          "name": "007 arm links / segment 2",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            53.46,
+            116.64,
+            29.7,
+            11.88
+          ]
+        },
+        {
+          "name": "008 arm contours / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            34.56,
+            116.64,
+            18.9,
+            21.6
+          ]
+        },
+        {
+          "name": "008 arm contours / segment 2",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            53.46,
+            116.64,
+            29.7,
+            11.88
+          ]
+        },
+        {
+          "name": "009 arm joint",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            31.32,
+            135.0,
+            6.48,
+            6.48
+          ]
+        },
+        {
+          "name": "010 arm joint",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            50.22,
+            113.4,
+            6.48,
+            6.48
+          ]
+        },
+        {
+          "name": "011 arm joint",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            79.92,
+            125.28,
+            6.48,
+            6.48
+          ]
+        },
+        {
+          "name": "012 target outer",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            144.0,
+            101.52,
+            14.4,
+            14.4
+          ]
+        },
+        {
+          "name": "013 target centre",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            148.32,
+            105.84,
+            5.76,
+            5.76
+          ]
+        },
+        {
+          "name": "014 target outer",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            144.0,
+            129.6,
+            14.4,
+            14.4
+          ]
+        },
+        {
+          "name": "015 target centre",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            148.32,
+            133.92,
+            5.76,
+            5.76
+          ]
+        },
+        {
+          "name": "016 transfer to planned / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            89.28,
+            108.72,
+            29.52,
+            15.84
+          ]
+        },
+        {
+          "name": "016 transfer to planned / segment 2",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            118.8,
+            108.72,
+            21.6,
+            0.0
+          ]
+        },
+        {
+          "name": "017 transfer to correction / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            89.28,
+            124.56,
+            29.52,
+            12.24
+          ]
+        },
+        {
+          "name": "017 transfer to correction / segment 2",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            118.8,
+            136.8,
+            21.6,
+            0.0
+          ]
+        },
+        {
+          "name": "018 evidence panel",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            191.52,
+            67.68,
+            162.72,
+            121.68
+          ]
+        },
+        {
+          "name": "019 evidence accent",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            191.52,
+            67.68,
+            162.72,
+            2.88
+          ]
+        },
+        {
+          "name": "020 evidence heading",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Dissociation",
+          "bounds_pt": [
+            198.72,
+            75.6,
+            148.32,
+            20.16
+          ]
+        },
+        {
+          "name": "021 evidence observation",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Endpoint and online\nfeedback differ",
+          "bounds_pt": [
+            198.72,
+            153.3599,
+            148.32,
+            30.96
+          ]
+        },
+        {
+          "name": "022 feedback screen",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            204.48,
+            103.68,
+            61.2,
+            40.32
+          ]
+        },
+        {
+          "name": "023 target outer",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            244.08,
+            105.12,
+            14.4,
+            14.4
+          ]
+        },
+        {
+          "name": "024 target centre",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            248.4,
+            109.44,
+            5.76,
+            5.76
+          ]
+        },
+        {
+          "name": "025 endpoint cursor",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            217.44,
+            131.04,
+            5.04,
+            5.04
+          ]
+        },
+        {
+          "name": "026 feedback screen",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            276.48,
+            103.68,
+            61.2,
+            40.32
+          ]
+        },
+        {
+          "name": "027 target outer",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            316.08,
+            105.12,
+            14.4,
+            14.4
+          ]
+        },
+        {
+          "name": "028 target centre",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            320.4,
+            109.44,
+            5.76,
+            5.76
+          ]
+        },
+        {
+          "name": "029 online trajectory / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            283.68,
+            133.92,
+            13.68,
+            2.88
+          ]
+        },
+        {
+          "name": "029 online trajectory / segment 2",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            297.36,
+            122.4,
+            10.08,
+            11.52
+          ]
+        },
+        {
+          "name": "029 online trajectory / segment 3",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            307.44,
+            118.08,
+            9.36,
+            4.32
+          ]
+        },
+        {
+          "name": "030 evidence panel",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            365.76,
+            67.68,
+            162.72,
+            121.68
+          ]
+        },
+        {
+          "name": "031 evidence accent",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            365.76,
+            67.68,
+            162.72,
+            2.88
+          ]
+        },
+        {
+          "name": "032 evidence heading",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Error source",
+          "bounds_pt": [
+            372.96,
+            75.6,
+            148.32,
+            20.16
+          ]
+        },
+        {
+          "name": "033 evidence observation",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Cursor, hand and\ncontextual cue",
+          "bounds_pt": [
+            372.96,
+            153.3599,
+            148.32,
+            30.96
+          ]
+        },
+        {
+          "name": "034 cursor",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            387.36,
+            108.0,
+            18.0001,
+            27.3601
+          ]
+        },
+        {
+          "name": "035 arm links / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            423.36,
+            119.52,
+            16.38,
+            18.72
+          ]
+        },
+        {
+          "name": "035 arm links / segment 2",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            439.74,
+            119.52,
+            25.74,
+            10.296
+          ]
+        },
+        {
+          "name": "036 arm contours / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            423.36,
+            119.52,
+            16.38,
+            18.72
+          ]
+        },
+        {
+          "name": "036 arm contours / segment 2",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            439.74,
+            119.52,
+            25.74,
+            10.296
+          ]
+        },
+        {
+          "name": "037 arm joint",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            420.552,
+            135.432,
+            5.6161,
+            5.6161
+          ]
+        },
+        {
+          "name": "038 arm joint",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            436.932,
+            116.712,
+            5.6161,
+            5.6161
+          ]
+        },
+        {
+          "name": "039 arm joint",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            462.672,
+            127.008,
+            5.6161,
+            5.616
+          ]
+        },
+        {
+          "name": "040 context cue",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            489.6,
+            108.72,
+            25.92,
+            25.92
+          ]
+        },
+        {
+          "name": "041 cue tile",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            491.76,
+            110.88,
+            7.2,
+            7.2
+          ]
+        },
+        {
+          "name": "042 cue tile",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            491.76,
+            125.28,
+            7.2,
+            7.2
+          ]
+        },
+        {
+          "name": "043 cue tile",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            498.96,
+            118.08,
+            7.2,
+            7.2
+          ]
+        },
+        {
+          "name": "044 cue tile",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            506.16,
+            110.88,
+            7.2,
+            7.2
+          ]
+        },
+        {
+          "name": "045 cue tile",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            506.16,
+            125.28,
+            7.2,
+            7.2
+          ]
+        },
+        {
+          "name": "046 evidence panel",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            540.0,
+            67.68,
+            162.72,
+            121.68
+          ]
+        },
+        {
+          "name": "047 evidence accent",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            540.0,
+            67.68,
+            162.72,
+            2.88
+          ]
+        },
+        {
+          "name": "048 evidence heading",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Sensory specificity",
+          "bounds_pt": [
+            547.2,
+            75.6,
+            148.32,
+            20.16
+          ]
+        },
+        {
+          "name": "049 evidence observation",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Vision and\nproprioception",
+          "bounds_pt": [
+            547.2,
+            153.3599,
+            148.32,
+            30.96
+          ]
+        },
+        {
+          "name": "050 eye outline",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            554.4,
+            113.76,
+            38.8801,
+            20.7361
+          ]
+        },
+        {
+          "name": "051 iris",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            568.008,
+            118.296,
+            11.6639,
+            11.664
+          ]
+        },
+        {
+          "name": "052 pupil",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            571.896,
+            122.184,
+            3.888,
+            3.888
+          ]
+        },
+        {
+          "name": "053 arm links / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            626.4,
+            114.48,
+            20.16,
+            23.04
+          ]
+        },
+        {
+          "name": "053 arm links / segment 2",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            646.56,
+            114.48,
+            31.68,
+            12.672
+          ]
+        },
+        {
+          "name": "054 arm contours / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            626.4,
+            114.48,
+            20.16,
+            23.04
+          ]
+        },
+        {
+          "name": "054 arm contours / segment 2",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            646.56,
+            114.48,
+            31.68,
+            12.672
+          ]
+        },
+        {
+          "name": "055 arm joint",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            622.9439,
+            134.064,
+            6.912,
+            6.912
+          ]
+        },
+        {
+          "name": "056 arm joint",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            643.104,
+            111.024,
+            6.912,
+            6.912
+          ]
+        },
+        {
+          "name": "057 arm joint",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            674.784,
+            123.696,
+            6.912,
+            6.912
+          ]
+        },
+        {
+          "name": "058 process section",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Learning process",
+          "bounds_pt": [
+            17.28,
+            197.28,
+            165.6,
+            18.0
+          ]
+        },
+        {
+          "name": "059 training context band",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            164.88,
+            199.44,
+            126.0,
+            20.16
+          ]
+        },
+        {
+          "name": "060 training context",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Training context",
+          "bounds_pt": [
+            164.88,
+            199.44,
+            126.0,
+            20.16
+          ]
+        },
+        {
+          "name": "061 test context band",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            444.24,
+            199.44,
+            126.0,
+            20.16
+          ]
+        },
+        {
+          "name": "062 test context",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Test context",
+          "bounds_pt": [
+            444.24,
+            199.44,
+            126.0,
+            20.16
+          ]
+        },
+        {
+          "name": "063 learning stage",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            17.28,
+            230.4,
+            126.72,
+            72.0
+          ]
+        },
+        {
+          "name": "064 stage title",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Error representation",
+          "bounds_pt": [
+            23.04,
+            233.9999,
+            115.2,
+            32.4
+          ]
+        },
+        {
+          "name": "065 stage meaning",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Vision / proprioception",
+          "bounds_pt": [
+            22.32,
+            269.9999,
+            116.64,
+            28.8
+          ]
+        },
+        {
+          "name": "066 process direction / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            145.44,
+            265.68,
+            10.08,
+            0.0
+          ]
+        },
+        {
+          "name": "067 learning stage",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            156.96,
+            230.4,
+            126.72,
+            72.0
+          ]
+        },
+        {
+          "name": "068 stage title",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Update",
+          "bounds_pt": [
+            162.72,
+            233.9999,
+            115.2,
+            32.4
+          ]
+        },
+        {
+          "name": "069 stage meaning",
+          "kind": "sp",
+          "depth": 0,
+          "text": "What changes",
+          "bounds_pt": [
+            162.0,
+            269.9999,
+            116.64,
+            28.8
+          ]
+        },
+        {
+          "name": "070 process direction / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            285.12,
+            265.68,
+            10.08,
+            0.0
+          ]
+        },
+        {
+          "name": "071 learning stage",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            296.64,
+            230.4,
+            126.72,
+            72.0
+          ]
+        },
+        {
+          "name": "072 stage title",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Memory",
+          "bounds_pt": [
+            302.4,
+            233.9999,
+            115.2,
+            32.4
+          ]
+        },
+        {
+          "name": "073 stage meaning",
+          "kind": "sp",
+          "depth": 0,
+          "text": "What persists",
+          "bounds_pt": [
+            301.68,
+            269.9999,
+            116.64,
+            28.8
+          ]
+        },
+        {
+          "name": "074 process direction / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            424.8,
+            265.68,
+            10.08,
+            0.0
+          ]
+        },
+        {
+          "name": "075 learning stage",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            436.32,
+            230.4,
+            126.72,
+            72.0
+          ]
+        },
+        {
+          "name": "076 stage title",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Expression",
+          "bounds_pt": [
+            442.08,
+            233.9999,
+            115.2,
+            32.4
+          ]
+        },
+        {
+          "name": "077 stage meaning",
+          "kind": "sp",
+          "depth": 0,
+          "text": "What is read out",
+          "bounds_pt": [
+            441.36,
+            269.9999,
+            116.64,
+            28.8
+          ]
+        },
+        {
+          "name": "078 process direction / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            564.48,
+            265.68,
+            10.08,
+            0.0
+          ]
+        },
+        {
+          "name": "079 learning stage",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            576.0,
+            230.4,
+            126.72,
+            72.0
+          ]
+        },
+        {
+          "name": "080 stage title",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Movement",
+          "bounds_pt": [
+            581.76,
+            233.9999,
+            115.2,
+            32.4
+          ]
+        },
+        {
+          "name": "081 stage meaning",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Force / kinematics / EMG",
+          "bounds_pt": [
+            581.04,
+            269.9999,
+            116.64,
+            28.8
+          ]
+        },
+        {
+          "name": "082 training acts on update / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            227.52,
+            220.32,
+            0.0,
+            8.64
+          ]
+        },
+        {
+          "name": "083 test acts on expression / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            506.88,
+            220.32,
+            0.0,
+            8.64
+          ]
+        },
+        {
+          "name": "084 comparison axis",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            17.28,
+            315.36,
+            221.76,
+            45.36
+          ]
+        },
+        {
+          "name": "085 axis",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Sensory channels",
+          "bounds_pt": [
+            25.92,
+            318.24,
+            204.48,
+            18.72
+          ]
+        },
+        {
+          "name": "086 axis examples",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Visual / proprioceptive error",
+          "bounds_pt": [
+            25.92,
+            337.68,
+            204.48,
+            18.0
+          ]
+        },
+        {
+          "name": "087 comparison axis",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            249.12,
+            315.36,
+            221.76,
+            45.36
+          ]
+        },
+        {
+          "name": "088 axis",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Control outputs",
+          "bounds_pt": [
+            257.76,
+            318.24,
+            204.48,
+            18.72
+          ]
+        },
+        {
+          "name": "089 axis examples",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Planned / corrective response",
+          "bounds_pt": [
+            257.76,
+            337.68,
+            204.48,
+            18.0
+          ]
+        },
+        {
+          "name": "090 comparison axis",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            480.96,
+            315.36,
+            221.76,
+            45.36
+          ]
+        },
+        {
+          "name": "091 axis",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Timescales",
+          "bounds_pt": [
+            489.6,
+            318.24,
+            204.48,
+            18.72
+          ]
+        },
+        {
+          "name": "092 axis examples",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Fast / slow contributions",
+          "bounds_pt": [
+            489.6,
+            337.68,
+            204.48,
+            18.0
+          ]
+        },
+        {
+          "name": "093 measurement number",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            17.28,
+            379.44,
+            23.04,
+            23.04
+          ]
+        },
+        {
+          "name": "094 measurement number",
+          "kind": "sp",
+          "depth": 0,
+          "text": "1",
+          "bounds_pt": [
+            17.28,
+            379.4399,
+            23.04,
+            23.04
+          ]
+        },
+        {
+          "name": "095 measurement heading",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Pair the readouts",
+          "bounds_pt": [
+            48.24,
+            376.56,
+            189.36,
+            21.6
+          ]
+        },
+        {
+          "name": "096 measurement detail",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Correction + next-trial learning",
+          "bounds_pt": [
+            48.24,
+            400.3199,
+            189.36,
+            25.92
+          ]
+        },
+        {
+          "name": "097 measurement number",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            249.12,
+            379.44,
+            23.04,
+            23.04
+          ]
+        },
+        {
+          "name": "098 measurement number",
+          "kind": "sp",
+          "depth": 0,
+          "text": "2",
+          "bounds_pt": [
+            249.12,
+            379.4399,
+            23.04,
+            23.04
+          ]
+        },
+        {
+          "name": "099 measurement heading",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Cross the contexts",
+          "bounds_pt": [
+            280.08,
+            376.56,
+            189.36,
+            21.6
+          ]
+        },
+        {
+          "name": "100 measurement detail",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Training cue × test cue",
+          "bounds_pt": [
+            280.08,
+            400.3199,
+            189.36,
+            25.92
+          ]
+        },
+        {
+          "name": "101 measurement number",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            480.96,
+            379.44,
+            23.04,
+            23.04
+          ]
+        },
+        {
+          "name": "102 measurement number",
+          "kind": "sp",
+          "depth": 0,
+          "text": "3",
+          "bounds_pt": [
+            480.96,
+            379.4399,
+            23.04,
+            23.04
+          ]
+        },
+        {
+          "name": "103 measurement heading",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Calibrate the inputs",
+          "bounds_pt": [
+            511.92,
+            376.56,
+            189.36,
+            21.6
+          ]
+        },
+        {
+          "name": "104 measurement detail",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Perception + mechanics",
+          "bounds_pt": [
+            511.92,
+            400.3199,
+            189.36,
+            25.92
+          ]
+        },
+        {
+          "name": "105 footer rule / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            17.28,
+            438.48,
+            685.44,
+            0.0
+          ]
+        },
+        {
+          "name": "106 scope",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Conceptual ordering of experiments; relationships are hypotheses to test.",
+          "bounds_pt": [
+            17.28,
+            442.08,
+            685.44,
+            17.28
+          ]
+        }
+      ]
+    },
+    {
+      "slide_xml": "ppt/slides/slide2.xml",
+      "counts": {
+        "sp": 40,
+        "cxnSp": 17
+      },
+      "direct_gradient_fills": 0,
+      "warnings": [],
+      "objects": [
+        {
+          "name": "001 figure title",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Measurements that discriminate competing accounts",
+          "bounds_pt": [
+            17.28,
+            8.6399,
+            685.44,
+            27.36
+          ]
+        },
+        {
+          "name": "002 figure subtitle",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Temporal responses → report calibration → cross-study prediction",
+          "bounds_pt": [
+            17.28,
+            37.44,
+            685.44,
+            20.16
+          ]
+        },
+        {
+          "name": "003 temporal panel",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            17.28,
+            65.52,
+            685.44,
+            120.24
+          ]
+        },
+        {
+          "name": "004 temporal title",
+          "kind": "sp",
+          "depth": 0,
+          "text": "a  Resolve temporal mixtures",
+          "bounds_pt": [
+            27.36,
+            70.56,
+            648.0,
+            20.16
+          ]
+        },
+        {
+          "name": "005 inputs",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Visual input\nProprioceptive input",
+          "bounds_pt": [
+            31.68,
+            104.3999,
+            118.8,
+            46.08
+          ]
+        },
+        {
+          "name": "006 temporal mode",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            208.8,
+            99.36,
+            100.08,
+            25.92
+          ]
+        },
+        {
+          "name": "007 mode label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Fast mode",
+          "bounds_pt": [
+            208.8,
+            99.3599,
+            100.08,
+            25.92
+          ]
+        },
+        {
+          "name": "008 input access / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            153.36,
+            122.4,
+            27.36,
+            0.0
+          ]
+        },
+        {
+          "name": "008 input access / segment 2",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            180.72,
+            112.32,
+            0.0,
+            10.08
+          ]
+        },
+        {
+          "name": "008 input access / segment 3",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            180.72,
+            112.32,
+            25.2,
+            0.0
+          ]
+        },
+        {
+          "name": "009 temporal mode",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            208.8,
+            134.64,
+            100.08,
+            25.92
+          ]
+        },
+        {
+          "name": "010 mode label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Slow mode",
+          "bounds_pt": [
+            208.8,
+            134.6399,
+            100.08,
+            25.92
+          ]
+        },
+        {
+          "name": "011 input access / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            153.36,
+            122.4,
+            27.36,
+            0.0
+          ]
+        },
+        {
+          "name": "011 input access / segment 2",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            180.72,
+            122.4,
+            0.0,
+            25.2
+          ]
+        },
+        {
+          "name": "011 input access / segment 3",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            180.72,
+            147.6,
+            25.2,
+            0.0
+          ]
+        },
+        {
+          "name": "012 output",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            465.12,
+            99.36,
+            203.76,
+            25.92
+          ]
+        },
+        {
+          "name": "013 output label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Planned force",
+          "bounds_pt": [
+            470.16,
+            99.3599,
+            193.68,
+            25.92
+          ]
+        },
+        {
+          "name": "014 output",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            465.12,
+            134.64,
+            203.76,
+            25.92
+          ]
+        },
+        {
+          "name": "015 output label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Rapid correction",
+          "bounds_pt": [
+            470.16,
+            134.6399,
+            193.68,
+            25.92
+          ]
+        },
+        {
+          "name": "016 fixed readout weight / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            311.04,
+            112.32,
+            150.48,
+            0.0
+          ]
+        },
+        {
+          "name": "017 fixed readout weight / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            311.04,
+            112.32,
+            150.48,
+            35.28
+          ]
+        },
+        {
+          "name": "018 fixed readout weight / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            311.04,
+            112.32,
+            150.48,
+            35.28
+          ]
+        },
+        {
+          "name": "019 fixed readout weight / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            311.04,
+            147.6,
+            150.48,
+            0.0
+          ]
+        },
+        {
+          "name": "020 fixed readout label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Fixed readout",
+          "bounds_pt": [
+            327.6,
+            90.72,
+            119.52,
+            15.84
+          ]
+        },
+        {
+          "name": "021 temporal conclusion",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Changing output ratios can arise from a fixed mixture of fast and slow modes.",
+          "bounds_pt": [
+            31.68,
+            163.44,
+            645.84,
+            18.72
+          ]
+        },
+        {
+          "name": "022 calibration panel",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            17.28,
+            194.4,
+            685.44,
+            124.56
+          ]
+        },
+        {
+          "name": "023 calibration title",
+          "kind": "sp",
+          "depth": 0,
+          "text": "b  Calibrate the report contributions",
+          "bounds_pt": [
+            27.36,
+            199.44,
+            648.0,
+            20.16
+          ]
+        },
+        {
+          "name": "024 human modes",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Robot-guided arm\n(passive movement)\nSelf-generated movement",
+          "bounds_pt": [
+            31.68,
+            229.6799,
+            149.76,
+            54.72
+          ]
+        },
+        {
+          "name": "025 latent contribution",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            206.64,
+            225.36,
+            113.76,
+            25.92
+          ]
+        },
+        {
+          "name": "026 latent label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Sensory change",
+          "bounds_pt": [
+            206.64,
+            225.3599,
+            113.76,
+            25.92
+          ]
+        },
+        {
+          "name": "027 latent contribution",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            206.64,
+            259.2,
+            113.76,
+            25.92
+          ]
+        },
+        {
+          "name": "028 latent label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Learned state",
+          "bounds_pt": [
+            206.64,
+            259.1999,
+            113.76,
+            25.92
+          ]
+        },
+        {
+          "name": "029 localization report",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            474.48,
+            225.36,
+            194.4,
+            25.92
+          ]
+        },
+        {
+          "name": "030 report label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Passive localization",
+          "bounds_pt": [
+            478.8,
+            225.3599,
+            185.76,
+            25.92
+          ]
+        },
+        {
+          "name": "031 localization report",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            474.48,
+            259.2,
+            194.4,
+            25.92
+          ]
+        },
+        {
+          "name": "032 report label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Active localization",
+          "bounds_pt": [
+            478.8,
+            259.1999,
+            185.76,
+            25.92
+          ]
+        },
+        {
+          "name": "033 candidate report loading / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            322.56,
+            238.32,
+            148.32,
+            0.0
+          ]
+        },
+        {
+          "name": "034 candidate report loading / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            322.56,
+            238.32,
+            148.32,
+            33.84
+          ]
+        },
+        {
+          "name": "035 candidate report loading / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            322.56,
+            238.32,
+            148.32,
+            33.84
+          ]
+        },
+        {
+          "name": "036 candidate report loading / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            322.56,
+            272.16,
+            148.32,
+            0.0
+          ]
+        },
+        {
+          "name": "037 loading legend",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Candidate loadings",
+          "bounds_pt": [
+            336.96,
+            217.44,
+            122.4,
+            15.84
+          ]
+        },
+        {
+          "name": "038 calibration conclusion",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Independent calibration constrains sensory and learned contributions to each report.",
+          "bounds_pt": [
+            31.68,
+            293.76,
+            645.84,
+            18.72
+          ]
+        },
+        {
+          "name": "039 prediction panel",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            17.28,
+            327.6,
+            685.44,
+            104.4
+          ]
+        },
+        {
+          "name": "040 prediction title",
+          "kind": "sp",
+          "depth": 0,
+          "text": "c  Predict another study",
+          "bounds_pt": [
+            27.36,
+            332.64,
+            648.0,
+            20.16
+          ]
+        },
+        {
+          "name": "041 source data",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            31.68,
+            363.6,
+            119.52,
+            34.56
+          ]
+        },
+        {
+          "name": "042 source label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Source study\nFit + select penalty",
+          "bounds_pt": [
+            31.68,
+            363.5999,
+            119.52,
+            34.56
+          ]
+        },
+        {
+          "name": "043 freeze direction / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            154.08,
+            380.88,
+            22.32,
+            0.0
+          ]
+        },
+        {
+          "name": "044 frozen parameters",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            179.28,
+            363.6,
+            111.6,
+            34.56
+          ]
+        },
+        {
+          "name": "045 frozen label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Freeze parameters",
+          "bounds_pt": [
+            179.28,
+            363.5999,
+            111.6,
+            34.56
+          ]
+        },
+        {
+          "name": "046 predict direction / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            293.76,
+            380.88,
+            25.2,
+            0.0
+          ]
+        },
+        {
+          "name": "047 target predictions",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            321.84,
+            360.72,
+            180.72,
+            43.2
+          ]
+        },
+        {
+          "name": "048 target labels",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Target-study predictions\nCommon / separate modes",
+          "bounds_pt": [
+            326.88,
+            361.4399,
+            170.64,
+            41.76
+          ]
+        },
+        {
+          "name": "049 score direction / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            505.44,
+            380.88,
+            25.2,
+            0.0
+          ]
+        },
+        {
+          "name": "050 heldout score",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            533.52,
+            360.72,
+            135.36,
+            43.2
+          ]
+        },
+        {
+          "name": "051 score label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Score held-out data\nBoth outputs",
+          "bounds_pt": [
+            537.12,
+            361.4399,
+            128.16,
+            41.76
+          ]
+        },
+        {
+          "name": "052 prediction conclusion",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Compare complete held-out responses; report model recovery and analysis sensitivity.",
+          "bounds_pt": [
+            31.68,
+            407.52,
+            645.84,
+            18.0
+          ]
+        },
+        {
+          "name": "053 supported inference",
+          "kind": "sp",
+          "depth": 0,
+          "text": "Inference target: transferable input–output dynamics; neural sharing needs selective intervention.",
+          "bounds_pt": [
+            17.28,
+            437.76,
+            685.44,
+            21.6
+          ]
+        }
+      ]
+    },
+    {
+      "slide_xml": "ppt/slides/slide3.xml",
+      "counts": {
+        "sp": 90,
+        "cxnSp": 26
+      },
+      "direct_gradient_fills": 0,
+      "warnings": [],
+      "objects": [
+        {
+          "name": "001 figure title",
+          "kind": "sp",
+          "depth": 0,
+          "text": "共享与分离学习的证据",
+          "bounds_pt": [
+            17.28,
+            8.6399,
+            685.44,
+            27.36
+          ]
+        },
+        {
+          "name": "002 figure subtitle",
+          "kind": "sp",
+          "depth": 0,
+          "text": "沿输入、输出和时间尺度定位共享发生的环节",
+          "bounds_pt": [
+            17.28,
+            37.44,
+            685.44,
+            20.16
+          ]
+        },
+        {
+          "name": "003 evidence panel",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            17.28,
+            67.68,
+            162.72,
+            121.68
+          ]
+        },
+        {
+          "name": "004 evidence accent",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            17.28,
+            67.68,
+            162.72,
+            2.88
+          ]
+        },
+        {
+          "name": "005 evidence heading",
+          "kind": "sp",
+          "depth": 0,
+          "text": "迁移",
+          "bounds_pt": [
+            24.48,
+            75.6,
+            148.32,
+            20.16
+          ]
+        },
+        {
+          "name": "006 evidence observation",
+          "kind": "sp",
+          "depth": 0,
+          "text": "预先补偿与快速纠错",
+          "bounds_pt": [
+            24.48,
+            153.3599,
+            148.32,
+            30.96
+          ]
+        },
+        {
+          "name": "007 arm links / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            34.56,
+            116.64,
+            18.9,
+            21.6
+          ]
+        },
+        {
+          "name": "007 arm links / segment 2",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            53.46,
+            116.64,
+            29.7,
+            11.88
+          ]
+        },
+        {
+          "name": "008 arm contours / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            34.56,
+            116.64,
+            18.9,
+            21.6
+          ]
+        },
+        {
+          "name": "008 arm contours / segment 2",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            53.46,
+            116.64,
+            29.7,
+            11.88
+          ]
+        },
+        {
+          "name": "009 arm joint",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            31.32,
+            135.0,
+            6.48,
+            6.48
+          ]
+        },
+        {
+          "name": "010 arm joint",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            50.22,
+            113.4,
+            6.48,
+            6.48
+          ]
+        },
+        {
+          "name": "011 arm joint",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            79.92,
+            125.28,
+            6.48,
+            6.48
+          ]
+        },
+        {
+          "name": "012 target outer",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            144.0,
+            101.52,
+            14.4,
+            14.4
+          ]
+        },
+        {
+          "name": "013 target centre",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            148.32,
+            105.84,
+            5.76,
+            5.76
+          ]
+        },
+        {
+          "name": "014 target outer",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            144.0,
+            129.6,
+            14.4,
+            14.4
+          ]
+        },
+        {
+          "name": "015 target centre",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            148.32,
+            133.92,
+            5.76,
+            5.76
+          ]
+        },
+        {
+          "name": "016 transfer to planned / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            89.28,
+            108.72,
+            29.52,
+            15.84
+          ]
+        },
+        {
+          "name": "016 transfer to planned / segment 2",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            118.8,
+            108.72,
+            21.6,
+            0.0
+          ]
+        },
+        {
+          "name": "017 transfer to correction / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            89.28,
+            124.56,
+            29.52,
+            12.24
+          ]
+        },
+        {
+          "name": "017 transfer to correction / segment 2",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            118.8,
+            136.8,
+            21.6,
+            0.0
+          ]
+        },
+        {
+          "name": "018 evidence panel",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            191.52,
+            67.68,
+            162.72,
+            121.68
+          ]
+        },
+        {
+          "name": "019 evidence accent",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            191.52,
+            67.68,
+            162.72,
+            2.88
+          ]
+        },
+        {
+          "name": "020 evidence heading",
+          "kind": "sp",
+          "depth": 0,
+          "text": "分离",
+          "bounds_pt": [
+            198.72,
+            75.6,
+            148.32,
+            20.16
+          ]
+        },
+        {
+          "name": "021 evidence observation",
+          "kind": "sp",
+          "depth": 0,
+          "text": "终点反馈与在线反馈",
+          "bounds_pt": [
+            198.72,
+            153.3599,
+            148.32,
+            30.96
+          ]
+        },
+        {
+          "name": "022 feedback screen",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            204.48,
+            103.68,
+            61.2,
+            40.32
+          ]
+        },
+        {
+          "name": "023 target outer",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            244.08,
+            105.12,
+            14.4,
+            14.4
+          ]
+        },
+        {
+          "name": "024 target centre",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            248.4,
+            109.44,
+            5.76,
+            5.76
+          ]
+        },
+        {
+          "name": "025 endpoint cursor",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            217.44,
+            131.04,
+            5.04,
+            5.04
+          ]
+        },
+        {
+          "name": "026 feedback screen",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            276.48,
+            103.68,
+            61.2,
+            40.32
+          ]
+        },
+        {
+          "name": "027 target outer",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            316.08,
+            105.12,
+            14.4,
+            14.4
+          ]
+        },
+        {
+          "name": "028 target centre",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            320.4,
+            109.44,
+            5.76,
+            5.76
+          ]
+        },
+        {
+          "name": "029 online trajectory / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            283.68,
+            133.92,
+            13.68,
+            2.88
+          ]
+        },
+        {
+          "name": "029 online trajectory / segment 2",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            297.36,
+            122.4,
+            10.08,
+            11.52
+          ]
+        },
+        {
+          "name": "029 online trajectory / segment 3",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            307.44,
+            118.08,
+            9.36,
+            4.32
+          ]
+        },
+        {
+          "name": "030 evidence panel",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            365.76,
+            67.68,
+            162.72,
+            121.68
+          ]
+        },
+        {
+          "name": "031 evidence accent",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            365.76,
+            67.68,
+            162.72,
+            2.88
+          ]
+        },
+        {
+          "name": "032 evidence heading",
+          "kind": "sp",
+          "depth": 0,
+          "text": "误差来源",
+          "bounds_pt": [
+            372.96,
+            75.6,
+            148.32,
+            20.16
+          ]
+        },
+        {
+          "name": "033 evidence observation",
+          "kind": "sp",
+          "depth": 0,
+          "text": "光标、手部与情境线索",
+          "bounds_pt": [
+            372.96,
+            153.3599,
+            148.32,
+            30.96
+          ]
+        },
+        {
+          "name": "034 cursor",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            387.36,
+            108.0,
+            18.0001,
+            27.3601
+          ]
+        },
+        {
+          "name": "035 arm links / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            423.36,
+            119.52,
+            16.38,
+            18.72
+          ]
+        },
+        {
+          "name": "035 arm links / segment 2",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            439.74,
+            119.52,
+            25.74,
+            10.296
+          ]
+        },
+        {
+          "name": "036 arm contours / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            423.36,
+            119.52,
+            16.38,
+            18.72
+          ]
+        },
+        {
+          "name": "036 arm contours / segment 2",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            439.74,
+            119.52,
+            25.74,
+            10.296
+          ]
+        },
+        {
+          "name": "037 arm joint",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            420.552,
+            135.432,
+            5.6161,
+            5.6161
+          ]
+        },
+        {
+          "name": "038 arm joint",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            436.932,
+            116.712,
+            5.6161,
+            5.6161
+          ]
+        },
+        {
+          "name": "039 arm joint",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            462.672,
+            127.008,
+            5.6161,
+            5.616
+          ]
+        },
+        {
+          "name": "040 context cue",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            489.6,
+            108.72,
+            25.92,
+            25.92
+          ]
+        },
+        {
+          "name": "041 cue tile",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            491.76,
+            110.88,
+            7.2,
+            7.2
+          ]
+        },
+        {
+          "name": "042 cue tile",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            491.76,
+            125.28,
+            7.2,
+            7.2
+          ]
+        },
+        {
+          "name": "043 cue tile",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            498.96,
+            118.08,
+            7.2,
+            7.2
+          ]
+        },
+        {
+          "name": "044 cue tile",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            506.16,
+            110.88,
+            7.2,
+            7.2
+          ]
+        },
+        {
+          "name": "045 cue tile",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            506.16,
+            125.28,
+            7.2,
+            7.2
+          ]
+        },
+        {
+          "name": "046 evidence panel",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            540.0,
+            67.68,
+            162.72,
+            121.68
+          ]
+        },
+        {
+          "name": "047 evidence accent",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            540.0,
+            67.68,
+            162.72,
+            2.88
+          ]
+        },
+        {
+          "name": "048 evidence heading",
+          "kind": "sp",
+          "depth": 0,
+          "text": "感觉特异性",
+          "bounds_pt": [
+            547.2,
+            75.6,
+            148.32,
+            20.16
+          ]
+        },
+        {
+          "name": "049 evidence observation",
+          "kind": "sp",
+          "depth": 0,
+          "text": "视觉与本体感觉",
+          "bounds_pt": [
+            547.2,
+            153.3599,
+            148.32,
+            30.96
+          ]
+        },
+        {
+          "name": "050 eye outline",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            554.4,
+            113.76,
+            38.8801,
+            20.7361
+          ]
+        },
+        {
+          "name": "051 iris",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            568.008,
+            118.296,
+            11.6639,
+            11.664
+          ]
+        },
+        {
+          "name": "052 pupil",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            571.896,
+            122.184,
+            3.888,
+            3.888
+          ]
+        },
+        {
+          "name": "053 arm links / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            626.4,
+            114.48,
+            20.16,
+            23.04
+          ]
+        },
+        {
+          "name": "053 arm links / segment 2",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            646.56,
+            114.48,
+            31.68,
+            12.672
+          ]
+        },
+        {
+          "name": "054 arm contours / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            626.4,
+            114.48,
+            20.16,
+            23.04
+          ]
+        },
+        {
+          "name": "054 arm contours / segment 2",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            646.56,
+            114.48,
+            31.68,
+            12.672
+          ]
+        },
+        {
+          "name": "055 arm joint",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            622.9439,
+            134.064,
+            6.912,
+            6.912
+          ]
+        },
+        {
+          "name": "056 arm joint",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            643.104,
+            111.024,
+            6.912,
+            6.912
+          ]
+        },
+        {
+          "name": "057 arm joint",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            674.784,
+            123.696,
+            6.912,
+            6.912
+          ]
+        },
+        {
+          "name": "058 process section",
+          "kind": "sp",
+          "depth": 0,
+          "text": "学习过程",
+          "bounds_pt": [
+            17.28,
+            197.28,
+            165.6,
+            18.0
+          ]
+        },
+        {
+          "name": "059 training context band",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            164.88,
+            199.44,
+            126.0,
+            20.16
+          ]
+        },
+        {
+          "name": "060 training context",
+          "kind": "sp",
+          "depth": 0,
+          "text": "训练情境",
+          "bounds_pt": [
+            164.88,
+            199.44,
+            126.0,
+            20.16
+          ]
+        },
+        {
+          "name": "061 test context band",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            444.24,
+            199.44,
+            126.0,
+            20.16
+          ]
+        },
+        {
+          "name": "062 test context",
+          "kind": "sp",
+          "depth": 0,
+          "text": "测试情境",
+          "bounds_pt": [
+            444.24,
+            199.44,
+            126.0,
+            20.16
+          ]
+        },
+        {
+          "name": "063 learning stage",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            17.28,
+            230.4,
+            126.72,
+            72.0
+          ]
+        },
+        {
+          "name": "064 stage title",
+          "kind": "sp",
+          "depth": 0,
+          "text": "误差表征",
+          "bounds_pt": [
+            23.04,
+            233.9999,
+            115.2,
+            32.4
+          ]
+        },
+        {
+          "name": "065 stage meaning",
+          "kind": "sp",
+          "depth": 0,
+          "text": "视觉／本体感觉",
+          "bounds_pt": [
+            22.32,
+            269.9999,
+            116.64,
+            28.8
+          ]
+        },
+        {
+          "name": "066 process direction / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            145.44,
+            265.68,
+            10.08,
+            0.0
+          ]
+        },
+        {
+          "name": "067 learning stage",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            156.96,
+            230.4,
+            126.72,
+            72.0
+          ]
+        },
+        {
+          "name": "068 stage title",
+          "kind": "sp",
+          "depth": 0,
+          "text": "更新",
+          "bounds_pt": [
+            162.72,
+            233.9999,
+            115.2,
+            32.4
+          ]
+        },
+        {
+          "name": "069 stage meaning",
+          "kind": "sp",
+          "depth": 0,
+          "text": "什么发生改变",
+          "bounds_pt": [
+            162.0,
+            269.9999,
+            116.64,
+            28.8
+          ]
+        },
+        {
+          "name": "070 process direction / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            285.12,
+            265.68,
+            10.08,
+            0.0
+          ]
+        },
+        {
+          "name": "071 learning stage",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            296.64,
+            230.4,
+            126.72,
+            72.0
+          ]
+        },
+        {
+          "name": "072 stage title",
+          "kind": "sp",
+          "depth": 0,
+          "text": "记忆",
+          "bounds_pt": [
+            302.4,
+            233.9999,
+            115.2,
+            32.4
+          ]
+        },
+        {
+          "name": "073 stage meaning",
+          "kind": "sp",
+          "depth": 0,
+          "text": "什么得以保留",
+          "bounds_pt": [
+            301.68,
+            269.9999,
+            116.64,
+            28.8
+          ]
+        },
+        {
+          "name": "074 process direction / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            424.8,
+            265.68,
+            10.08,
+            0.0
+          ]
+        },
+        {
+          "name": "075 learning stage",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            436.32,
+            230.4,
+            126.72,
+            72.0
+          ]
+        },
+        {
+          "name": "076 stage title",
+          "kind": "sp",
+          "depth": 0,
+          "text": "表达",
+          "bounds_pt": [
+            442.08,
+            233.9999,
+            115.2,
+            32.4
+          ]
+        },
+        {
+          "name": "077 stage meaning",
+          "kind": "sp",
+          "depth": 0,
+          "text": "什么被读出",
+          "bounds_pt": [
+            441.36,
+            269.9999,
+            116.64,
+            28.8
+          ]
+        },
+        {
+          "name": "078 process direction / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            564.48,
+            265.68,
+            10.08,
+            0.0
+          ]
+        },
+        {
+          "name": "079 learning stage",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            576.0,
+            230.4,
+            126.72,
+            72.0
+          ]
+        },
+        {
+          "name": "080 stage title",
+          "kind": "sp",
+          "depth": 0,
+          "text": "运动",
+          "bounds_pt": [
+            581.76,
+            233.9999,
+            115.2,
+            32.4
+          ]
+        },
+        {
+          "name": "081 stage meaning",
+          "kind": "sp",
+          "depth": 0,
+          "text": "力／运动学／肌电",
+          "bounds_pt": [
+            581.04,
+            269.9999,
+            116.64,
+            28.8
+          ]
+        },
+        {
+          "name": "082 training acts on update / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            227.52,
+            220.32,
+            0.0,
+            8.64
+          ]
+        },
+        {
+          "name": "083 test acts on expression / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            506.88,
+            220.32,
+            0.0,
+            8.64
+          ]
+        },
+        {
+          "name": "084 comparison axis",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            17.28,
+            315.36,
+            221.76,
+            45.36
+          ]
+        },
+        {
+          "name": "085 axis",
+          "kind": "sp",
+          "depth": 0,
+          "text": "感觉通道",
+          "bounds_pt": [
+            25.92,
+            318.24,
+            204.48,
+            18.72
+          ]
+        },
+        {
+          "name": "086 axis examples",
+          "kind": "sp",
+          "depth": 0,
+          "text": "视觉／本体感觉误差",
+          "bounds_pt": [
+            25.92,
+            337.68,
+            204.48,
+            18.0
+          ]
+        },
+        {
+          "name": "087 comparison axis",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            249.12,
+            315.36,
+            221.76,
+            45.36
+          ]
+        },
+        {
+          "name": "088 axis",
+          "kind": "sp",
+          "depth": 0,
+          "text": "控制输出",
+          "bounds_pt": [
+            257.76,
+            318.24,
+            204.48,
+            18.72
+          ]
+        },
+        {
+          "name": "089 axis examples",
+          "kind": "sp",
+          "depth": 0,
+          "text": "预先补偿／纠错响应",
+          "bounds_pt": [
+            257.76,
+            337.68,
+            204.48,
+            18.0
+          ]
+        },
+        {
+          "name": "090 comparison axis",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            480.96,
+            315.36,
+            221.76,
+            45.36
+          ]
+        },
+        {
+          "name": "091 axis",
+          "kind": "sp",
+          "depth": 0,
+          "text": "时间尺度",
+          "bounds_pt": [
+            489.6,
+            318.24,
+            204.48,
+            18.72
+          ]
+        },
+        {
+          "name": "092 axis examples",
+          "kind": "sp",
+          "depth": 0,
+          "text": "快／慢成分",
+          "bounds_pt": [
+            489.6,
+            337.68,
+            204.48,
+            18.0
+          ]
+        },
+        {
+          "name": "093 measurement number",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            17.28,
+            379.44,
+            23.04,
+            23.04
+          ]
+        },
+        {
+          "name": "094 measurement number",
+          "kind": "sp",
+          "depth": 0,
+          "text": "1",
+          "bounds_pt": [
+            17.28,
+            379.4399,
+            23.04,
+            23.04
+          ]
+        },
+        {
+          "name": "095 measurement heading",
+          "kind": "sp",
+          "depth": 0,
+          "text": "配对读出",
+          "bounds_pt": [
+            48.24,
+            376.56,
+            189.36,
+            21.6
+          ]
+        },
+        {
+          "name": "096 measurement detail",
+          "kind": "sp",
+          "depth": 0,
+          "text": "纠错＋下一试次学习",
+          "bounds_pt": [
+            48.24,
+            400.3199,
+            189.36,
+            25.92
+          ]
+        },
+        {
+          "name": "097 measurement number",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            249.12,
+            379.44,
+            23.04,
+            23.04
+          ]
+        },
+        {
+          "name": "098 measurement number",
+          "kind": "sp",
+          "depth": 0,
+          "text": "2",
+          "bounds_pt": [
+            249.12,
+            379.4399,
+            23.04,
+            23.04
+          ]
+        },
+        {
+          "name": "099 measurement heading",
+          "kind": "sp",
+          "depth": 0,
+          "text": "交叉情境",
+          "bounds_pt": [
+            280.08,
+            376.56,
+            189.36,
+            21.6
+          ]
+        },
+        {
+          "name": "100 measurement detail",
+          "kind": "sp",
+          "depth": 0,
+          "text": "训练线索×测试线索",
+          "bounds_pt": [
+            280.08,
+            400.3199,
+            189.36,
+            25.92
+          ]
+        },
+        {
+          "name": "101 measurement number",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            480.96,
+            379.44,
+            23.04,
+            23.04
+          ]
+        },
+        {
+          "name": "102 measurement number",
+          "kind": "sp",
+          "depth": 0,
+          "text": "3",
+          "bounds_pt": [
+            480.96,
+            379.4399,
+            23.04,
+            23.04
+          ]
+        },
+        {
+          "name": "103 measurement heading",
+          "kind": "sp",
+          "depth": 0,
+          "text": "校准输入",
+          "bounds_pt": [
+            511.92,
+            376.56,
+            189.36,
+            21.6
+          ]
+        },
+        {
+          "name": "104 measurement detail",
+          "kind": "sp",
+          "depth": 0,
+          "text": "感知＋力学",
+          "bounds_pt": [
+            511.92,
+            400.3199,
+            189.36,
+            25.92
+          ]
+        },
+        {
+          "name": "105 footer rule / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            17.28,
+            438.48,
+            685.44,
+            0.0
+          ]
+        },
+        {
+          "name": "106 scope",
+          "kind": "sp",
+          "depth": 0,
+          "text": "实验组织的概念顺序；各环节之间的关系需通过实验检验。",
+          "bounds_pt": [
+            17.28,
+            442.08,
+            685.44,
+            17.28
+          ]
+        }
+      ]
+    },
+    {
+      "slide_xml": "ppt/slides/slide4.xml",
+      "counts": {
+        "sp": 40,
+        "cxnSp": 17
+      },
+      "direct_gradient_fills": 0,
+      "warnings": [],
+      "objects": [
+        {
+          "name": "001 figure title",
+          "kind": "sp",
+          "depth": 0,
+          "text": "区分竞争解释的测量",
+          "bounds_pt": [
+            17.28,
+            8.6399,
+            685.44,
+            27.36
+          ]
+        },
+        {
+          "name": "002 figure subtitle",
+          "kind": "sp",
+          "depth": 0,
+          "text": "时间响应 → 报告校准 → 跨研究预测",
+          "bounds_pt": [
+            17.28,
+            37.44,
+            685.44,
+            20.16
+          ]
+        },
+        {
+          "name": "003 temporal panel",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            17.28,
+            65.52,
+            685.44,
+            120.24
+          ]
+        },
+        {
+          "name": "004 temporal title",
+          "kind": "sp",
+          "depth": 0,
+          "text": "a  分解时间成分",
+          "bounds_pt": [
+            27.36,
+            70.56,
+            648.0,
+            20.16
+          ]
+        },
+        {
+          "name": "005 inputs",
+          "kind": "sp",
+          "depth": 0,
+          "text": "视觉输入\n本体感觉输入",
+          "bounds_pt": [
+            31.68,
+            104.3999,
+            118.8,
+            46.08
+          ]
+        },
+        {
+          "name": "006 temporal mode",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            208.8,
+            99.36,
+            100.08,
+            25.92
+          ]
+        },
+        {
+          "name": "007 mode label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "快成分",
+          "bounds_pt": [
+            208.8,
+            99.3599,
+            100.08,
+            25.92
+          ]
+        },
+        {
+          "name": "008 input access / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            153.36,
+            122.4,
+            27.36,
+            0.0
+          ]
+        },
+        {
+          "name": "008 input access / segment 2",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            180.72,
+            112.32,
+            0.0,
+            10.08
+          ]
+        },
+        {
+          "name": "008 input access / segment 3",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            180.72,
+            112.32,
+            25.2,
+            0.0
+          ]
+        },
+        {
+          "name": "009 temporal mode",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            208.8,
+            134.64,
+            100.08,
+            25.92
+          ]
+        },
+        {
+          "name": "010 mode label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "慢成分",
+          "bounds_pt": [
+            208.8,
+            134.6399,
+            100.08,
+            25.92
+          ]
+        },
+        {
+          "name": "011 input access / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            153.36,
+            122.4,
+            27.36,
+            0.0
+          ]
+        },
+        {
+          "name": "011 input access / segment 2",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            180.72,
+            122.4,
+            0.0,
+            25.2
+          ]
+        },
+        {
+          "name": "011 input access / segment 3",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            180.72,
+            147.6,
+            25.2,
+            0.0
+          ]
+        },
+        {
+          "name": "012 output",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            465.12,
+            99.36,
+            203.76,
+            25.92
+          ]
+        },
+        {
+          "name": "013 output label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "预先补偿力",
+          "bounds_pt": [
+            470.16,
+            99.3599,
+            193.68,
+            25.92
+          ]
+        },
+        {
+          "name": "014 output",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            465.12,
+            134.64,
+            203.76,
+            25.92
+          ]
+        },
+        {
+          "name": "015 output label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "快速纠错",
+          "bounds_pt": [
+            470.16,
+            134.6399,
+            193.68,
+            25.92
+          ]
+        },
+        {
+          "name": "016 fixed readout weight / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            311.04,
+            112.32,
+            150.48,
+            0.0
+          ]
+        },
+        {
+          "name": "017 fixed readout weight / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            311.04,
+            112.32,
+            150.48,
+            35.28
+          ]
+        },
+        {
+          "name": "018 fixed readout weight / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            311.04,
+            112.32,
+            150.48,
+            35.28
+          ]
+        },
+        {
+          "name": "019 fixed readout weight / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            311.04,
+            147.6,
+            150.48,
+            0.0
+          ]
+        },
+        {
+          "name": "020 fixed readout label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "固定读出",
+          "bounds_pt": [
+            327.6,
+            90.72,
+            119.52,
+            15.84
+          ]
+        },
+        {
+          "name": "021 temporal conclusion",
+          "kind": "sp",
+          "depth": 0,
+          "text": "快慢成分的固定混合，也能产生随延迟变化的输出比例。",
+          "bounds_pt": [
+            31.68,
+            163.44,
+            645.84,
+            18.72
+          ]
+        },
+        {
+          "name": "022 calibration panel",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            17.28,
+            194.4,
+            685.44,
+            124.56
+          ]
+        },
+        {
+          "name": "023 calibration title",
+          "kind": "sp",
+          "depth": 0,
+          "text": "b  校准报告成分",
+          "bounds_pt": [
+            27.36,
+            199.44,
+            648.0,
+            20.16
+          ]
+        },
+        {
+          "name": "024 human modes",
+          "kind": "sp",
+          "depth": 0,
+          "text": "机器人引导人体手臂\n（被动运动）\n自主运动",
+          "bounds_pt": [
+            31.68,
+            229.6799,
+            149.76,
+            54.72
+          ]
+        },
+        {
+          "name": "025 latent contribution",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            206.64,
+            225.36,
+            113.76,
+            25.92
+          ]
+        },
+        {
+          "name": "026 latent label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "感觉变化",
+          "bounds_pt": [
+            206.64,
+            225.3599,
+            113.76,
+            25.92
+          ]
+        },
+        {
+          "name": "027 latent contribution",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            206.64,
+            259.2,
+            113.76,
+            25.92
+          ]
+        },
+        {
+          "name": "028 latent label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "学习状态",
+          "bounds_pt": [
+            206.64,
+            259.1999,
+            113.76,
+            25.92
+          ]
+        },
+        {
+          "name": "029 localization report",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            474.48,
+            225.36,
+            194.4,
+            25.92
+          ]
+        },
+        {
+          "name": "030 report label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "被动定位报告",
+          "bounds_pt": [
+            478.8,
+            225.3599,
+            185.76,
+            25.92
+          ]
+        },
+        {
+          "name": "031 localization report",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            474.48,
+            259.2,
+            194.4,
+            25.92
+          ]
+        },
+        {
+          "name": "032 report label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "主动定位报告",
+          "bounds_pt": [
+            478.8,
+            259.1999,
+            185.76,
+            25.92
+          ]
+        },
+        {
+          "name": "033 candidate report loading / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            322.56,
+            238.32,
+            148.32,
+            0.0
+          ]
+        },
+        {
+          "name": "034 candidate report loading / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            322.56,
+            238.32,
+            148.32,
+            33.84
+          ]
+        },
+        {
+          "name": "035 candidate report loading / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            322.56,
+            238.32,
+            148.32,
+            33.84
+          ]
+        },
+        {
+          "name": "036 candidate report loading / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            322.56,
+            272.16,
+            148.32,
+            0.0
+          ]
+        },
+        {
+          "name": "037 loading legend",
+          "kind": "sp",
+          "depth": 0,
+          "text": "待检验的报告载荷",
+          "bounds_pt": [
+            336.96,
+            217.44,
+            122.4,
+            15.84
+          ]
+        },
+        {
+          "name": "038 calibration conclusion",
+          "kind": "sp",
+          "depth": 0,
+          "text": "通过独立校准约束每项报告中的感觉与学习状态贡献。",
+          "bounds_pt": [
+            31.68,
+            293.76,
+            645.84,
+            18.72
+          ]
+        },
+        {
+          "name": "039 prediction panel",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            17.28,
+            327.6,
+            685.44,
+            104.4
+          ]
+        },
+        {
+          "name": "040 prediction title",
+          "kind": "sp",
+          "depth": 0,
+          "text": "c  预测另一项研究",
+          "bounds_pt": [
+            27.36,
+            332.64,
+            648.0,
+            20.16
+          ]
+        },
+        {
+          "name": "041 source data",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            31.68,
+            363.6,
+            119.52,
+            34.56
+          ]
+        },
+        {
+          "name": "042 source label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "来源研究\n拟合＋选择惩罚项",
+          "bounds_pt": [
+            31.68,
+            363.5999,
+            119.52,
+            34.56
+          ]
+        },
+        {
+          "name": "043 freeze direction / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            154.08,
+            380.88,
+            22.32,
+            0.0
+          ]
+        },
+        {
+          "name": "044 frozen parameters",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            179.28,
+            363.6,
+            111.6,
+            34.56
+          ]
+        },
+        {
+          "name": "045 frozen label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "冻结参数",
+          "bounds_pt": [
+            179.28,
+            363.5999,
+            111.6,
+            34.56
+          ]
+        },
+        {
+          "name": "046 predict direction / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            293.76,
+            380.88,
+            25.2,
+            0.0
+          ]
+        },
+        {
+          "name": "047 target predictions",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            321.84,
+            360.72,
+            180.72,
+            43.2
+          ]
+        },
+        {
+          "name": "048 target labels",
+          "kind": "sp",
+          "depth": 0,
+          "text": "目标研究预测\n共同／分别时间成分",
+          "bounds_pt": [
+            326.88,
+            361.4399,
+            170.64,
+            41.76
+          ]
+        },
+        {
+          "name": "049 score direction / segment 1",
+          "kind": "cxnSp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            505.44,
+            380.88,
+            25.2,
+            0.0
+          ]
+        },
+        {
+          "name": "050 heldout score",
+          "kind": "sp",
+          "depth": 0,
+          "text": "",
+          "bounds_pt": [
+            533.52,
+            360.72,
+            135.36,
+            43.2
+          ]
+        },
+        {
+          "name": "051 score label",
+          "kind": "sp",
+          "depth": 0,
+          "text": "留出数据评分\n分别评估两个输出",
+          "bounds_pt": [
+            537.12,
+            361.4399,
+            128.16,
+            41.76
+          ]
+        },
+        {
+          "name": "052 prediction conclusion",
+          "kind": "sp",
+          "depth": 0,
+          "text": "比较完整留出响应，同时报告模型恢复和分析敏感性。",
+          "bounds_pt": [
+            31.68,
+            407.52,
+            645.84,
+            18.0
+          ]
+        },
+        {
+          "name": "053 supported inference",
+          "kind": "sp",
+          "depth": 0,
+          "text": "推断目标：可迁移的输入—输出动态；神经共享需选择性干预检验。",
+          "bounds_pt": [
+            17.28,
+            437.76,
+            685.44,
+            21.6
+          ]
+        }
+      ]
+    }
+  ]
+}

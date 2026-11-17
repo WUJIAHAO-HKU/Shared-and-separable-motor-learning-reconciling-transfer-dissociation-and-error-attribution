@@ -1,0 +1,521 @@
+{
+    "scale":  0.72,
+    "shapes":  [
+                   {
+                       "source":  "001 figure title",
+                       "name":  "001 figure title",
+                       "type":  17,
+                       "x_pt":  17.280000686645508,
+                       "y_pt":  8.6399211883544922,
+                       "w_pt":  685.44000244140625,
+                       "h_pt":  27.360000610351563
+                   },
+                   {
+                       "source":  "002 figure subtitle",
+                       "name":  "002 figure subtitle",
+                       "type":  17,
+                       "x_pt":  17.280000686645508,
+                       "y_pt":  37.439998626708984,
+                       "w_pt":  685.44000244140625,
+                       "h_pt":  20.159999847412109
+                   },
+                   {
+                       "source":  "003 temporal panel",
+                       "name":  "003 temporal panel",
+                       "type":  1,
+                       "x_pt":  17.280000686645508,
+                       "y_pt":  65.5199966430664,
+                       "w_pt":  685.44000244140625,
+                       "h_pt":  120.23999786376953
+                   },
+                   {
+                       "source":  "004 temporal title",
+                       "name":  "004 temporal title",
+                       "type":  17,
+                       "x_pt":  27.360000610351563,
+                       "y_pt":  70.55999755859375,
+                       "w_pt":  648,
+                       "h_pt":  20.159999847412109
+                   },
+                   {
+                       "source":  "005 inputs",
+                       "name":  "005 inputs",
+                       "type":  17,
+                       "x_pt":  31.680000305175781,
+                       "y_pt":  104.39991760253906,
+                       "w_pt":  118.80000305175781,
+                       "h_pt":  46.080001831054688
+                   },
+                   {
+                       "source":  "006 temporal mode",
+                       "name":  "006 temporal mode",
+                       "type":  1,
+                       "x_pt":  208.80000305175781,
+                       "y_pt":  99.360000610351563,
+                       "w_pt":  100.08000183105469,
+                       "h_pt":  25.920000076293945
+                   },
+                   {
+                       "source":  "007 mode label",
+                       "name":  "007 mode label",
+                       "type":  17,
+                       "x_pt":  208.80000305175781,
+                       "y_pt":  99.35992431640625,
+                       "w_pt":  100.08000183105469,
+                       "h_pt":  25.920000076293945
+                   },
+                   {
+                       "source":  "008 input access",
+                       "name":  "008 input access / segment 1",
+                       "type":  9,
+                       "x_pt":  153.36000061035156,
+                       "y_pt":  122.40000152587891,
+                       "w_pt":  27.360000610351563,
+                       "h_pt":  0
+                   },
+                   {
+                       "source":  "008 input access",
+                       "name":  "008 input access / segment 2",
+                       "type":  9,
+                       "x_pt":  180.72000122070313,
+                       "y_pt":  112.31999969482422,
+                       "w_pt":  0,
+                       "h_pt":  10.079999923706055
+                   },
+                   {
+                       "source":  "008 input access",
+                       "name":  "008 input access / segment 3",
+                       "type":  9,
+                       "x_pt":  180.72000122070313,
+                       "y_pt":  112.31999969482422,
+                       "w_pt":  25.200000762939453,
+                       "h_pt":  0
+                   },
+                   {
+                       "source":  "009 temporal mode",
+                       "name":  "009 temporal mode",
+                       "type":  1,
+                       "x_pt":  208.80000305175781,
+                       "y_pt":  134.63999938964844,
+                       "w_pt":  100.08000183105469,
+                       "h_pt":  25.920000076293945
+                   },
+                   {
+                       "source":  "010 mode label",
+                       "name":  "010 mode label",
+                       "type":  17,
+                       "x_pt":  208.80000305175781,
+                       "y_pt":  134.63992309570313,
+                       "w_pt":  100.08000183105469,
+                       "h_pt":  25.920000076293945
+                   },
+                   {
+                       "source":  "011 input access",
+                       "name":  "011 input access / segment 1",
+                       "type":  9,
+                       "x_pt":  153.36000061035156,
+                       "y_pt":  122.40000152587891,
+                       "w_pt":  27.360000610351563,
+                       "h_pt":  0
+                   },
+                   {
+                       "source":  "011 input access",
+                       "name":  "011 input access / segment 2",
+                       "type":  9,
+                       "x_pt":  180.72000122070313,
+                       "y_pt":  122.40000152587891,
+                       "w_pt":  0,
+                       "h_pt":  25.200000762939453
+                   },
+                   {
+                       "source":  "011 input access",
+                       "name":  "011 input access / segment 3",
+                       "type":  9,
+                       "x_pt":  180.72000122070313,
+                       "y_pt":  147.60000610351563,
+                       "w_pt":  25.200000762939453,
+                       "h_pt":  0
+                   },
+                   {
+                       "source":  "012 output",
+                       "name":  "012 output",
+                       "type":  1,
+                       "x_pt":  465.1199951171875,
+                       "y_pt":  99.360000610351563,
+                       "w_pt":  203.75999450683594,
+                       "h_pt":  25.920000076293945
+                   },
+                   {
+                       "source":  "013 output label",
+                       "name":  "013 output label",
+                       "type":  17,
+                       "x_pt":  470.16000366210938,
+                       "y_pt":  99.35992431640625,
+                       "w_pt":  193.67999267578125,
+                       "h_pt":  25.920000076293945
+                   },
+                   {
+                       "source":  "014 output",
+                       "name":  "014 output",
+                       "type":  1,
+                       "x_pt":  465.1199951171875,
+                       "y_pt":  134.63999938964844,
+                       "w_pt":  203.75999450683594,
+                       "h_pt":  25.920000076293945
+                   },
+                   {
+                       "source":  "015 output label",
+                       "name":  "015 output label",
+                       "type":  17,
+                       "x_pt":  470.16000366210938,
+                       "y_pt":  134.63992309570313,
+                       "w_pt":  193.67999267578125,
+                       "h_pt":  25.920000076293945
+                   },
+                   {
+                       "source":  "016 fixed readout weight",
+                       "name":  "016 fixed readout weight / segment 1",
+                       "type":  9,
+                       "x_pt":  311.04000854492188,
+                       "y_pt":  112.31999969482422,
+                       "w_pt":  150.47999572753906,
+                       "h_pt":  0
+                   },
+                   {
+                       "source":  "017 fixed readout weight",
+                       "name":  "017 fixed readout weight / segment 1",
+                       "type":  9,
+                       "x_pt":  311.04000854492188,
+                       "y_pt":  112.31999969482422,
+                       "w_pt":  150.47999572753906,
+                       "h_pt":  35.279998779296875
+                   },
+                   {
+                       "source":  "018 fixed readout weight",
+                       "name":  "018 fixed readout weight / segment 1",
+                       "type":  9,
+                       "x_pt":  311.04000854492188,
+                       "y_pt":  112.31999969482422,
+                       "w_pt":  150.47999572753906,
+                       "h_pt":  35.279998779296875
+                   },
+                   {
+                       "source":  "019 fixed readout weight",
+                       "name":  "019 fixed readout weight / segment 1",
+                       "type":  9,
+                       "x_pt":  311.04000854492188,
+                       "y_pt":  147.60000610351563,
+                       "w_pt":  150.47999572753906,
+                       "h_pt":  0
+                   },
+                   {
+                       "source":  "020 fixed readout label",
+                       "name":  "020 fixed readout label",
+                       "type":  17,
+                       "x_pt":  327.60000610351563,
+                       "y_pt":  90.720001220703125,
+                       "w_pt":  119.51999664306641,
+                       "h_pt":  15.840000152587891
+                   },
+                   {
+                       "source":  "021 temporal conclusion",
+                       "name":  "021 temporal conclusion",
+                       "type":  17,
+                       "x_pt":  31.680000305175781,
+                       "y_pt":  163.44000244140625,
+                       "w_pt":  645.84002685546875,
+                       "h_pt":  18.719999313354492
+                   },
+                   {
+                       "source":  "022 calibration panel",
+                       "name":  "022 calibration panel",
+                       "type":  1,
+                       "x_pt":  17.280000686645508,
+                       "y_pt":  194.39999389648438,
+                       "w_pt":  685.44000244140625,
+                       "h_pt":  124.55999755859375
+                   },
+                   {
+                       "source":  "023 calibration title",
+                       "name":  "023 calibration title",
+                       "type":  17,
+                       "x_pt":  27.360000610351563,
+                       "y_pt":  199.44000244140625,
+                       "w_pt":  648,
+                       "h_pt":  20.159999847412109
+                   },
+                   {
+                       "source":  "024 human modes",
+                       "name":  "024 human modes",
+                       "type":  17,
+                       "x_pt":  31.680000305175781,
+                       "y_pt":  229.67991638183594,
+                       "w_pt":  149.75999450683594,
+                       "h_pt":  54.720001220703125
+                   },
+                   {
+                       "source":  "025 latent contribution",
+                       "name":  "025 latent contribution",
+                       "type":  1,
+                       "x_pt":  206.63999938964844,
+                       "y_pt":  225.36000061035156,
+                       "w_pt":  113.76000213623047,
+                       "h_pt":  25.920000076293945
+                   },
+                   {
+                       "source":  "026 latent label",
+                       "name":  "026 latent label",
+                       "type":  17,
+                       "x_pt":  206.63999938964844,
+                       "y_pt":  225.35992431640625,
+                       "w_pt":  113.76000213623047,
+                       "h_pt":  25.920000076293945
+                   },
+                   {
+                       "source":  "027 latent contribution",
+                       "name":  "027 latent contribution",
+                       "type":  1,
+                       "x_pt":  206.63999938964844,
+                       "y_pt":  259.20001220703125,
+                       "w_pt":  113.76000213623047,
+                       "h_pt":  25.920000076293945
+                   },
+                   {
+                       "source":  "028 latent label",
+                       "name":  "028 latent label",
+                       "type":  17,
+                       "x_pt":  206.63999938964844,
+                       "y_pt":  259.19992065429688,
+                       "w_pt":  113.76000213623047,
+                       "h_pt":  25.920000076293945
+                   },
+                   {
+                       "source":  "029 localization report",
+                       "name":  "029 localization report",
+                       "type":  1,
+                       "x_pt":  474.48001098632813,
+                       "y_pt":  225.36000061035156,
+                       "w_pt":  194.39999389648438,
+                       "h_pt":  25.920000076293945
+                   },
+                   {
+                       "source":  "030 report label",
+                       "name":  "030 report label",
+                       "type":  17,
+                       "x_pt":  478.79998779296875,
+                       "y_pt":  225.35992431640625,
+                       "w_pt":  185.75999450683594,
+                       "h_pt":  25.920000076293945
+                   },
+                   {
+                       "source":  "031 localization report",
+                       "name":  "031 localization report",
+                       "type":  1,
+                       "x_pt":  474.48001098632813,
+                       "y_pt":  259.20001220703125,
+                       "w_pt":  194.39999389648438,
+                       "h_pt":  25.920000076293945
+                   },
+                   {
+                       "source":  "032 report label",
+                       "name":  "032 report label",
+                       "type":  17,
+                       "x_pt":  478.79998779296875,
+                       "y_pt":  259.19992065429688,
+                       "w_pt":  185.75999450683594,
+                       "h_pt":  25.920000076293945
+                   },
+                   {
+                       "source":  "033 candidate report loading",
+                       "name":  "033 candidate report loading / segment 1",
+                       "type":  9,
+                       "x_pt":  322.55999755859375,
+                       "y_pt":  238.32000732421875,
+                       "w_pt":  148.32000732421875,
+                       "h_pt":  0
+                   },
+                   {
+                       "source":  "034 candidate report loading",
+                       "name":  "034 candidate report loading / segment 1",
+                       "type":  9,
+                       "x_pt":  322.55999755859375,
+                       "y_pt":  238.32000732421875,
+                       "w_pt":  148.32000732421875,
+                       "h_pt":  33.840000152587891
+                   },
+                   {
+                       "source":  "035 candidate report loading",
+                       "name":  "035 candidate report loading / segment 1",
+                       "type":  9,
+                       "x_pt":  322.55999755859375,
+                       "y_pt":  238.32000732421875,
+                       "w_pt":  148.32000732421875,
+                       "h_pt":  33.840000152587891
+                   },
+                   {
+                       "source":  "036 candidate report loading",
+                       "name":  "036 candidate report loading / segment 1",
+                       "type":  9,
+                       "x_pt":  322.55999755859375,
+                       "y_pt":  272.16000366210938,
+                       "w_pt":  148.32000732421875,
+                       "h_pt":  0
+                   },
+                   {
+                       "source":  "037 loading legend",
+                       "name":  "037 loading legend",
+                       "type":  17,
+                       "x_pt":  336.95999145507813,
+                       "y_pt":  217.44000244140625,
+                       "w_pt":  122.40000152587891,
+                       "h_pt":  15.840000152587891
+                   },
+                   {
+                       "source":  "038 calibration conclusion",
+                       "name":  "038 calibration conclusion",
+                       "type":  17,
+                       "x_pt":  31.680000305175781,
+                       "y_pt":  293.760009765625,
+                       "w_pt":  645.84002685546875,
+                       "h_pt":  18.719999313354492
+                   },
+                   {
+                       "source":  "039 prediction panel",
+                       "name":  "039 prediction panel",
+                       "type":  1,
+                       "x_pt":  17.280000686645508,
+                       "y_pt":  327.60000610351563,
+                       "w_pt":  685.44000244140625,
+                       "h_pt":  104.40000152587891
+                   },
+                   {
+                       "source":  "040 prediction title",
+                       "name":  "040 prediction title",
+                       "type":  17,
+                       "x_pt":  27.360000610351563,
+                       "y_pt":  332.6400146484375,
+                       "w_pt":  648,
+                       "h_pt":  20.159999847412109
+                   },
+                   {
+                       "source":  "041 source data",
+                       "name":  "041 source data",
+                       "type":  1,
+                       "x_pt":  31.680000305175781,
+                       "y_pt":  363.60000610351563,
+                       "w_pt":  119.51999664306641,
+                       "h_pt":  34.560001373291016
+                   },
+                   {
+                       "source":  "042 source label",
+                       "name":  "042 source label",
+                       "type":  17,
+                       "x_pt":  31.680000305175781,
+                       "y_pt":  363.59991455078125,
+                       "w_pt":  119.51999664306641,
+                       "h_pt":  34.560001373291016
+                   },
+                   {
+                       "source":  "043 freeze direction",
+                       "name":  "043 freeze direction / segment 1",
+                       "type":  9,
+                       "x_pt":  154.08000183105469,
+                       "y_pt":  380.8800048828125,
+                       "w_pt":  22.319999694824219,
+                       "h_pt":  0
+                   },
+                   {
+                       "source":  "044 frozen parameters",
+                       "name":  "044 frozen parameters",
+                       "type":  1,
+                       "x_pt":  179.27999877929688,
+                       "y_pt":  363.60000610351563,
+                       "w_pt":  111.59999847412109,
+                       "h_pt":  34.560001373291016
+                   },
+                   {
+                       "source":  "045 frozen label",
+                       "name":  "045 frozen label",
+                       "type":  17,
+                       "x_pt":  179.27999877929688,
+                       "y_pt":  363.59991455078125,
+                       "w_pt":  111.59999847412109,
+                       "h_pt":  34.560001373291016
+                   },
+                   {
+                       "source":  "046 predict direction",
+                       "name":  "046 predict direction / segment 1",
+                       "type":  9,
+                       "x_pt":  293.760009765625,
+                       "y_pt":  380.8800048828125,
+                       "w_pt":  25.200000762939453,
+                       "h_pt":  0
+                   },
+                   {
+                       "source":  "047 target predictions",
+                       "name":  "047 target predictions",
+                       "type":  1,
+                       "x_pt":  321.83999633789063,
+                       "y_pt":  360.72000122070313,
+                       "w_pt":  180.72000122070313,
+                       "h_pt":  43.200000762939453
+                   },
+                   {
+                       "source":  "048 target labels",
+                       "name":  "048 target labels",
+                       "type":  17,
+                       "x_pt":  326.8800048828125,
+                       "y_pt":  361.43991088867188,
+                       "w_pt":  170.63999938964844,
+                       "h_pt":  41.7599983215332
+                   },
+                   {
+                       "source":  "049 score direction",
+                       "name":  "049 score direction / segment 1",
+                       "type":  9,
+                       "x_pt":  505.44000244140625,
+                       "y_pt":  380.8800048828125,
+                       "w_pt":  25.200000762939453,
+                       "h_pt":  0
+                   },
+                   {
+                       "source":  "050 heldout score",
+                       "name":  "050 heldout score",
+                       "type":  1,
+                       "x_pt":  533.52001953125,
+                       "y_pt":  360.72000122070313,
+                       "w_pt":  135.36000061035156,
+                       "h_pt":  43.200000762939453
+                   },
+                   {
+                       "source":  "051 score label",
+                       "name":  "051 score label",
+                       "type":  17,
+                       "x_pt":  537.1199951171875,
+                       "y_pt":  361.43991088867188,
+                       "w_pt":  128.16000366210938,
+                       "h_pt":  41.7599983215332
+                   },
+                   {
+                       "source":  "052 prediction conclusion",
+                       "name":  "052 prediction conclusion",
+                       "type":  17,
+                       "x_pt":  31.680000305175781,
+                       "y_pt":  407.51998901367188,
+                       "w_pt":  645.84002685546875,
+                       "h_pt":  18
+                   },
+                   {
+                       "source":  "053 supported inference",
+                       "name":  "053 supported inference",
+                       "type":  17,
+                       "x_pt":  17.280000686645508,
+                       "y_pt":  437.760009765625,
+                       "w_pt":  685.44000244140625,
+                       "h_pt":  21.600000381469727
+                   }
+               ],
+    "warnings":  [
+
+                 ]
+}

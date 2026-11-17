@@ -1,0 +1,480 @@
+[
+  {
+    "file": "perspective_en",
+    "pages": 13,
+    "page_checks": [
+      {
+        "page": 1,
+        "chars": 3391,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 2,
+        "chars": 3345,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 3,
+        "chars": 4569,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 4,
+        "chars": 4316,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 5,
+        "chars": 4587,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 6,
+        "chars": 4285,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 7,
+        "chars": 4319,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 8,
+        "chars": 3340,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 9,
+        "chars": 4176,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 10,
+        "chars": 4861,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 11,
+        "chars": 1834,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 12,
+        "chars": 3804,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 13,
+        "chars": 4546,
+        "out_of_safe_page": 0
+      }
+    ],
+    "latex_issues": []
+  },
+  {
+    "file": "perspective_zh",
+    "pages": 11,
+    "page_checks": [
+      {
+        "page": 1,
+        "chars": 1507,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 2,
+        "chars": 1275,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 3,
+        "chars": 1736,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 4,
+        "chars": 1758,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 5,
+        "chars": 1564,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 6,
+        "chars": 1675,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 7,
+        "chars": 1202,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 8,
+        "chars": 2036,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 9,
+        "chars": 714,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 10,
+        "chars": 4284,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 11,
+        "chars": 3138,
+        "out_of_safe_page": 0
+      }
+    ],
+    "latex_issues": []
+  },
+  {
+    "file": "evidence_atlas_en",
+    "pages": 33,
+    "page_checks": [
+      {
+        "page": 1,
+        "chars": 1831,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 2,
+        "chars": 1934,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 3,
+        "chars": 2071,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 4,
+        "chars": 2040,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 5,
+        "chars": 2061,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 6,
+        "chars": 1928,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 7,
+        "chars": 1785,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 8,
+        "chars": 1858,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 9,
+        "chars": 2301,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 10,
+        "chars": 2270,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 11,
+        "chars": 1945,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 12,
+        "chars": 2192,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 13,
+        "chars": 2378,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 14,
+        "chars": 2037,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 15,
+        "chars": 1964,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 16,
+        "chars": 846,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 17,
+        "chars": 1360,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 18,
+        "chars": 1377,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 19,
+        "chars": 1377,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 20,
+        "chars": 1714,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 21,
+        "chars": 1691,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 22,
+        "chars": 1327,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 23,
+        "chars": 1376,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 24,
+        "chars": 1369,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 25,
+        "chars": 1314,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 26,
+        "chars": 921,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 27,
+        "chars": 2046,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 28,
+        "chars": 1445,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 29,
+        "chars": 1029,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 30,
+        "chars": 393,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 31,
+        "chars": 1898,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 32,
+        "chars": 5765,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 33,
+        "chars": 1968,
+        "out_of_safe_page": 0
+      }
+    ],
+    "latex_issues": []
+  },
+  {
+    "file": "evidence_atlas_zh",
+    "pages": 33,
+    "page_checks": [
+      {
+        "page": 1,
+        "chars": 620,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 2,
+        "chars": 798,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 3,
+        "chars": 768,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 4,
+        "chars": 849,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 5,
+        "chars": 819,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 6,
+        "chars": 803,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 7,
+        "chars": 726,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 8,
+        "chars": 735,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 9,
+        "chars": 921,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 10,
+        "chars": 940,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 11,
+        "chars": 854,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 12,
+        "chars": 822,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 13,
+        "chars": 993,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 14,
+        "chars": 788,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 15,
+        "chars": 813,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 16,
+        "chars": 359,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 17,
+        "chars": 430,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 18,
+        "chars": 413,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 19,
+        "chars": 420,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 20,
+        "chars": 509,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 21,
+        "chars": 761,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 22,
+        "chars": 417,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 23,
+        "chars": 430,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 24,
+        "chars": 435,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 25,
+        "chars": 395,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 26,
+        "chars": 293,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 27,
+        "chars": 1666,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 28,
+        "chars": 1187,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 29,
+        "chars": 922,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 30,
+        "chars": 144,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 31,
+        "chars": 1249,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 32,
+        "chars": 5682,
+        "out_of_safe_page": 0
+      },
+      {
+        "page": 33,
+        "chars": 1437,
+        "out_of_safe_page": 0
+      }
+    ],
+    "latex_issues": []
+  }
+]

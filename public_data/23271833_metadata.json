@@ -1,0 +1,158 @@
+{
+  "files": [
+    {
+      "id": 41018171,
+      "name": "helpfunctions.zip",
+      "size": 2968,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/41018171",
+      "supplied_md5": "a3dd6e87dbecd6fb46bc1c4bc907c77e",
+      "computed_md5": "a3dd6e87dbecd6fb46bc1c4bc907c77e",
+      "mimetype": "application/zip"
+    },
+    {
+      "id": 41018192,
+      "name": "df_analyze_RJ2_fieldtrials.m",
+      "size": 11956,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/41018192",
+      "supplied_md5": "cdfe4cce266d570a7eec548bd95b47f7",
+      "computed_md5": "cdfe4cce266d570a7eec548bd95b47f7",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 41018201,
+      "name": "df_analyze_RJ2_visualpert.m",
+      "size": 28428,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/41018201",
+      "supplied_md5": "e945f2c0aeac6b86e9310a809e37f0c4",
+      "computed_md5": "e945f2c0aeac6b86e9310a809e37f0c4",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 41018258,
+      "name": "df_analyze_RJ2_channeltrials_2.m",
+      "size": 36018,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/41018258",
+      "supplied_md5": "109b28f251857aa8133721da262c4570",
+      "computed_md5": "109b28f251857aa8133721da262c4570",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 41018855,
+      "name": "datafilesRJ2.zip",
+      "size": 2695655567,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/41018855",
+      "supplied_md5": "03df94b25509c41cee48bf6b4a0c3ed6",
+      "computed_md5": "03df94b25509c41cee48bf6b4a0c3ed6",
+      "mimetype": "application/zip"
+    }
+  ],
+  "folder_structure": {},
+  "authors": [
+    {
+      "id": 2554246,
+      "full_name": "David Franklin",
+      "first_name": "David",
+      "last_name": "Franklin",
+      "is_active": true,
+      "url_name": "_",
+      "orcid_id": "0000-0001-9530-0820"
+    },
+    {
+      "id": 9247983,
+      "full_name": "Sae Franklin",
+      "first_name": "Sae",
+      "last_name": "Franklin",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": "0000-0003-3002-6589"
+    }
+  ],
+  "custom_fields": [],
+  "figshare_url": "https://figshare.com/articles/dataset/Data_and_Code_for_Visuomotor_feedback_tuning_in_the_absence_of_visual_error_information_/23271833",
+  "download_disabled": false,
+  "description": "<p>This is the data and matlab code to prepare the figures for the \u00a0manuscript \"Visuomotor feedback tuning in the absence of visual error information\" by Sae Franklin and David Franklin.</p>\n<p><br></p>\n<p>The three main programs to obtain the analysis are:</p>\n<p>df_analyze_RJ2_channeltrials_2.m</p>\n<p>df_analyze_RJ2_fieldtrials.m</p>\n<p>df_analyze_RJ2_visualpert.m<br>\n</p>\n<p>which will generate each of the figures in the results section of the manuscript.<br>\n</p>\n<p>Data files (.mat) are found within the datafiles.zip</p>\n<p>Additional code is found within helpfunctions.zip</p>\n<p><br></p>",
+  "funding": null,
+  "funding_list": [],
+  "version": 1,
+  "status": "public",
+  "size": 2695734937,
+  "created_date": "2023-06-01T13:28:14Z",
+  "modified_date": "2023-06-01T13:28:15Z",
+  "is_public": true,
+  "is_confidential": false,
+  "is_metadata_record": false,
+  "confidential_reason": "",
+  "metadata_reason": "",
+  "license": {
+    "value": 1,
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "tags": [
+    "motor memory",
+    "force field adaptation",
+    "Muscle co-contraction",
+    "visuomotor feedback",
+    "reflex EMG"
+  ],
+  "keywords": [
+    "motor memory",
+    "force field adaptation",
+    "Muscle co-contraction",
+    "visuomotor feedback",
+    "reflex EMG"
+  ],
+  "categories": [
+    {
+      "id": 30331,
+      "title": "Behavioural neuroscience",
+      "parent_id": 30325,
+      "path": "/30292/30325/30331",
+      "source_id": "520202",
+      "taxonomy_id": 100
+    },
+    {
+      "id": 24250,
+      "title": "Biological adaptation",
+      "parent_id": 24241,
+      "path": "/24130/24241/24250",
+      "source_id": "310403",
+      "taxonomy_id": 100
+    }
+  ],
+  "references": [],
+  "has_linked_file": false,
+  "citation": "Franklin, David; Franklin, Sae (2023). Data and Code for \"Visuomotor feedback tuning in the absence of visual error information\". figshare. Dataset. https://doi.org/10.6084/m9.figshare.23271833.v1",
+  "related_materials": [],
+  "is_embargoed": false,
+  "embargo_date": null,
+  "embargo_type": null,
+  "embargo_title": "",
+  "embargo_reason": "",
+  "embargo_options": [],
+  "id": 23271833,
+  "title": "Data and Code for \"Visuomotor feedback tuning in the absence of visual error information\"",
+  "doi": "10.6084/m9.figshare.23271833.v1",
+  "handle": "",
+  "url": "https://api.figshare.com/v2/articles/23271833",
+  "published_date": "2023-06-01T13:28:14Z",
+  "thumb": "",
+  "defined_type": 3,
+  "defined_type_name": "dataset",
+  "group_id": null,
+  "url_private_api": "https://api.figshare.com/v2/account/articles/23271833",
+  "url_public_api": "https://api.figshare.com/v2/articles/23271833",
+  "url_private_html": "https://figshare.com/account/articles/23271833",
+  "url_public_html": "https://figshare.com/articles/dataset/Data_and_Code_for_Visuomotor_feedback_tuning_in_the_absence_of_visual_error_information_/23271833",
+  "timeline": {
+    "posted": "2023-06-01T13:28:14",
+    "firstOnline": "2023-06-01"
+  },
+  "resource_title": null,
+  "resource_doi": null
+}

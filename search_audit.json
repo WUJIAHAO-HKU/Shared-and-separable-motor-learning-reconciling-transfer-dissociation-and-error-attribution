@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-17",
+  "method": "Targeted adversarial update; no exhaustive or PRISMA claim.",
+  "queries": [
+    {
+      "query": "\"feedforward\" \"feedback\" \"structural learning\" dissociation motor Yousif",
+      "decision": "Rechecked E04; retained partial dissociation."
+    },
+    {
+      "query": "\"Telgen\" \"2014\" mirror reversal feedback",
+      "decision": "Training-time boundary located; full-text endpoint returned a browser check, so excluded from detailed extraction."
+    },
+    {
+      "query": "\"motor adaptation\" \"task error\" \"2025\" \"implicit\" target",
+      "decision": "Retrieved Liddy 2026 full text. Thesis excluded; blocked task-relevance full text not used for detailed claims."
+    }
+  ],
+  "added": [
+    "tsay2022",
+    "oza2024",
+    "uncertain2023",
+    "premo2022",
+    "percept2026",
+    "attention2026"
+  ],
+  "scope": "Human upper-limb adaptation and explicit computational alternatives; claim-directed counterevidence coverage.",
+  "exclusions": "Unverified locomotor candidate and inaccessible full texts excluded from claim extraction."
+}

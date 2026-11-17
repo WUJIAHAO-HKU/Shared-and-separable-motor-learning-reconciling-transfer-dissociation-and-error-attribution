@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+*.aux
+*.log
+*.out
+*.blg
+*.bbl
+public_data/raw/
+public_data/localization/*.csv
+qa/*/
+*.tmp
+.env

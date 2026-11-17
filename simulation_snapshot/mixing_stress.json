@@ -1,0 +1,74 @@
+[
+  {
+    "truth": "input_mixing",
+    "input_calibration_se": 0,
+    "people_simulated": 4096,
+    "reps": 16,
+    "estimator": "two independent halves; cross-products across halves",
+    "raw_positive_rate_N48": 0.1874,
+    "raw_mean": 0.23603960671051935,
+    "corrected_positive_rate_N48": 0.0222,
+    "corrected_mean": -0.012600589676704988,
+    "analytic_corrected_target": 2.656295322589486e-17
+  },
+  {
+    "truth": "input_mixing",
+    "input_calibration_se": 0.03,
+    "people_simulated": 4096,
+    "reps": 16,
+    "estimator": "two independent halves; cross-products across halves",
+    "raw_positive_rate_N48": 0.1972,
+    "raw_mean": 0.2799524513823219,
+    "corrected_positive_rate_N48": 0.0254,
+    "corrected_mean": 0.026025217019516815,
+    "analytic_corrected_target": 2.8699170318870204e-17
+  },
+  {
+    "truth": "input_mixing",
+    "input_calibration_se": 0.1,
+    "people_simulated": 4096,
+    "reps": 16,
+    "estimator": "two independent halves; cross-products across halves",
+    "raw_positive_rate_N48": 0.2022,
+    "raw_mean": 0.2886650585908558,
+    "corrected_positive_rate_N48": 0.0226,
+    "corrected_mean": 0.014992984317109735,
+    "analytic_corrected_target": 3.050673862831088e-17
+  },
+  {
+    "truth": "routed_full",
+    "input_calibration_se": 0,
+    "people_simulated": 4096,
+    "reps": 16,
+    "estimator": "two independent halves; cross-products across halves",
+    "raw_positive_rate_N48": 0.9968,
+    "raw_mean": 0.8512504052618713,
+    "corrected_positive_rate_N48": 0.9984,
+    "corrected_mean": 0.8512504052618713,
+    "analytic_corrected_target": 0.8242704414782336
+  },
+  {
+    "truth": "routed_full",
+    "input_calibration_se": 0.03,
+    "people_simulated": 4096,
+    "reps": 16,
+    "estimator": "two independent halves; cross-products across halves",
+    "raw_positive_rate_N48": 0.9988,
+    "raw_mean": 0.8071851092097627,
+    "corrected_positive_rate_N48": 0.9982,
+    "corrected_mean": 0.8076369393285101,
+    "analytic_corrected_target": 0.8248489521556193
+  },
+  {
+    "truth": "routed_full",
+    "input_calibration_se": 0.1,
+    "people_simulated": 4096,
+    "reps": 16,
+    "estimator": "two independent halves; cross-products across halves",
+    "raw_positive_rate_N48": 0.997,
+    "raw_mean": 0.8112563983168717,
+    "corrected_positive_rate_N48": 0.995,
+    "corrected_mean": 0.8332173842804774,
+    "analytic_corrected_target": 0.8104350458238827
+  }
+]

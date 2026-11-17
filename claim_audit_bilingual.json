@@ -1,0 +1,186 @@
+[
+  [
+    "C1",
+    [
+      "Learned dynamics are accessible across control outputs.",
+      "已学习动力学可被多个控制输出利用。"
+    ],
+    [
+      "E01–E03, E08: force-field and altered-arm-dynamics training transfer into another control response.",
+      "E01–E03、E08：力场与手臂动力学训练迁移至另一控制响应。"
+    ],
+    [
+      "E04–E05: inconsistent exposure and mirror reversal dissociate outputs; E21 supplies a recurrent implementation. These counter the stronger claim of an obligatory single predictor.",
+      "E04–E05：不一致暴露及镜像反转使输出分离；E21提供循环实现。这些证据针对更强的“必然单一预测器”主张。"
+    ],
+    [
+      "Transfer is assessed at specified response latencies, training durations and test contexts. Behavioural access does not locate a storage site.",
+      "迁移对应特定响应潜伏期、训练时长与测试情境。行为利用关系对存储位置保持开放。"
+    ],
+    [
+      "Retain cross-output access; test acquisition against expression with crossed cues (R1).",
+      "保留跨输出利用结论；用交叉线索比较获得与表达（R1）。"
+    ]
+  ],
+  [
+    "C2",
+    [
+      "Sensory-specific learning and cross-output transfer can coexist.",
+      "感觉特异学习与跨输出迁移能够并存。"
+    ],
+    [
+      "E17 already integrates sensory-specific memories; E28 establishes multiple timescales; transfer studies constrain the output axis.",
+      "E17已整合感觉特异记忆，E28确立多时间尺度；迁移研究约束输出轴。"
+    ],
+    [
+      "The new fixed-readout mixed-state construction changes delay ratios and directly refutes ratio invariance as a general sharing test.",
+      "新增固定读出混合状态构造产生变化的延迟比例，直接反驳其作为普遍共享检验。"
+    ],
+    [
+      "Constant ratios require effectively one-dimensional input trajectories. Common temporal modes can have separate neural copies.",
+      "比例恒定要求有效一维输入轨迹；共同时间模式可有分别神经副本。"
+    ],
+    [
+      "Test joint temporal recurrences and held-out histories, retaining output-specific competitors (R6).",
+      "检验联合时间递推及留出历史，保留输出特异竞争模型（R6）。"
+    ]
+  ],
+  [
+    "C3",
+    [
+      "Error attribution influences component-specific learning.",
+      "误差归因影响成分特异学习。"
+    ],
+    [
+      "E13–E16: source inference predicts generalization; revealing display distortion reduces selected aftereffects; imposed rotations exceed matched movement noise in adaptation.",
+      "E13–E16：来源推断预测泛化；揭示显示失真减小部分后效；外加旋转比匹配运动噪声产生更多适应。"
+    ],
+    [
+      "E15 and E16 give opposite directions under the umbrella label external. E15 preserves proprioceptive recalibration.",
+      "E15与E16在笼统“外部”标签下方向相反；E15中本体重校准保留。"
+    ],
+    [
+      "Display artifact, persistent environmental transformation and random motor noise occupy different causal categories; hand visibility changes input availability.",
+      "显示伪差、持续环境变换和随机运动噪声属于不同原因类别；手可见性改变输入可用性。"
+    ],
+    [
+      "Compare defined causes while crossing persistence and calibrating perceived error; distinguish input, updating and expression (R1–R2).",
+      "比较明确原因，交叉持续性并校准感知误差；区分输入、更新和表达（R1–R2）。"
+    ]
+  ],
+  [
+    "C4",
+    [
+      "Reliability effects require a calibrated error-dependent component.",
+      "可靠性效应需要明确校准的误差依赖成分。"
+    ],
+    [
+      "E18 links goal and visual gain to correction/learning; E12 and E15 demonstrate informative perceptual consequences.",
+      "E18连接目标、视觉增益与纠错/学习；E12及E15展示有信息量的感觉后果。"
+    ],
+    [
+      "E24 reports error-independent changes under uncertainty. E25–E26 disagree with a purely physical visual-error definition.",
+      "E24报告不确定性下的误差无关变化；E25–E26挑战纯物理视觉误差定义。"
+    ],
+    [
+      "Localization is a measurement of reported perception; its relation to the teaching error is a hypothesis requiring cross-task prediction.",
+      "定位测量的是报告感知；其与教学误差的关系需用跨任务预测检验。"
+    ],
+    [
+      "Use zero and signed-error controls to separate intercept from slope, then propagate perceptual calibration uncertainty (R2).",
+      "用零误差和有符号误差对照分离截距与斜率，再传播感觉校准不确定性（R2）。"
+    ]
+  ],
+  [
+    "C5",
+    [
+      "Task error can change total adaptation through multiple routes.",
+      "任务误差可通过多条路径改变总体适应。"
+    ],
+    [
+      "E22 reports task-error modulation of implicit recalibration; E23 establishes instruction-sensitive action selection.",
+      "E22报告任务误差调节隐式重校准；E23确立指示敏感动作选择。"
+    ],
+    [
+      "E22 and E23 disagree over automatic modulation; E27 shows an attention manipulation can enhance adaptation, challenging a universal distraction-suppression explanation.",
+      "E22与E23对自动调节存在冲突；E27的注意操纵增强适应，挑战普遍的分心抑制解释。"
+    ],
+    [
+      "Target movement, flicker, instruction, attention and reporting demands differ across protocols. Current evidence leaves a genuine empirical dispute.",
+      "目标运动、闪烁、指示、注意及报告要求跨方案不同；现有证据保留真实经验争议。"
+    ],
+    [
+      "Compare task-error interaction and strategy-addition models under matched target events, aim reporting, attention controls and immediate aftereffects (R8).",
+      "在匹配目标事件、瞄准报告、注意对照及即时后效下比较任务误差交互与策略叠加模型（R8）。"
+    ]
+  ],
+  [
+    "C6",
+    [
+      "Correction–learning covariation constrains the teaching signal.",
+      "纠错—学习共变约束教学信号。"
+    ],
+    [
+      "E06 relates EMG correction to temporally advanced next-trial learning.",
+      "E06将肌电纠错与时间提前的下一试次学习联系起来。"
+    ],
+    [
+      "E07 varies error onset and reports stable learning timing with tonic-amplitude prediction; this challenges universal fixed waveform copying.",
+      "E07改变误差起点，报告学习时序稳定、持续响应幅度可预测学习，挑战普遍固定波形复制。"
+    ],
+    [
+      "E06 uses force-field EMG; E07 is reviewed preprint v1 using visuomotor perturbations. Task differences prevent declaring a same-protocol refutation.",
+      "E06使用力场肌电；E07为视运动扰动已评审预印本v1。任务差异使两者构成跨任务边界比较。"
+    ],
+    [
+      "Fit temporal copying and integration on one onset and predict a second onset plus sign reversal using whole waveforms (R3).",
+      "在一个起点拟合时间复制与整合模型，预测第二起点及符号反转的完整波形（R3）。"
+    ]
+  ],
+  [
+    "C7",
+    [
+      "Paired forces and muscle responses constrain neural and mechanical contributions.",
+      "配对力与肌肉响应约束神经和力学贡献。"
+    ],
+    [
+      "E08 controls background activity; E09 separates dynamics compensation and impedance adaptation.",
+      "E08控制背景激活；E09分离动力学补偿与阻抗适应。"
+    ],
+    [
+      "E09 demonstrates coexisting impedance changes; E10 shows sensory feedback changes gains. Either can alter an apparently matched trajectory.",
+      "E09显示共存阻抗变化；E10显示感觉反馈改变增益；两者均可改变表面匹配的轨迹。"
+    ],
+    [
+      "Latency, posture, speed, probe compliance and co-contraction determine the interpretation of force differences.",
+      "潜伏期、姿势、速度、探针柔顺性及共收缩决定力差异的解释。"
+    ],
+    [
+      "Add multidirectional mechanics and baseline EMG measurements before assigning residual changes to delayed control (R4).",
+      "增加多方向力学及基线肌电测量，再解释延迟控制的残余变化（R4）。"
+    ]
+  ],
+  [
+    "C8",
+    [
+      "Independent observation constraints can resolve specific factor contrasts.",
+      "独立观测约束能够解析特定因子对比。"
+    ],
+    [
+      "Active/passive public data establish report-dependent changes; measured loadings can supply independent constraints.",
+      "公开主动/被动数据确立依赖报告的变化；实测载荷能够提供独立约束。"
+    ],
+    [
+      "Update-sensitive reports exactly mimic input changes under the selective-report model. Common-mode dynamics admit separate copies.",
+      "更新敏感报告在选择性报告模型中精确伪装成输入变化；共同模式动力学允许分别副本。"
+    ],
+    [
+      "Loading independence and cross-context transport must be measured. Cross-study motion data do not include these reports.",
+      "载荷独立性及跨情境迁移须测量；跨研究运动数据缺少这些报告。"
+    ],
+    [
+      "Estimate the report model, propagate calibration uncertainty, then test frozen joint predictions; retain compatible factors when rank or recovery fails.",
+      "估计报告模型，传播校准不确定性，再检验冻结联合预测；秩或恢复不足时保留兼容因子。"
+    ]
+  ]
+]

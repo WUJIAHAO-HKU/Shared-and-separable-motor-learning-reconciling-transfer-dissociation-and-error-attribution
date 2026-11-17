@@ -1,0 +1,2 @@
+# Preserve deposited bytes so SHA-256 manifests also verify after cloning on Windows.
+* -text

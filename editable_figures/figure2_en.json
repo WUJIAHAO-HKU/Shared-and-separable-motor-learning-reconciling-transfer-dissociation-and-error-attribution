@@ -1,0 +1,840 @@
+{
+  "width": 1000,
+  "height": 650,
+  "scale": 0.72,
+  "background": "#FFFFFF",
+  "font": "Arial",
+  "exportWidth": 3000,
+  "items": [
+    {
+      "kind": "text",
+      "name": "001 figure title",
+      "x": 24,
+      "y": 12,
+      "w": 952,
+      "h": 38,
+      "text": "Measurements that discriminate competing accounts",
+      "size": 28,
+      "color": "#19364D",
+      "bold": true,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "text",
+      "name": "002 figure subtitle",
+      "x": 24,
+      "y": 52,
+      "w": 952,
+      "h": 28,
+      "text": "Temporal responses → report calibration → cross-study prediction",
+      "size": 17,
+      "color": "#536675",
+      "bold": false,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "box",
+      "name": "003 temporal panel",
+      "x": 24,
+      "y": 91,
+      "w": 952,
+      "h": 167,
+      "fill": "#F5F8FA",
+      "line": null,
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "text",
+      "name": "004 temporal title",
+      "x": 38,
+      "y": 98,
+      "w": 900,
+      "h": 28,
+      "text": "a  Resolve temporal mixtures",
+      "size": 21,
+      "color": "#19364D",
+      "bold": true,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "text",
+      "name": "005 inputs",
+      "x": 44,
+      "y": 145,
+      "w": 165,
+      "h": 64,
+      "text": "Visual input\nProprioceptive input",
+      "size": 17,
+      "color": "#19364D",
+      "bold": false,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "box",
+      "name": "006 temporal mode",
+      "x": 290,
+      "y": 138,
+      "w": 139,
+      "h": 36,
+      "fill": "#E8F5F3",
+      "line": "#087F87",
+      "lineWidth": 1.3,
+      "rounded": true
+    },
+    {
+      "kind": "text",
+      "name": "007 mode label",
+      "x": 290,
+      "y": 138,
+      "w": 139,
+      "h": 36,
+      "text": "Fast mode",
+      "size": 18,
+      "color": "#087F87",
+      "bold": true,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "wire",
+      "name": "008 input access",
+      "points": [
+        [
+          213,
+          170
+        ],
+        [
+          251,
+          170
+        ],
+        [
+          251,
+          156
+        ],
+        [
+          286,
+          156
+        ]
+      ],
+      "color": "#19364D",
+      "arrow": true,
+      "dash": false,
+      "lineWidth": 1.8
+    },
+    {
+      "kind": "box",
+      "name": "009 temporal mode",
+      "x": 290,
+      "y": 187,
+      "w": 139,
+      "h": 36,
+      "fill": "#F9EDE8",
+      "line": "#C35F4D",
+      "lineWidth": 1.3,
+      "rounded": true
+    },
+    {
+      "kind": "text",
+      "name": "010 mode label",
+      "x": 290,
+      "y": 187,
+      "w": 139,
+      "h": 36,
+      "text": "Slow mode",
+      "size": 18,
+      "color": "#C35F4D",
+      "bold": true,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "wire",
+      "name": "011 input access",
+      "points": [
+        [
+          213,
+          170
+        ],
+        [
+          251,
+          170
+        ],
+        [
+          251,
+          205
+        ],
+        [
+          286,
+          205
+        ]
+      ],
+      "color": "#19364D",
+      "arrow": true,
+      "dash": false,
+      "lineWidth": 1.8
+    },
+    {
+      "kind": "box",
+      "name": "012 output",
+      "x": 646,
+      "y": 138,
+      "w": 283,
+      "h": 36,
+      "fill": "#FFFFFF",
+      "line": "#B7781D",
+      "lineWidth": 1.3,
+      "rounded": true
+    },
+    {
+      "kind": "text",
+      "name": "013 output label",
+      "x": 653,
+      "y": 138,
+      "w": 269,
+      "h": 36,
+      "text": "Planned force",
+      "size": 18,
+      "color": "#B7781D",
+      "bold": true,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "box",
+      "name": "014 output",
+      "x": 646,
+      "y": 187,
+      "w": 283,
+      "h": 36,
+      "fill": "#FFFFFF",
+      "line": "#795A96",
+      "lineWidth": 1.3,
+      "rounded": true
+    },
+    {
+      "kind": "text",
+      "name": "015 output label",
+      "x": 653,
+      "y": 187,
+      "w": 269,
+      "h": 36,
+      "text": "Rapid correction",
+      "size": 18,
+      "color": "#795A96",
+      "bold": true,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "wire",
+      "name": "016 fixed readout weight",
+      "points": [
+        [
+          432,
+          156
+        ],
+        [
+          641,
+          156
+        ]
+      ],
+      "color": "#087F87",
+      "arrow": true,
+      "dash": false,
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "wire",
+      "name": "017 fixed readout weight",
+      "points": [
+        [
+          432,
+          156
+        ],
+        [
+          641,
+          205
+        ]
+      ],
+      "color": "#087F87",
+      "arrow": true,
+      "dash": false,
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "wire",
+      "name": "018 fixed readout weight",
+      "points": [
+        [
+          432,
+          205
+        ],
+        [
+          641,
+          156
+        ]
+      ],
+      "color": "#C35F4D",
+      "arrow": true,
+      "dash": false,
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "wire",
+      "name": "019 fixed readout weight",
+      "points": [
+        [
+          432,
+          205
+        ],
+        [
+          641,
+          205
+        ]
+      ],
+      "color": "#C35F4D",
+      "arrow": true,
+      "dash": false,
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "text",
+      "name": "020 fixed readout label",
+      "x": 455,
+      "y": 126,
+      "w": 166,
+      "h": 22,
+      "text": "Fixed readout",
+      "size": 15,
+      "color": "#536675",
+      "bold": false,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "text",
+      "name": "021 temporal conclusion",
+      "x": 44,
+      "y": 227,
+      "w": 897,
+      "h": 26,
+      "text": "Changing output ratios can arise from a fixed mixture of fast and slow modes.",
+      "size": 17,
+      "color": "#087F87",
+      "bold": true,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "box",
+      "name": "022 calibration panel",
+      "x": 24,
+      "y": 270,
+      "w": 952,
+      "h": 173,
+      "fill": "#F8F5FA",
+      "line": null,
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "text",
+      "name": "023 calibration title",
+      "x": 38,
+      "y": 277,
+      "w": 900,
+      "h": 28,
+      "text": "b  Calibrate the report contributions",
+      "size": 21,
+      "color": "#19364D",
+      "bold": true,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "text",
+      "name": "024 human modes",
+      "x": 44,
+      "y": 319,
+      "w": 208,
+      "h": 76,
+      "text": "Robot-guided arm\n(passive movement)\nSelf-generated movement",
+      "size": 16,
+      "color": "#19364D",
+      "bold": false,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "box",
+      "name": "025 latent contribution",
+      "x": 287,
+      "y": 313,
+      "w": 158,
+      "h": 36,
+      "fill": "#FFFFFF",
+      "line": "#087F87",
+      "lineWidth": 1.3,
+      "rounded": true
+    },
+    {
+      "kind": "text",
+      "name": "026 latent label",
+      "x": 287,
+      "y": 313,
+      "w": 158,
+      "h": 36,
+      "text": "Sensory change",
+      "size": 17,
+      "color": "#087F87",
+      "bold": true,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "box",
+      "name": "027 latent contribution",
+      "x": 287,
+      "y": 360,
+      "w": 158,
+      "h": 36,
+      "fill": "#FFFFFF",
+      "line": "#C35F4D",
+      "lineWidth": 1.3,
+      "rounded": true
+    },
+    {
+      "kind": "text",
+      "name": "028 latent label",
+      "x": 287,
+      "y": 360,
+      "w": 158,
+      "h": 36,
+      "text": "Learned state",
+      "size": 17,
+      "color": "#C35F4D",
+      "bold": true,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "box",
+      "name": "029 localization report",
+      "x": 659,
+      "y": 313,
+      "w": 270,
+      "h": 36,
+      "fill": "#FFFFFF",
+      "line": "#795A96",
+      "lineWidth": 1.3,
+      "rounded": true
+    },
+    {
+      "kind": "text",
+      "name": "030 report label",
+      "x": 665,
+      "y": 313,
+      "w": 258,
+      "h": 36,
+      "text": "Passive localization",
+      "size": 18,
+      "color": "#795A96",
+      "bold": true,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "box",
+      "name": "031 localization report",
+      "x": 659,
+      "y": 360,
+      "w": 270,
+      "h": 36,
+      "fill": "#FFFFFF",
+      "line": "#795A96",
+      "lineWidth": 1.3,
+      "rounded": true
+    },
+    {
+      "kind": "text",
+      "name": "032 report label",
+      "x": 665,
+      "y": 360,
+      "w": 258,
+      "h": 36,
+      "text": "Active localization",
+      "size": 18,
+      "color": "#795A96",
+      "bold": true,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "wire",
+      "name": "033 candidate report loading",
+      "points": [
+        [
+          448,
+          331
+        ],
+        [
+          654,
+          331
+        ]
+      ],
+      "color": "#087F87",
+      "arrow": true,
+      "dash": true,
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "wire",
+      "name": "034 candidate report loading",
+      "points": [
+        [
+          448,
+          331
+        ],
+        [
+          654,
+          378
+        ]
+      ],
+      "color": "#087F87",
+      "arrow": true,
+      "dash": true,
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "wire",
+      "name": "035 candidate report loading",
+      "points": [
+        [
+          448,
+          378
+        ],
+        [
+          654,
+          331
+        ]
+      ],
+      "color": "#C35F4D",
+      "arrow": true,
+      "dash": true,
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "wire",
+      "name": "036 candidate report loading",
+      "points": [
+        [
+          448,
+          378
+        ],
+        [
+          654,
+          378
+        ]
+      ],
+      "color": "#C35F4D",
+      "arrow": true,
+      "dash": true,
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "text",
+      "name": "037 loading legend",
+      "x": 468,
+      "y": 302,
+      "w": 170,
+      "h": 22,
+      "text": "Candidate loadings",
+      "size": 15,
+      "color": "#536675",
+      "bold": false,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "text",
+      "name": "038 calibration conclusion",
+      "x": 44,
+      "y": 408,
+      "w": 897,
+      "h": 26,
+      "text": "Independent calibration constrains sensory and learned contributions to each report.",
+      "size": 17,
+      "color": "#795A96",
+      "bold": true,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "box",
+      "name": "039 prediction panel",
+      "x": 24,
+      "y": 455,
+      "w": 952,
+      "h": 145,
+      "fill": "#F9F6EE",
+      "line": null,
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "text",
+      "name": "040 prediction title",
+      "x": 38,
+      "y": 462,
+      "w": 900,
+      "h": 28,
+      "text": "c  Predict another study",
+      "size": 21,
+      "color": "#19364D",
+      "bold": true,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "box",
+      "name": "041 source data",
+      "x": 44,
+      "y": 505,
+      "w": 166,
+      "h": 48,
+      "fill": "#FFFFFF",
+      "line": "#19364D",
+      "lineWidth": 1.3,
+      "rounded": true
+    },
+    {
+      "kind": "text",
+      "name": "042 source label",
+      "x": 44,
+      "y": 505,
+      "w": 166,
+      "h": 48,
+      "text": "Source study\nFit + select penalty",
+      "size": 16,
+      "color": "#19364D",
+      "bold": true,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "wire",
+      "name": "043 freeze direction",
+      "points": [
+        [
+          214,
+          529
+        ],
+        [
+          245,
+          529
+        ]
+      ],
+      "color": "#19364D",
+      "arrow": true,
+      "dash": false,
+      "lineWidth": 1.8
+    },
+    {
+      "kind": "box",
+      "name": "044 frozen parameters",
+      "x": 249,
+      "y": 505,
+      "w": 155,
+      "h": 48,
+      "fill": "#FFFFFF",
+      "line": "#B7781D",
+      "lineWidth": 1.3,
+      "rounded": true
+    },
+    {
+      "kind": "text",
+      "name": "045 frozen label",
+      "x": 249,
+      "y": 505,
+      "w": 155,
+      "h": 48,
+      "text": "Freeze parameters",
+      "size": 16,
+      "color": "#B7781D",
+      "bold": true,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "wire",
+      "name": "046 predict direction",
+      "points": [
+        [
+          408,
+          529
+        ],
+        [
+          443,
+          529
+        ]
+      ],
+      "color": "#19364D",
+      "arrow": true,
+      "dash": false,
+      "lineWidth": 1.8
+    },
+    {
+      "kind": "box",
+      "name": "047 target predictions",
+      "x": 447,
+      "y": 501,
+      "w": 251,
+      "h": 60,
+      "fill": "#FFFFFF",
+      "line": "#087F87",
+      "lineWidth": 1.3,
+      "rounded": true
+    },
+    {
+      "kind": "text",
+      "name": "048 target labels",
+      "x": 454,
+      "y": 502,
+      "w": 237,
+      "h": 58,
+      "text": "Target-study predictions\nCommon / separate modes",
+      "size": 16,
+      "color": "#087F87",
+      "bold": true,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "wire",
+      "name": "049 score direction",
+      "points": [
+        [
+          702,
+          529
+        ],
+        [
+          737,
+          529
+        ]
+      ],
+      "color": "#19364D",
+      "arrow": true,
+      "dash": false,
+      "lineWidth": 1.8
+    },
+    {
+      "kind": "box",
+      "name": "050 heldout score",
+      "x": 741,
+      "y": 501,
+      "w": 188,
+      "h": 60,
+      "fill": "#FFFFFF",
+      "line": "#795A96",
+      "lineWidth": 1.3,
+      "rounded": true
+    },
+    {
+      "kind": "text",
+      "name": "051 score label",
+      "x": 746,
+      "y": 502,
+      "w": 178,
+      "h": 58,
+      "text": "Score held-out data\nBoth outputs",
+      "size": 16,
+      "color": "#795A96",
+      "bold": true,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "text",
+      "name": "052 prediction conclusion",
+      "x": 44,
+      "y": 566,
+      "w": 897,
+      "h": 25,
+      "text": "Compare complete held-out responses; report model recovery and analysis sensitivity.",
+      "size": 16,
+      "color": "#B7781D",
+      "bold": true,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    },
+    {
+      "kind": "text",
+      "name": "053 supported inference",
+      "x": 24,
+      "y": 608,
+      "w": 952,
+      "h": 30,
+      "text": "Inference target: transferable input–output dynamics; neural sharing needs selective intervention.",
+      "size": 16,
+      "color": "#19364D",
+      "bold": true,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Arial"
+    }
+  ]
+}

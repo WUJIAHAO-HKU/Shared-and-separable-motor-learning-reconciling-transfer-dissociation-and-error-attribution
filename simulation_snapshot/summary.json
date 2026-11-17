@@ -1,0 +1,344 @@
+[
+  {
+    "run": "calibrated_r16_near0_bias0.2",
+    "datasets": 480,
+    "models": [
+      "scalar_rank1",
+      "scalar_full",
+      "routed_rank1",
+      "routed_full",
+      "separable_gain"
+    ],
+    "recovery": 0.325,
+    "confusion": [
+      [
+        34,
+        20,
+        16,
+        16,
+        10
+      ],
+      [
+        14,
+        37,
+        10,
+        16,
+        19
+      ],
+      [
+        23,
+        11,
+        27,
+        17,
+        18
+      ],
+      [
+        20,
+        16,
+        19,
+        34,
+        7
+      ],
+      [
+        7,
+        25,
+        24,
+        16,
+        24
+      ]
+    ],
+    "train": 512,
+    "test": 256,
+    "max_gradient": 0.009856725503001441,
+    "fits_at_bound": 91,
+    "fit_count": 2400
+  },
+  {
+    "run": "calibrated_r16_near0_bias0",
+    "datasets": 480,
+    "models": [
+      "scalar_rank1",
+      "scalar_full",
+      "routed_rank1",
+      "routed_full",
+      "separable_gain"
+    ],
+    "recovery": 0.33125,
+    "confusion": [
+      [
+        32,
+        21,
+        17,
+        16,
+        10
+      ],
+      [
+        14,
+        39,
+        8,
+        18,
+        17
+      ],
+      [
+        25,
+        9,
+        25,
+        18,
+        19
+      ],
+      [
+        19,
+        16,
+        19,
+        36,
+        6
+      ],
+      [
+        6,
+        24,
+        23,
+        16,
+        27
+      ]
+    ],
+    "train": 512,
+    "test": 256,
+    "max_gradient": 0.01119094658584328,
+    "fits_at_bound": 74,
+    "fit_count": 2400
+  },
+  {
+    "run": "calibrated_r16_near1_bias0",
+    "datasets": 480,
+    "models": [
+      "scalar_rank1",
+      "scalar_full",
+      "routed_rank1",
+      "routed_full",
+      "separable_gain"
+    ],
+    "recovery": 0.19375,
+    "confusion": [
+      [
+        32,
+        21,
+        17,
+        16,
+        10
+      ],
+      [
+        30,
+        24,
+        23,
+        13,
+        6
+      ],
+      [
+        32,
+        11,
+        19,
+        17,
+        17
+      ],
+      [
+        30,
+        18,
+        28,
+        11,
+        9
+      ],
+      [
+        25,
+        15,
+        34,
+        15,
+        7
+      ]
+    ],
+    "train": 512,
+    "test": 256,
+    "max_gradient": 0.00938267209322789,
+    "fits_at_bound": 54,
+    "fit_count": 2400
+  },
+  {
+    "run": "calibrated_r4_near0_bias0",
+    "datasets": 240,
+    "models": [
+      "scalar_rank1",
+      "scalar_full",
+      "routed_rank1",
+      "routed_full",
+      "separable_gain"
+    ],
+    "recovery": 0.22083333333333333,
+    "confusion": [
+      [
+        11,
+        9,
+        12,
+        7,
+        9
+      ],
+      [
+        9,
+        12,
+        10,
+        9,
+        8
+      ],
+      [
+        8,
+        10,
+        8,
+        12,
+        10
+      ],
+      [
+        14,
+        9,
+        5,
+        11,
+        9
+      ],
+      [
+        5,
+        14,
+        10,
+        8,
+        11
+      ]
+    ],
+    "train": 128,
+    "test": 64,
+    "max_gradient": 0.0070718775364209535,
+    "fits_at_bound": 138,
+    "fit_count": 1200
+  },
+  {
+    "run": "coupled_r4_near0_bias0",
+    "datasets": 192,
+    "models": [
+      "scalar_rank1",
+      "scalar_full",
+      "routed_rank1",
+      "routed_full"
+    ],
+    "recovery": 0.22916666666666666,
+    "confusion": [
+      [
+        14,
+        11,
+        13,
+        10
+      ],
+      [
+        11,
+        13,
+        17,
+        7
+      ],
+      [
+        11,
+        16,
+        8,
+        13
+      ],
+      [
+        11,
+        16,
+        12,
+        9
+      ]
+    ],
+    "train": 16,
+    "test": 64,
+    "max_gradient": 0.0008308456887064578,
+    "fits_at_bound": 10,
+    "fit_count": 768
+  },
+  {
+    "run": "crossed_r4_near0_bias0",
+    "datasets": 192,
+    "models": [
+      "scalar_rank1",
+      "scalar_full",
+      "routed_rank1",
+      "routed_full"
+    ],
+    "recovery": 0.3177083333333333,
+    "confusion": [
+      [
+        17,
+        14,
+        8,
+        9
+      ],
+      [
+        12,
+        16,
+        11,
+        9
+      ],
+      [
+        16,
+        10,
+        11,
+        11
+      ],
+      [
+        9,
+        9,
+        13,
+        17
+      ]
+    ],
+    "train": 128,
+    "test": 64,
+    "max_gradient": 0.004481121412855672,
+    "fits_at_bound": 587,
+    "fit_count": 768
+  },
+  {
+    "run": "orthogonal_r4_near0_bias0",
+    "datasets": 192,
+    "models": [
+      "scalar_rank1",
+      "scalar_full",
+      "routed_rank1",
+      "routed_full"
+    ],
+    "recovery": 0.3229166666666667,
+    "confusion": [
+      [
+        21,
+        6,
+        14,
+        7
+      ],
+      [
+        7,
+        16,
+        14,
+        11
+      ],
+      [
+        10,
+        10,
+        12,
+        16
+      ],
+      [
+        15,
+        9,
+        11,
+        13
+      ]
+    ],
+    "train": 32,
+    "test": 64,
+    "max_gradient": 0.001639247814258205,
+    "fits_at_bound": 30,
+    "fit_count": 768
+  }
+]

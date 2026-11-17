@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-17",
+  "status": "In-session computational protocol, recorded after four exploratory screens; no external preregistration",
+  "confirmation_seed": 9561117,
+  "confirmation_people_per_truth": 96,
+  "confirmation_reps": 16,
+  "confirmation_starts": 8,
+  "families": [
+    "scalar_rank1",
+    "scalar_full",
+    "routed_rank1",
+    "routed_full",
+    "separable_gain"
+  ],
+  "all_competitors": "Independent decay and readout gains allowed; cross-updates and exact shared subsets retained",
+  "positive_architecture_rule": "No behavioural rank-one outcome uniquely identifies shared neural storage",
+  "designs": [
+    "coupled input",
+    "orthogonal input",
+    "orthogonal input x readout context x delay",
+    "same plus independent calibration likelihood"
+  ],
+  "stress_tests": [
+    "near-equivalent routing effect d=.15 rather than .65",
+    "independent gain calibration bias +.2,-.2"
+  ],
+  "calibration_precision_assumptions": {
+    "retention_kernel_sd": 0.035,
+    "gain_sd": 0.07,
+    "source_scalar_relative_sd": 0.1
+  },
+  "primary_contrast": "source contrast of feedback(error2)-feedback(error1), adjusted by independent compensation source-gain estimate",
+  "prospective_claim": "source-dependent redistribution of effective cross-output learning, conditional on causal source manipulation and measured controls",
+  "independent_calibration_transfer": "must be validated with withheld repeated calibration in the target context; assumed in simulations",
+  "effect_distributions": "design assumptions, not newly measured human effects",
+  "final_matrix_bounds": [
+    -4,
+    4
+  ],
+  "audit": "50,000 generating draws within bounds; widened after support audit; all calibrated comparisons rerun"
+}

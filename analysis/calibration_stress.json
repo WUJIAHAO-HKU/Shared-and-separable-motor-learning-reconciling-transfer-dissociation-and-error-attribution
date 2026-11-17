@@ -1,0 +1,143 @@
+{
+  "results": [
+    {
+      "loading": 0.0,
+      "truth": "input",
+      "n": 500,
+      "wrong_zero_loading_parameter_mse": 0.03063915122796134,
+      "known_loading_parameter_mse": 0.030639151227961355,
+      "forced_pure_input_selection": 1.0,
+      "known_loading_rank": 2
+    },
+    {
+      "loading": 0.0,
+      "truth": "update",
+      "n": 500,
+      "wrong_zero_loading_parameter_mse": 0.029597607606771898,
+      "known_loading_parameter_mse": 0.02959760760677191,
+      "forced_pure_input_selection": 0.0,
+      "known_loading_rank": 2
+    },
+    {
+      "loading": 0.0,
+      "truth": "mixture",
+      "n": 500,
+      "wrong_zero_loading_parameter_mse": 0.029570276669255265,
+      "known_loading_parameter_mse": 0.029570276669255276,
+      "forced_pure_input_selection": 1.0,
+      "known_loading_rank": 2
+    },
+    {
+      "loading": 0.25,
+      "truth": "input",
+      "n": 500,
+      "wrong_zero_loading_parameter_mse": 0.03106918081080805,
+      "known_loading_parameter_mse": 0.05628779985260088,
+      "forced_pure_input_selection": 1.0,
+      "known_loading_rank": 2
+    },
+    {
+      "loading": 0.25,
+      "truth": "update",
+      "n": 500,
+      "wrong_zero_loading_parameter_mse": 0.11218785634966537,
+      "known_loading_parameter_mse": 0.05369888964071711,
+      "forced_pure_input_selection": 0.012,
+      "known_loading_rank": 2
+    },
+    {
+      "loading": 0.25,
+      "truth": "mixture",
+      "n": 500,
+      "wrong_zero_loading_parameter_mse": 0.10896634085305108,
+      "known_loading_parameter_mse": 0.05460897552130797,
+      "forced_pure_input_selection": 1.0,
+      "known_loading_rank": 2
+    },
+    {
+      "loading": 0.5,
+      "truth": "input",
+      "n": 500,
+      "wrong_zero_loading_parameter_mse": 0.029074419507228125,
+      "known_loading_parameter_mse": 0.12543078992348305,
+      "forced_pure_input_selection": 1.0,
+      "known_loading_rank": 2
+    },
+    {
+      "loading": 0.5,
+      "truth": "update",
+      "n": 500,
+      "wrong_zero_loading_parameter_mse": 0.3511998378160732,
+      "known_loading_parameter_mse": 0.12994915124754147,
+      "forced_pure_input_selection": 0.888,
+      "known_loading_rank": 2
+    },
+    {
+      "loading": 0.5,
+      "truth": "mixture",
+      "n": 500,
+      "wrong_zero_loading_parameter_mse": 0.3545869553805414,
+      "known_loading_parameter_mse": 0.1346058765460625,
+      "forced_pure_input_selection": 1.0,
+      "known_loading_rank": 2
+    },
+    {
+      "loading": 0.75,
+      "truth": "input",
+      "n": 500,
+      "wrong_zero_loading_parameter_mse": 0.03113779339514519,
+      "known_loading_parameter_mse": 0.5961501687054799,
+      "forced_pure_input_selection": 1.0,
+      "known_loading_rank": 2
+    },
+    {
+      "loading": 0.75,
+      "truth": "update",
+      "n": 500,
+      "wrong_zero_loading_parameter_mse": 0.7475760953668822,
+      "known_loading_parameter_mse": 0.603639146622453,
+      "forced_pure_input_selection": 1.0,
+      "known_loading_rank": 2
+    },
+    {
+      "loading": 0.75,
+      "truth": "mixture",
+      "n": 500,
+      "wrong_zero_loading_parameter_mse": 0.750089141359469,
+      "known_loading_parameter_mse": 0.5741979002492019,
+      "forced_pure_input_selection": 1.0,
+      "known_loading_rank": 2
+    },
+    {
+      "loading": 1.0,
+      "truth": "input",
+      "n": 500,
+      "wrong_zero_loading_parameter_mse": 0.030821178721846948,
+      "known_loading_parameter_mse": 0.3225676983357459,
+      "forced_pure_input_selection": 1.0,
+      "known_loading_rank": 1
+    },
+    {
+      "loading": 1.0,
+      "truth": "update",
+      "n": 500,
+      "wrong_zero_loading_parameter_mse": 1.3141116877142323,
+      "known_loading_parameter_mse": 0.32242303722640564,
+      "forced_pure_input_selection": 1.0,
+      "known_loading_rank": 1
+    },
+    {
+      "loading": 1.0,
+      "truth": "mixture",
+      "n": 500,
+      "wrong_zero_loading_parameter_mse": 1.2941129596869578,
+      "known_loading_parameter_mse": 0.659264896740177,
+      "forced_pure_input_selection": 1.0,
+      "known_loading_rank": 1
+    }
+  ],
+  "noise_sd": 0.05,
+  "contrast_norm": 0.8,
+  "noise_status": "assumed normalized report noise, not empirical human trial noise",
+  "unknown_loading": "For any invertible input contrast I_star, choose U_star=y-I_star and a free report loading to reproduce ell; motor and report data alone leave a continuum. Rank deficiency at L=1 persists even with known loading."
+}

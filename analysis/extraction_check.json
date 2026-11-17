@@ -1,0 +1,47 @@
+{
+  "rows": 6720,
+  "equal": true,
+  "raw_files": [
+    {
+      "file": "visual_errors/visRJ_A_2018.mat",
+      "sha256": "a8f22f3231465358b5f645fd8dea1484b8e1721e7e5fa0d23aab41c3b8e753d4",
+      "bytes": 204307976
+    },
+    {
+      "file": "visual_errors/RJforcecomp_1_2018.mat",
+      "sha256": "ce5c5c30a30ef16c4fb619553ea2cce82954e0045f5ed7c7d8cfae0c2028321e",
+      "bytes": 14935
+    },
+    {
+      "file": "visual_errors/visRJ_B_2018.mat",
+      "sha256": "29bcedf9ba5845578733653747c53ec63ac7ecda17631464e692f1357c8469c5",
+      "bytes": 204398165
+    },
+    {
+      "file": "visual_errors/RJforcecomp_2_2018.mat",
+      "sha256": "ad153f8e1ee2b31775d6886984486a86db544e726df9722c84c6d932494d5931",
+      "bytes": 14975
+    },
+    {
+      "file": "visRJ2_A.mat",
+      "sha256": "31c020c1fdb7496940e1ca056630eac8ea985c20ef5bd306f3221dc0a231003c",
+      "bytes": 197990183
+    },
+    {
+      "file": "RJ2forcecomp_1.mat",
+      "sha256": "df6d911d7ff2b455ed0586f8a20114efa377479c0f30791feb3b4ca04d428c3e",
+      "bytes": 14995
+    },
+    {
+      "file": "visRJ2_B.mat",
+      "sha256": "ba76a28c7058bb1da82fdf7f87f61101f17c628fb22c42a4f298c4b7e8af509c",
+      "bytes": 197910141
+    },
+    {
+      "file": "RJ2forcecomp_2.mat",
+      "sha256": "62dcceebf1111b96498927976e5259ce923c66155a2183270e23f37d86353e26",
+      "bytes": 14975
+    }
+  ],
+  "provenance": "Author-processed MATLAB waveforms; perturbation indexes 1/2; waveform sample indexing follows archived authors analysis; day-B participant rotation +6 per protocol"
+}

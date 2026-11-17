@@ -1,0 +1,116 @@
+{
+  "source": "E:\\Codex-review-r6-20261116\\nc-regularization-review-20261117",
+  "source_sha256": "16fc37ade34f5f9f32a51b9756123223ffe716a7056cd9071ab7d1b0b892c633",
+  "donors": [
+    {
+      "cohort": "visual_errors",
+      "participant": 0
+    },
+    {
+      "cohort": "visual_errors",
+      "participant": 1
+    },
+    {
+      "cohort": "visual_errors",
+      "participant": 2
+    },
+    {
+      "cohort": "visual_errors",
+      "participant": 3
+    },
+    {
+      "cohort": "visual_errors",
+      "participant": 4
+    },
+    {
+      "cohort": "visual_errors",
+      "participant": 5
+    },
+    {
+      "cohort": "visual_errors",
+      "participant": 6
+    },
+    {
+      "cohort": "visual_errors",
+      "participant": 7
+    },
+    {
+      "cohort": "visual_errors",
+      "participant": 8
+    },
+    {
+      "cohort": "visual_errors",
+      "participant": 9
+    },
+    {
+      "cohort": "visual_errors",
+      "participant": 10
+    },
+    {
+      "cohort": "visual_errors",
+      "participant": 11
+    },
+    {
+      "cohort": "visual_clamp",
+      "participant": 0
+    },
+    {
+      "cohort": "visual_clamp",
+      "participant": 1
+    },
+    {
+      "cohort": "visual_clamp",
+      "participant": 2
+    },
+    {
+      "cohort": "visual_clamp",
+      "participant": 3
+    },
+    {
+      "cohort": "visual_clamp",
+      "participant": 4
+    },
+    {
+      "cohort": "visual_clamp",
+      "participant": 5
+    },
+    {
+      "cohort": "visual_clamp",
+      "participant": 6
+    },
+    {
+      "cohort": "visual_clamp",
+      "participant": 7
+    },
+    {
+      "cohort": "visual_clamp",
+      "participant": 8
+    },
+    {
+      "cohort": "visual_clamp",
+      "participant": 9
+    },
+    {
+      "cohort": "visual_clamp",
+      "participant": 10
+    },
+    {
+      "cohort": "visual_clamp",
+      "participant": 11
+    }
+  ],
+  "shape": [
+    24,
+    120,
+    2
+  ],
+  "median_sd": [
+    0.1671075803997148,
+    1.7042116681111916
+  ],
+  "unit": [
+    "compensation_fraction",
+    "feedback_N"
+  ],
+  "note": "Out-of-schedule centered block residuals. New single-event variance and event effect are unmeasured."
+}

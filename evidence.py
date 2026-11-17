@@ -1,0 +1,216 @@
+"""Paired English/Chinese evidence records. Inference and proposed tests are separate fields."""
+ROWS=[]
+def add(k,group,locator,design,measure,finding,inference,alternative,test,status='Published primary study'):
+ ROWS.append(dict(id=f'E{len(ROWS)+1:02}',key=k,group=group,locator=locator,design=design,measure=measure,finding=finding,inference=inference,alternative=alternative,test=test,status=status))
+add('wagner2008','Transfer / 迁移','Results: responses to unexpected perturbations after force-field learning; model comparisons',
+('Train reaches in altered dynamics, then introduce unexpected perturbations during movement.','训练力场中的到达运动，再在运动中施加非预期扰动。'),
+('Time-resolved corrective responses and trajectories across learned dynamics.','不同已学习动力学下的纠错时程与运动轨迹。'),
+('Corrections incorporated knowledge acquired during force-field training.','在线纠错利用了力场训练中获得的知识。'),
+('Learned dynamics influence both planned and corrective behaviour.','学到的动力学同时影响预先准备的运动与在线纠错。'),
+('A shared dynamics estimate and a trained recurrent policy can both carry knowledge into corrective behaviour.','共享动力学估计和经过训练的循环策略均可将已有知识用于纠错。'),
+('Hold baseline trajectories constant; predict untrained perturbation directions and timings with parameters fixed before testing.','匹配基线轨迹；固定训练后的参数，预测未训练扰动方向和时点的响应。'))
+add('maeda2018','Transfer / 迁移','Figures 3, 6 and 7; shoulder-fixation and no-fixation control',
+('Fix the shoulder during voluntary elbow reaches; test mechanical perturbations with the shoulder free.','自主肘关节到达训练时固定肩关节；机械扰动测试时释放肩关节。'),
+('Shoulder EMG in reaching and in the 50–100 ms long-latency response; pre-perturbation EMG and elbow-muscle controls.','到达运动肩部肌电及扰动后50–100 ms长潜伏期响应；扰动前肌电与肘部肌肉对照。'),
+('Reduced shoulder activation during learning transferred to long-latency shoulder responses.','训练中的肩部激活下降迁移至肩部长潜伏期响应。'),
+('Transfer reaches a rapid feedback pathway, with baseline activation controls.','迁移涉及快速反馈通路，并有基线肌电对照。'),
+('Shared storage, coupled updates and common task-dependent readout remain candidate implementations.','共享存储、耦合更新与共同的任务依赖读出均可实现该现象。'),
+('Cross training and test contexts while measuring pre-perturbation EMG and short- and long-latency responses.','交叉训练与测试情境，同时测量扰动前肌电、短潜伏期及长潜伏期响应。'))
+add('maeda2020','Transfer / 迁移','Figures 3–4; perturbation training and transfer-to-reaching probes',
+('Train responses to mechanical perturbations with shoulder fixation and reduced voluntary intervention; probe voluntary reaches.','固定肩关节、减少主动介入，训练机械扰动响应，再探测自主到达运动。'),
+('Long-latency shoulder responses during training and anticipatory shoulder EMG in reach probes.','训练中的肩部长潜伏期响应与到达探针中的预期性肩部肌电。'),
+('Feedback training altered subsequent voluntary motor commands.','反馈训练改变了之后的自主运动指令。'),
+('Transfer can operate from feedback training to voluntary control, complementing the reverse direction.','迁移可从反馈训练指向自主控制，与反方向证据相互补充。'),
+('Bidirectional transfer is compatible with common representations or communication between distinct representations.','双向迁移可由共同表征或不同表征间的信息传递产生。'),
+('Measure transfer after a matched delay in both directions; compare adaptation and retention under identical probe contexts.','在两个方向使用匹配延迟测量迁移，并在相同探针情境下比较学习与保持。'))
+add('yousif2012','Dissociation / 分离','Experiments 1–3; Figures 4–6, especially Figure 6',
+('Change the temporal consistency of position-dependent force exposure while matching counts of field, null and channel trials.','匹配力场、零力场和通道试次数量，改变位置相关力场暴露的时间一致性。'),
+('Position/velocity components of channel forces in feedforward adaptation and feedback to target–channel misalignment.','前馈适应及目标—通道错位反馈中，通道力的位置与速度成分。'),
+('Consistent exposure changed both domains; inconsistent exposure changed feedback structure without the corresponding feedforward structural change.','一致暴露改变两个控制域；不一致暴露改变反馈结构，未产生相应的前馈结构变化。'),
+('Temporal statistics condition the coupling between the measured control outputs.','误差的时间统计影响所测控制输出之间的耦合。'),
+('Different update rules, timescales or context-dependent expression can create this dissociation.','不同更新规则、时间尺度或情境依赖表达均可产生该分离。'),
+('Add common-context probes at multiple delays; persistence under matched readout favours a learning/retention difference over immediate gating.','增加共同测试情境下的多延迟探针；匹配读出后仍持续的差异支持学习或保持差异。'))
+add('kasuga2015','Dissociation / 分离','Figures 3–5; endpoint, online and no-mirror control groups',
+('Train mirror-reversed reaching with endpoint-only or continuous visual feedback.','在镜像反转条件下，使用终点视觉反馈或连续视觉反馈训练。'),
+('Initial movement direction and force responses to cursor jumps; principal response window 251–350 ms.','初始运动方向与光标跳变引起的力响应；主要分析窗为251–350 ms。'),
+('Endpoint feedback favoured feedforward performance; online exposure produced greater attenuation of inappropriate feedback responses.','终点反馈更有利于前馈表现；在线反馈暴露使不适当反馈响应的衰减更明显。'),
+('Exposure to online consequences matters for acquiring a changed feedback policy.','在线动作后果的暴露影响新反馈策略的获得。'),
+('Mirror reversal requires policy remapping; training duration and sensory exposure differ from force-field adaptation.','镜像反转要求策略重映射，其训练时长与感觉暴露不同于力场适应。'),
+('Match exposure and asymptotic baseline performance, then compare full response waveforms across training duration.','匹配感觉暴露与稳定后的基线表现，再跨训练时长比较完整响应波形。'))
+add('albert2016','Teaching signal / 教学信号','Figures 1, 5–6; 2016 correction concerns Figure 2A Error 2 displacement traces',
+('Place one or two curl-field trials between baseline and post-error channel trials.','在基线与误差后通道试次之间插入一至两个旋转力场试次。'),
+('Perturbation-minus-baseline EMG and post-error-minus-baseline EMG across muscles.','跨肌肉比较扰动减基线肌电、误差后减基线肌电。'),
+('Learning-related EMG resembled a scaled corrective response advanced by about 125 ms.','学习相关肌电近似于缩放后、提前约125 ms的纠错响应。'),
+('The observed muscle patterns support a feedback-related teaching signal in this force-field paradigm.','该力场范式的肌肉模式支持与反馈有关的教学信号。'),
+('A shared upstream error drive can couple the signals; temporal copying requires additional timing manipulations.','共同上游误差信号也可使两类响应相关；时间复制假说需额外时序操纵。'),
+('Shift perturbation onset and reverse late error while pairing correction and next-trial force/EMG; predict timing as well as amplitude.','改变扰动起始时点并反转晚期误差，配对测量纠错与下一试次力/肌电，同时预测时序与幅值。'))
+add('makino2026','Teaching signal / 教学信号','Experiments 1–3; Figures 1–4; reviewed preprint v1, 29 June 2026',
+('Manipulate onset, magnitude and temporal pattern of cursor displacement within a force channel.','在力通道内操纵光标位移的起始时点、幅度和时间模式。'),
+('Baseline-subtracted corrective force and next-trial learning force, including the terminal holding period.','扣除基线的纠错力与下一试次学习力，包括末端保持期。'),
+('Learning onset remained linked to movement onset; tonic holding responses predicted learning amplitude across changed visual-error patterns.','学习响应的起始保持与运动开始对齐；持续保持响应可预测不同视觉误差模式下的学习幅度。'),
+('Visual-error timing constrains a universal fixed-time-shift copying account.','视觉误差时序实验约束了普适固定时间平移复制解释。'),
+('Tonic force may index an integrated teaching variable; causal mediation and transfer to force-field errors remain open.','持续力可能反映整合后的教学变量；其因果中介作用及向力场误差的推广有待检验。'),
+('Use matched visual and mechanical temporal perturbations; compare prespecified copying and temporal-integration models on held-out onset patterns.','匹配视觉与机械扰动时序，比较预先指定的复制模型与时间整合模型对留出时序的预测。'),status='Reviewed preprint, version 1 / 已评审预印本第1版')
+add('cluff2013','Transfer / 迁移','Results: load magnitude/direction and rapid-feedback adaptation',
+('Adapt reaches to novel upper-limb loads with different magnitudes and directions.','对不同大小和方向的新上肢负载进行到达适应训练。'),
+('Reach adaptation and rapid perturbation-evoked muscle responses at a probe target with controlled background activation.','在控制背景激活的探针目标处测量到达适应与扰动诱发的快速肌肉响应。'),
+('Feedback changes covaried with reach adaptation and properties of the learned load.','反馈变化与到达适应及已学习负载的属性相关。'),
+('Feedback modulation carries load-specific information.','反馈调节包含负载特异信息。'),
+('The background-activation control constrains automatic gain scaling; common estimates and jointly trained outputs remain alternative implementations.','背景激活对照约束自动增益缩放；共同估计与联合训练输出仍是竞争实现。'),
+('Measure gain scaling at matched background activation and test unseen load–target combinations.','在匹配背景激活下测量增益缩放，并测试未见过的负载—目标组合。'))
+add('franklin2003','Mechanics / 力学','Stable velocity field versus unstable divergent field; Figures 5–10',
+('Compare adaptation to stable velocity-dependent and unstable divergent dynamics.','比较稳定速度相关动力学与不稳定发散动力学下的适应。'),
+('Trajectory, force/torque and muscle activation across learning.','学习过程中的轨迹、力/力矩与肌肉激活。'),
+('Successful adaptation combined changes in compensatory commands and coactivation, depending on environmental stability.','适应成功伴随补偿指令与共激活变化，其组合取决于环境稳定性。'),
+('Body mechanics contribute to similar improvements in trajectory accuracy.','身体力学变化可参与产生相似的轨迹精度改善。'),
+('EMG coactivation is an indirect stiffness measure; neural feedback and intrinsic mechanics both influence resistance.','肌电共激活是刚度的间接指标；神经反馈与内在力学共同影响抗扰。'),
+('Add small multidirectional mechanical probes, background EMG and latency-resolved force to estimate impedance independently.','增加小幅多方向机械探针、背景肌电与按潜伏期分解的力响应，独立估计阻抗。'))
+add('franklin2023','Dissociation / 分离','Results: visual-error availability, feedback gains and co-contraction',
+('Vary abrupt/gradual force-field introduction and availability of visual trajectory error.','改变力场突然或渐进引入方式，以及视觉轨迹误差的可用性。'),
+('Adaptation, visuomotor feedback gains and co-contraction.','适应、视运动反馈增益与共收缩。'),
+('Removing visual error reduced feedback gains while preserving their learning-related modulation pattern.','移除视觉误差降低反馈增益，同时保留与学习有关的调节模式。'),
+('A measured visual gain depends on sensory conditions as well as training state.','所测视觉增益同时依赖感觉条件与训练状态。'),
+('Uncertainty-based interpretations require a separate estimate of uncertainty.','基于不确定性的解释需要独立测量不确定性。'),
+('Calibrate visual reliability and correction gain outside learning, then predict transfer across the reliability manipulation.','在学习之外校准视觉可靠性与纠错增益，再预测跨可靠性操纵的迁移。'))
+add('crevecoeur2020','Timescale / 时间尺度','Experiments 1–2; Figures 3–7',
+('Present unanticipated force fields in a random sequence, including different field types.','随机呈现不可预期的力场，并包含不同力场类型。'),
+('Within-reach EMG, force and late movement kinematics.','单次到达中的肌电、力与运动晚期运动学。'),
+('Feedback became tuned to the ongoing field on a timescale of roughly 250 ms from reach onset.','反馈在运动开始后约250 ms的时间尺度上表现出对当前力场的调谐。'),
+('Adaptation-related adjustment can operate within an ongoing movement.','与适应有关的调整可在一次正在进行的运动内发生。'),
+('Fast identification and selection among available policies can produce related within-trial changes.','快速辨识与已有策略之间的选择均可产生相关的试次内变化。'),
+('Probe the next trial after matched within-trial corrections; test whether the change persists and generalizes.','在匹配试次内纠错后探测下一试次，检验变化是否保持与泛化。'))
+add('izawa2011','Readout / 读出','Sensory versus reward prediction-error training; sensory remapping and generalization results',
+('Compare training driven by sensory prediction error with reward-based learning.','比较感觉预测误差驱动训练与奖励驱动学习。'),
+('Motor adaptation together with reported sensory consequences and generalization.','运动适应、所报告的感觉后果及泛化。'),
+('The learning routes produced distinguishable sensory remapping despite changes in motor performance.','不同学习途径在运动表现变化之外，产生可区分的感觉重映射。'),
+('A paired perceptual readout constrains which internal consequences accompany learning.','配对感觉读出能够约束学习伴随的内部后果。'),
+('Perceptual reports depend on task, estimation and response mapping.','感觉报告依赖任务、估计与报告映射。'),
+('Add passive and active localization with identical report mappings and matched movement performance.','增加报告映射一致的被动与主动定位，并匹配运动表现。'))
+add('berniker2008','Source attribution / 来源归因','Model and comparisons with published generalization experiments; Figures 1–5',
+('Model latent changes in body and external-world dynamics and compare predicted transfer with published experiments.','建模身体与外部世界动力学的潜在变化，并与已发表实验的迁移结果比较。'),
+('Predicted generalization across workspace, limbs and object contexts.','跨工作空间、肢体及物体情境的泛化预测。'),
+('Different inferred disturbance sources produced different patterns of generalization.','推断出的不同扰动来源产生不同泛化模式。'),
+('Source inference supplies a computational account of structured generalization.','来源推断为结构化泛化提供了计算解释。'),
+('The fit of a source-estimation model supports explanatory sufficiency; competing latent-state models may share predictions.','来源估计模型的拟合支持其解释能力；其他潜状态模型可能给出相同预测。'),
+('Change source cues at matched physical errors and preregister predictions for an untrained limb or object.','在匹配物理误差时改变来源线索，并预先指定对未训练肢体或物体的预测。'),status='Computational theory with comparisons to prior experiments / 计算理论及既有实验比较')
+add('wei2009','Source attribution / 来源归因','Experiments manipulating error magnitude; relevance model',
+('Vary sensory error magnitude in reaching adaptation.','改变到达适应中的感觉误差幅度。'),
+('Trial-to-trial adaptation as a function of error size.','随误差大小变化的试次间适应。'),
+('Error sensitivity varied nonlinearly with error magnitude, motivating an estimate of error relevance.','误差敏感性随误差幅度非线性变化，支持误差相关性估计解释。'),
+('Learning gain depends on more than physical error magnitude alone.','学习增益依赖误差幅度之外的因素。'),
+('Saturating encodings and changing beliefs can yield related input–output curves.','饱和编码与信念变化均可产生相关的输入—输出曲线。'),
+('Cross error magnitude with independently manipulated source credibility; measure perceived error as well as learning.','交叉操纵误差大小与独立的来源可信度，同时测量感知误差和学习。'))
+add('external2020','Source attribution / 来源归因','Results: reach aftereffects, passive localization, active-minus-passive localization; hand-view and cursor-jump groups',
+('Expose a visuomotor rotation through a visible cursor jump or direct hand view.','通过可见光标跳变或直接看到手的位置揭示视运动旋转。'),
+('Reach aftereffects, passive localization and active-minus-passive localization.','到达后效、被动定位及主动减被动定位。'),
+('Both exposure conditions reduced aftereffects; hand view abolished the estimated efferent contribution while proprioceptive recalibration persisted.','两类揭示条件均减小后效；看到手的位置消除了估计的传出预测贡献，而本体感觉重校准保留。'),
+('Learning components respond differently to information revealing a display distortion.','学习成分对揭示显示失真的信息呈现不同响应。'),
+('Hand view changes sensory information together with attribution; active-minus-passive localization depends on subtraction assumptions.','看到手同时改变感觉信息与归因；主动减被动定位依赖差分假设。'),
+('Add a credible cue-only attribution condition with identical hand visibility and independently calibrated localization.','增加手可见性相同的可信纯线索归因条件，并独立校准定位测量。'))
+add('piece2025','Source attribution / 来源归因','Figure 1 experimental setup; Figure 2 human results; model comparisons',
+('Compare small externally imposed rotations with internally generated movement variability matched in scale.','比较小幅外加旋转与幅度匹配的自身运动变异。'),
+('Subsequent trial-to-trial angular change relative to the error trial.','误差试次之后的试次间角度变化。'),
+('Participants adapted to externally generated errors more than to matched internally generated errors.','参与者对外加误差的适应大于对匹配的自身生成误差的适应。'),
+('The source distinction here concerns external perturbation versus motor noise.','这里的来源区分针对外部扰动与运动噪声。'),
+('The motor-noise category differs from a persistent change in body dynamics; latent perceived errors can differ at matched cursor errors.','运动噪声类别不同于身体动力学的持续变化；光标误差相同时潜在感知误差仍可不同。'),
+('Cross source with temporal persistence and pair sensory localization with adaptation; test cue effects at matched perceived error.','交叉操纵来源与时间持续性，配对感觉定位和适应，在匹配感知误差时检验线索效应。'))
+add('hayashi2020','Sensory specificity / 感觉特异性','Experiments 1–3; Figures 4, 7 and 8; Figure 8-1 model',
+('Manipulate visual and proprioceptive errors independently, including opposing signs; examine modality-dependent learning dynamics.','独立操纵视觉与本体感觉误差，包括相反符号组合，并考察模态相关的学习动态。'),
+('Immediate feedback, next-trial aftereffects and adaptation/decay across error modalities.','即时反馈、下一试次后效及不同误差模态下的适应与衰减。'),
+('Aftereffects exhibited nonlinear multisensory interactions; modality-dependent dynamics supported a model with separate visual and proprioceptive memories.','后效呈现非线性多感觉交互；模态相关动态支持包含分别视觉与本体感觉记忆的模型。'),
+('A single linearly fused scalar error is inadequate for the tested error range.','单一线性融合的标量误差难以解释所测试误差范围。'),
+('Sensory-specific states can feed both feedforward and feedback outputs; channel specificity and output sharing are compatible.','感觉特异状态可同时供前馈与反馈输出使用；通道特异性与输出共享可以并存。'),
+('Measure a two-error by two-output transfer matrix, then repeat it under matched test context and multiple delays.','测量两种误差乘两类输出的迁移矩阵，再在匹配测试情境及多个延迟下重复。'))
+add('hoffmann2023','Sensory specificity / 感觉特异性','Experiments 1–2: visual error scaling and hand-versus-cursor instructions',
+('Scale visible displacement during mechanical force perturbations; instruct participants to control the cursor or hidden hand.','机械力扰动中缩放可见位移；指示参与者控制光标或隐藏的手。'),
+('Online corrective response and next unperturbed-trial aftereffect.','在线纠错响应与下一无扰动试次的后效。'),
+('Visual scaling strongly affected corrections and transferred less consistently to aftereffects; hand-directed instructions removed the residual visual influence.','视觉缩放明显影响纠错，其影响向后效的迁移较不一致；以手为目标的指示消除了残余视觉影响。'),
+('Task goal and sensory error jointly determine the relation between correction and learning.','任务目标与感觉误差共同决定纠错和学习之间的关系。'),
+('Physical visual gain, attention and inferred task error can all contribute to the instruction effect.','物理视觉增益、注意及所推断任务误差均可能参与指示效应。'),
+('Cross target goal and visual reliability, calibrate perception separately, and predict held-out combinations without refitting.','交叉操纵目标与视觉可靠性，独立校准感知，不重新拟合地预测留出组合。'))
+add('coin2021','Context / 情境','Figures 2–3: evoked recovery and context-dependent single-trial learning',
+('Manipulate disturbance history and contextual evidence in force-field learning and channel probes.','在力场学习及通道探针中操纵扰动历史与情境证据。'),
+('Recovery of compensation and single-trial learning under different inferred contexts.','不同推断情境下的补偿恢复与单次学习。'),
+('Predicted evoked recovery and context-dependent single-trial learning were observed experimentally.','实验观察到模型预测的诱发恢复及情境依赖单次学习。'),
+('Context inference can change both memory updating and expression.','情境推断可改变记忆更新与表达。'),
+('A transfer change measured in one test context combines acquisition with retrieval/readout.','在单一测试情境中测到的迁移变化同时包含获得与提取/读出影响。'),
+('Independently randomize training and test cues; a test-cue effect without new error identifies an expression component.','独立随机化训练与测试线索；无新误差时的测试线索效应识别出表达成分。'))
+add('unlearning2016','Measurement / 测量','Cursor, Arc and Augmented-Error groups; channel-trial memory decay results',
+('Vary visual feedback during nominally error-free channel trials after force-field adaptation.','在力场适应后的名义无误差通道试次中改变视觉反馈。'),
+('Decay of channel force across repeated probes.','重复探针中通道力的衰减。'),
+('Online visual feedback increased the rate and extent of decay; augmented visual error increased decay further.','在线视觉反馈增加衰减速度和幅度；增大的视觉误差进一步增加衰减。'),
+('A measurement probe can itself produce learning or unlearning.','测量探针本身可产生学习或去学习。'),
+('Probe-induced updating and passive retention contribute jointly to observed decay.','探针诱发更新与被动保持共同影响所测衰减。'),
+('Counterbalance probe order, include probe-naive first tests and estimate retention in a sensory-matched control.','平衡探针顺序，加入未经历先前探针的首次测试，并在感觉匹配对照中估计保持。'))
+add('feulner2025','Implementation / 实现','Recurrent-network learning rule; behavioural and macaque neural comparisons',
+('Train a recurrent controller with error feedback and feedback-dependent plasticity.','使用误差反馈与反馈依赖可塑性训练循环控制器。'),
+('Simulated corrections, adaptation and population activity compared with motor-cortex recordings.','模拟纠错、适应及与运动皮层记录比较的群体活动。'),
+('The recurrent implementation reproduced multiple behavioural features and learning-related neural activity changes.','循环实现复现了多项行为特征及学习相关神经活动变化。'),
+('Feedback-trained recurrent policies provide a concrete mechanistic competitor to explicit internal-model implementations.','反馈训练的循环策略为显式内部模型实现提供具体的机制竞争者。'),
+('Matching selected behaviours and neural summaries leaves multiple implementations viable.','拟合所选行为与神经摘要后，仍存在多个可行实现。'),
+('Train competing implementations to matched behaviour; test out-of-distribution interventions and neural responses jointly.','将竞争实现训练至匹配行为，再联合检验分布外干预及神经响应。'),status='Computational model with neural-data comparison / 计算模型及神经数据比较')
+
+add('tsay2022','Counterevidence / 反证','Experiments 1–3; Figures 2, 3, 5 and 6',
+('Use target jumps and clamped cursor feedback to vary task error with and without sensory prediction error; include target flicker.','使用目标跳变及钳制光标反馈，在有无感觉预测误差时改变任务误差，并加入目标闪烁。'),
+('Implicit hand-angle change across target-error and cursor-error combinations.','不同目标误差与光标误差组合中的隐式手角变化。'),
+('Task error alone produced no implicit recalibration; task error modulated recalibration when sensory prediction error was present. Target flicker also attenuated learning.','任务误差单独未产生隐式重校准；存在感觉预测误差时，任务误差调节重校准。目标闪烁也减弱学习。'),
+('Learning in this protocol depends on the joint error and attention conditions.','该方案中的学习依赖误差与注意条件的组合。'),
+('Target events alter attention and error geometry together; Oza et al. report dissociable learning under different instructions.','目标事件同时改变注意与误差几何；Oza等在不同指示下报告可分学习。'),
+('Cross target jump with a spatially matched flicker control, collect aim reports and an immediate instructed aftereffect, and fit both interaction and strategic-addition models.','交叉目标跳变与空间匹配闪烁对照，记录瞄准报告及即时按指示后效，同时拟合交互模型与策略叠加模型。'))
+
+add('oza2024','Counterevidence / 反证','Experiments 1–4; Figures 1–4; Mathematical modeling',
+('Change target position/size, visual perturbation and instructions to isolate sensory prediction and task performance errors.','改变目标位置/大小、视觉扰动及指示，分离感觉预测误差与任务表现误差。'),
+('Reach direction, instructed changes in behaviour, aftereffects and competing-model predictions.','到达方向、指示导致的行为变化、后效及竞争模型预测。'),
+('Task performance errors elicited verbally sensitive action selection; sensory prediction errors elicited implicit recalibration. Their combination increased total improvement.','任务表现误差引发对言语指示敏感的动作选择；感觉预测误差引发隐式重校准；两者共同作用增加总体改善。'),
+('Total reach improvement can combine strategic and implicit processes; an automatic task-error modulation account fails in these tested conditions.','总体到达改善可同时包含策略和隐式过程；自动任务误差调节解释在这些测试条件下失效。'),
+('This contrasts with Tsay et al.; different target events and instructions leave attention and strategy as competing moderators.','该结果与Tsay等形成冲突；目标事件和指示差异使注意与策略成为竞争调节因素。'),
+('Use the same target-event schedule with randomized instruction and matched report demands; test model predictions on the instruction switch.','在同一目标事件序列下随机化指示并匹配报告要求，用指示切换检验模型预测。'))
+
+add('uncertain2023','Boundary condition / 边界条件','Results: uncertainty-dependent changes in initial movement vector; model comparisons',
+('Vary visual uncertainty while permitting feedback correction during reaching.','在允许到达过程反馈纠错时改变视觉不确定性。'),
+('Trial-to-trial initial movement vectors, previous-trial uncertainty, error size and direction.','逐试次初始运动向量、上一试次不确定性及误差大小和方向。'),
+('Abrupt uncertainty-dependent changes accompanied slow error reduction and were insensitive to the preceding error size and direction.','突发的不确定性依赖变化叠加于缓慢误差减小，其变化对前次误差大小与方向不敏感。'),
+('A reliability manipulation can change the next action through an error-independent component.','可靠性操纵可通过误差无关成分改变下一动作。'),
+('An error-independent policy or context shift can mimic a learning-rate change if only signed mean error is analyzed.','只分析平均有符号误差时，误差无关的策略或情境变化可表现为学习率改变。'),
+('Include zero-error and balanced positive/negative-error trials; estimate an intercept and an error-dependent slope separately.','加入零误差及平衡正负误差试次，分别估计截距与误差依赖斜率。'))
+
+add('premo2022','Competing account / 竞争解释','Model definition; core predictions and challenges',
+('Formulate adaptation as reduction of perceived hand-to-goal error and synthesize prior proprioceptive observations.','将适应表述为减小感知手位置与目标之差，并综合既有本体感觉观察。'),
+('Model predictions concerning perceived hand position and implicit adaptation.','关于感知手位置与隐式适应的模型预测。'),
+('A proprioceptive re-alignment account organizes several findings commonly attributed to visual error learning.','本体感觉重对齐解释能够组织多项通常归因于视觉误差学习的结果。'),
+('The identity of the teaching error is a substantive model choice.','教学误差的定义是一项实质性模型选择。'),
+('The paper identifies a correlational evidence base; perceptual prediction error supplies another input-level competitor.','原文指出其证据基础具有相关性；感知预测误差提供另一项输入层竞争解释。'),
+('Independently change perceived hand-to-goal distance and perceived-versus-predicted hand discrepancy; test learning with matched reporting demands.','独立改变感知手—目标距离及感知—预测手位置偏差，在报告要求匹配时检验学习。'),status='Conceptual model and synthesis / 概念模型与综合')
+
+add('percept2026','Competing account / 竞争解释','Experiments 1–6; Figure 8 perceptual probe; model comparisons',
+('Combine visuomotor adaptation, instructed re-aiming, aim reports and direct perceptual probes.','结合视运动适应、按指示重新瞄准、瞄准报告及直接感知探针。'),
+('Explicit and implicit learning, estimated hand kinematics and model predictions.','显式与隐式学习、估计的手运动学及模型预测。'),
+('A multisensory perceptual prediction-error model accounted for the tested learning patterns and perceptual probes.','多感觉感知预测误差模型解释了所测试学习模式与感知探针。'),
+('Perceptual estimates provide measurable constraints on candidate teaching signals.','感知估计为候选教学信号提供可测约束。'),
+('Transfer from reported perception to the signal driving force-field learning requires task-specific validation.','从报告感知到驱动力场学习信号的对应，需要任务特异验证。'),
+('Calibrate perception under the same sensory timing as training and reserve independent probe conditions for prediction.','在与训练相同的感觉时序下校准感知，保留独立探针条件用于预测。'))
+
+add('attention2026','Counterevidence / 反证','Experiments 1–2; Figures 2, 5 and 6; single-task, dual-task and contingent-feedback groups',
+('Add a concurrent visual attention task during clamped-feedback reaching; manipulate performance-contingent feedback for that task.','在钳制反馈到达时加入并行视觉注意任务，并操纵该任务的表现依赖反馈。'),
+('Implicit hand-angle adaptation, aftereffects, secondary-task performance and fitted learning parameters.','隐式手角适应、后效、副任务表现及拟合学习参数。'),
+('Dual-task demands enhanced early implicit adaptation; contingent feedback sustained the enhancement.','双任务要求增强早期隐式适应；表现依赖反馈使增强持续。'),
+('Attentional demands can modulate implicit adaptation, with direction depending on the task.','注意要求能够调节隐式适应，方向依赖具体任务。'),
+('Attention allocation, engagement and arousal remain alternative sources of the modulation.','注意分配、投入程度和唤醒仍是该调节的竞争来源。'),
+('Measure secondary-task performance and equate sensory stimulation; avoid treating all distraction as a fixed suppressive gain.','记录副任务表现并匹配感觉刺激；为注意效应估计条件依赖项。'))
+
+add('smith2006','Timescales / 时间尺度','Results: spontaneous recovery; Figures 2–3; two-state model',
+('Adaptation followed by extinction and error-clamp probes.','适应后消退，再用误差钳制探针测试。'),
+('Force compensation and spontaneous recovery over probe trials.','探针序列中的力补偿及自发恢复。'),
+('Spontaneous recovery followed extinction under error clamp.','消退后在误差钳制中出现自发恢复。'),
+('Interacting processes with different sensitivity and retention explain several temporal phenomena.','敏感性及保持不同的过程交互可解释多种时间现象。'),
+('Temporal modes and neural storage sites have a many-to-many relationship; mixtures alter output ratios.','时间模式与神经存储位置存在多对多关系；混合会改变输出比例。'),
+('Fit common versus output-specific temporal modes and predict held-out delays and histories.','拟合共同与输出特异时间模式，预测留出延迟及历史。'))
+add('franklin2021','Temporal feedback / 时间反馈','Abrupt versus gradual adaptation; public archive 10.6084/m9.figshare.12816086',
+('Abrupt and gradual force-field schedules with visual error information.','保留视觉误差信息，采用突然及渐变力场序列。'),
+('Channel compensation and visually evoked feedback responses.','通道补偿与视觉诱发反馈响应。'),
+('Feedback gains varied over adaptation and with the exposure schedule.','反馈增益随适应进程及暴露序列变化。'),
+('Multiple temporal contributions are relevant to feedback modulation.','反馈调节涉及多种时间贡献。'),
+('Common and output-specific temporal kernels can yield similar measured trajectories.','共同与输出特异时间核可产生相似测量轨迹。'),
+('Freeze models trained here and predict the visual-clamp study; repeat in reverse.','冻结在此训练的模型并预测视觉钳制研究，再反向检验。'))
+ROWS[14]['finding']=('Aftereffects were reduced in the exposure groups. Passive localization shifts persisted; the hand-view active-minus-passive estimate was near zero, while its direct contrast with control remained uncertain.','揭示条件下后效减小，被动定位变化保留；手可见组主动减被动估计接近零，其与对照组的直接差异仍有不确定性。')
+ROWS[14]['inference']=('Motor aftereffects and report components show different response patterns; the hand-view contrast does not uniquely identify elimination of an efferent mechanism.','运动后效与报告成分呈不同响应模式；手可见对比对传出机制是否消除保留多种解释。')

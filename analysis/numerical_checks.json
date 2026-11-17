@@ -1,0 +1,13 @@
+{
+  "basis_error_max": 1.3310597068993957e-10,
+  "source_optimization_max_improvement": 1.126283510899384e-10,
+  "final_fits": 32,
+  "all_final_starts_per_fit": 64,
+  "heldout_model_labels": [
+    "shared_one",
+    "separate_one",
+    "shared_two_mixed",
+    "separate_two"
+  ],
+  "note": "Tests target numerical equivalence and source refit convergence; source-target separation is explicit in validate.py."
+}

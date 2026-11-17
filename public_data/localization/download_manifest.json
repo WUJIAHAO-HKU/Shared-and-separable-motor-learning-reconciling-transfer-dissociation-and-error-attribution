@@ -1,0 +1,326 @@
+[
+  {
+    "file": "30explicit_learningcurves_long.csv",
+    "url": "https://osf.io/download/k9dmr/",
+    "sha256": "d506eb17943d2e256faa135b02a890218b8af22bb86e3e5ec781ab6371dbb16d",
+    "bytes": 52079
+  },
+  {
+    "file": "30explicit_learningcurves_wide.csv",
+    "url": "https://osf.io/download/xjcw3/",
+    "sha256": "44df7446b3d9489158a2ba0287c68518f7b20e66ebcf8835ba9c90c842c70fb6",
+    "bytes": 31999
+  },
+  {
+    "file": "30explicit_CI_learningcurves.csv",
+    "url": "https://osf.io/download/3mzcn/",
+    "sha256": "22c0f8c1b17ae5f21293ee2c3992f0440c9bd4a44f0bd5a8e6dfd7ad57e62bac",
+    "bytes": 4666
+  },
+  {
+    "file": "30explicit_CI_reachaftereffects.csv",
+    "url": "https://osf.io/download/zxdq9/",
+    "sha256": "8eadb6c5422612d251325abc115e3b48ce2cf32d2993cf2dcd88ba93ec8f9b88",
+    "bytes": 118
+  },
+  {
+    "file": "30explicit_loc_p3_AOV.csv",
+    "url": "https://osf.io/download/jhp4t/",
+    "sha256": "8c5f69966fd64a93ce9dcdda77791756c448d4b5060bc5db95895944932fbdb4",
+    "bytes": 11202
+  },
+  {
+    "file": "30explicit_localization_tCI.csv",
+    "url": "https://osf.io/download/7z4sw/",
+    "sha256": "12c2e89dd3132f663176033c14e036447c6e0fda269e6cda67eea0e2342cacf4",
+    "bytes": 1420
+  },
+  {
+    "file": "30explicit_nocursor.csv",
+    "url": "https://osf.io/download/db4yc/",
+    "sha256": "52334276182210e114523f822e833faeb3a2cefa97ea8af679947ca358df3d1c",
+    "bytes": 3989
+  },
+  {
+    "file": "30explicit_localization.csv",
+    "url": "https://osf.io/download/vqpe8/",
+    "sha256": "64af962bbecbb858d1482ff194a6102a4e70526450f79d17ea9ed8f72fca7236",
+    "bytes": 328723
+  },
+  {
+    "file": "30explicit_ppawareness_scores.csv",
+    "url": "https://osf.io/download/472wb/",
+    "sha256": "6186c9cd72f05db2b6581d03437858cd67de20caadf58eb8b4364ae5e4d18ab9",
+    "bytes": 651
+  },
+  {
+    "file": "30implicit_CI_learningcurves.csv",
+    "url": "https://osf.io/download/63c8j/",
+    "sha256": "3724c46674544b7c1731a8cf2d5239ff8a31931a8a8ab8ee22ca3f5cd806733d",
+    "bytes": 4668
+  },
+  {
+    "file": "30implicit_CI_reachaftereffects.csv",
+    "url": "https://osf.io/download/jsu75/",
+    "sha256": "d886a537816666a697d162fa7cb53f84df5a5ec5e529200718a55178fc61df1e",
+    "bytes": 107
+  },
+  {
+    "file": "30implicit_learningcurves_long.csv",
+    "url": "https://osf.io/download/7dutr/",
+    "sha256": "d5dd041ce6ab523975a0f20f066fd4f825e00832334cbadb8ae03d9934ce1606",
+    "bytes": 49907
+  },
+  {
+    "file": "30implicit_learningcurves_wide.csv",
+    "url": "https://osf.io/download/35uma/",
+    "sha256": "4383490e12f07a71dc6f6ed4d4fb556027ceda0603494c903c2fa5120bef712a",
+    "bytes": 30799
+  },
+  {
+    "file": "30implicit_loc_p3_AOV.csv",
+    "url": "https://osf.io/download/prkgw/",
+    "sha256": "f8a9053c913f3bce315f9acfc85e1f298b50d84aa5157561fa2dea4b93911ef4",
+    "bytes": 10634
+  },
+  {
+    "file": "30implicit_localization.csv",
+    "url": "https://osf.io/download/exnpw/",
+    "sha256": "90ae67b0a54311ef41d86b416749e00c5fbf035dd859525dcf426da10274edd5",
+    "bytes": 313780
+  },
+  {
+    "file": "cursorjump_CI_learningcurves.csv",
+    "url": "https://osf.io/download/vqcwk/",
+    "sha256": "10c3106b2e806f64194280d9a29e28d18026ddc5dedab56f3a9068467caafb3d",
+    "bytes": 4675
+  },
+  {
+    "file": "30implicit_localization_tCI.csv",
+    "url": "https://osf.io/download/vd7zh/",
+    "sha256": "4d78b02006391c2cd224921670081fd73796706cb0fffaa4c6b8e9a722ded104",
+    "bytes": 1425
+  },
+  {
+    "file": "30implicit_ppawareness_scores.csv",
+    "url": "https://osf.io/download/2t7us/",
+    "sha256": "8e3a4751c6b6bad4868f080e22cf0b4b4be9065c19887f1fc921dcbf57a9eaf1",
+    "bytes": 622
+  },
+  {
+    "file": "30implicit_nocursor.csv",
+    "url": "https://osf.io/download/wprmc/",
+    "sha256": "3ffbf959cb23189320c4bb123ffd3cf05a598382538091fd91dac9c66b5f0d38",
+    "bytes": 3815
+  },
+  {
+    "file": "cursorjump_learningcurves_wide.csv",
+    "url": "https://osf.io/download/ruyka/",
+    "sha256": "396a20a893e7f6500fc19aff6a9ba27a41ed9bb8453cd69404ab27e516d0a0a0",
+    "bytes": 30936
+  },
+  {
+    "file": "cursorjump_learningcurves_long.csv",
+    "url": "https://osf.io/download/rhca7/",
+    "sha256": "6ed5f0484425b43575ff25cdd273d674c1d0d345d09023656fa362890d5698b7",
+    "bytes": 50044
+  },
+  {
+    "file": "cursorjump_CI_reachaftereffects.csv",
+    "url": "https://osf.io/download/vpsb9/",
+    "sha256": "e9aa420da88f1456f6c6072231713c2f1d472fe98f353a3e4ed1169ccb0a8140",
+    "bytes": 108
+  },
+  {
+    "file": "cursorjump_loc_p3_AOV.csv",
+    "url": "https://osf.io/download/9qgne/",
+    "sha256": "57144ea16dc7a55cf86887be6fe1a7022b5d776ebc05ac3163283a6c28cfee1f",
+    "bytes": 10621
+  },
+  {
+    "file": "cursorjump_localization_tCI.csv",
+    "url": "https://osf.io/download/qs2cn/",
+    "sha256": "7d927a7c8deced9a8160be409443342ca4a8754f361aebd1d3b73d6a562a949e",
+    "bytes": 1407
+  },
+  {
+    "file": "cursorjump_localization.csv",
+    "url": "https://osf.io/download/65arn/",
+    "sha256": "5c85258a4dcd0c2b6b61df7d058a77bad01a084946d32755053d7b43c2c92f24",
+    "bytes": 312745
+  },
+  {
+    "file": "cursorjump_nocursor.csv",
+    "url": "https://osf.io/download/bhuvk/",
+    "sha256": "1b3107ea9207ddd3afbc6d6a8dab551eb916a3958636961d2b20c1214a74534d",
+    "bytes": 3838
+  },
+  {
+    "file": "handview_CI_learningcurves.csv",
+    "url": "https://osf.io/download/5t4su/",
+    "sha256": "1382c50d3451891e2fa0b07420ea95342537a1c2436dc5cb2b1dccc5572d426a",
+    "bytes": 4663
+  },
+  {
+    "file": "cursorjump_ppawareness_scores.csv",
+    "url": "https://osf.io/download/5xm4f/",
+    "sha256": "a0b8483578141d73699aea43a7238e648f6ac7a39fc4a4099e97070c9cf64075",
+    "bytes": 622
+  },
+  {
+    "file": "handview_CI_reachaftereffects.csv",
+    "url": "https://osf.io/download/b28sy/",
+    "sha256": "f04234f59e1d7039cd7c8be0ee85f40e4b588adb36d680b7ce72844f112f0993",
+    "bytes": 119
+  },
+  {
+    "file": "handview_learningcurves_long.csv",
+    "url": "https://osf.io/download/k5yvn/",
+    "sha256": "34723c8098462953b2fb4c3cabb3998757bcedbc777a5839a57df746b8c5d448",
+    "bytes": 72628
+  },
+  {
+    "file": "handview_learningcurves_wide.csv",
+    "url": "https://osf.io/download/9wdpb/",
+    "sha256": "3655d37eb75e09ff0614d056f58f89a86ab33e3b928f97ef0fc8091150cca973",
+    "bytes": 44772
+  },
+  {
+    "file": "handview_loc_p3_AOV.csv",
+    "url": "https://osf.io/download/8dy5t/",
+    "sha256": "5f78dc3b9f4ab53a649b1b1282263726acacd1fb1c179a9bea6082cad184f8d2",
+    "bytes": 14651
+  },
+  {
+    "file": "handview_localization.csv",
+    "url": "https://osf.io/download/uxrz2/",
+    "sha256": "34fd9ae11d4f0f4d90357487598ad89a3a6ec0c1b2ca10f324b3840341e47412",
+    "bytes": 443098
+  },
+  {
+    "file": "handview_localization_tCI.csv",
+    "url": "https://osf.io/download/3vh2x/",
+    "sha256": "beefc2b5b0f32dd1fd888dcff2db2526c71c0acfae207eafdd73a10c32dd0921",
+    "bytes": 1416
+  },
+  {
+    "file": "handview_nocursor.csv",
+    "url": "https://osf.io/download/s2kfj/",
+    "sha256": "68e9b1844b0b699c8500d0998c536d7666d5853c6302f471db55eb327ac2b5f1",
+    "bytes": 5563
+  },
+  {
+    "file": "handview_ppawareness_scores.csv",
+    "url": "https://osf.io/download/gx7mz/",
+    "sha256": "9523e5d005c9e895a423e21fb412d81fd4a99076effdea5fcb49e06e9e77371d",
+    "bytes": 826
+  },
+  {
+    "file": "participant_demographics.csv",
+    "url": "https://osf.io/download/jc2ug/",
+    "sha256": "9fd3e9faa100341119c4e58d429731bb5b22e00e77c63180585f22924ed840d2",
+    "bytes": 2129
+  },
+  {
+    "file": "30implicit_block2_trajectories.csv",
+    "url": "https://osf.io/download/x7fwp/",
+    "sha256": "ac3b3d4e94de726ad4cca4549482419c1c50a00c28fb0b480fde9760c723a876",
+    "bytes": 35356
+  },
+  {
+    "file": "30explicit_block2_trajectories.csv",
+    "url": "https://osf.io/download/rdn3t/",
+    "sha256": "5e284a952a20c925bf5667ffb4138803c709d62a3b1d1b39dbe0fd09bf87887c",
+    "bytes": 37022
+  },
+  {
+    "file": "30implicit_block1_trajectories.csv",
+    "url": "https://osf.io/download/9e76q/",
+    "sha256": "9e94ad64f2e43a42210e6335f94469afb5f55fdbc31503ec0ecad0a0f7eb5208",
+    "bytes": 36445
+  },
+  {
+    "file": "30explicit_block3_trajectories.csv",
+    "url": "https://osf.io/download/vwej3/",
+    "sha256": "d0d4543b94103af7fbc246401bb874c924d3dc94d7c92383502ebab6959883d4",
+    "bytes": 36784
+  },
+  {
+    "file": "30explicit_block1_trajectories.csv",
+    "url": "https://osf.io/download/3epa7/",
+    "sha256": "959aecefe71e15ed2bb2c0111932a74b25d2fd1f2d719956dbf759ed982a6525",
+    "bytes": 38272
+  },
+  {
+    "file": "30implicit_block3_trajectories.csv",
+    "url": "https://osf.io/download/e6u49/",
+    "sha256": "5b521cbf3ff32e4408e5ca431d2f0e80621e6b9a1f9f8081b95b4274602b3fe7",
+    "bytes": 34969
+  },
+  {
+    "file": "cursorjump_block1_trajectories.csv",
+    "url": "https://osf.io/download/2hn8b/",
+    "sha256": "f53c622b77ec88a414d91fafb579122f26e5ff264caaa28c8468da9d4f3342de",
+    "bytes": 34912
+  },
+  {
+    "file": "cursorjump_block2_trajectories.csv",
+    "url": "https://osf.io/download/7ts9m/",
+    "sha256": "f5e18ab3e17d290c1b9e4571ce5ea50da9ee9e46d73190d858eb0f35b0439c72",
+    "bytes": 35356
+  },
+  {
+    "file": "handview_block1_trajectories.csv",
+    "url": "https://osf.io/download/svhq2/",
+    "sha256": "cd42a2f9ecce28a0bea53b9d2d7dd5c97a17fc8cd660c170f1e73d320c9c9bd1",
+    "bytes": 52533
+  },
+  {
+    "file": "cursorjump_block3_trajectories.csv",
+    "url": "https://osf.io/download/9njts/",
+    "sha256": "1b2aacc336b4d8a4f78609c803cdd87e55315045be6e0123cb8b3474efb64418",
+    "bytes": 34927
+  },
+  {
+    "file": "handview_block3_trajectories.csv",
+    "url": "https://osf.io/download/6cxd7/",
+    "sha256": "872358770039e425781fc899df11b3493db273f94e676b23b36e120e72cdd852",
+    "bytes": 50270
+  },
+  {
+    "file": "handview_block2_trajectories.csv",
+    "url": "https://osf.io/download/a6duz/",
+    "sha256": "4acfb7f2e1afa810f69f2837d1252b8ab31267bff099760ed157edc95b056ed7",
+    "bytes": 51035
+  },
+  {
+    "file": "aligned_train_deletedtrials.csv",
+    "url": "https://osf.io/download/96u7v/",
+    "sha256": "0bef08fab9e945fac2ddbfa15a0b3885e95709317e4eea26702aabc969c491a0",
+    "bytes": 2314
+  },
+  {
+    "file": "aligned_nocursor_deletedtrials.csv",
+    "url": "https://osf.io/download/4wbth/",
+    "sha256": "b8a1f20dc1a7ce0b8db5273b897c6e4f1d959c024cfff9579a87f7a8482eefc8",
+    "bytes": 1944
+  },
+  {
+    "file": "rotated_nocursor_deletedtrials.csv",
+    "url": "https://osf.io/download/bs32u/",
+    "sha256": "b70ee36865012638cdfa6db1977b6443fc4332336e7df58a690e3bc653751265",
+    "bytes": 2143
+  },
+  {
+    "file": "rotated_train_deletedtrials.csv",
+    "url": "https://osf.io/download/423ha/",
+    "sha256": "41ff70ca053ec2295f4eda747e695bd8eb3615c26e084a94c90d7d6e8e8a3760",
+    "bytes": 2399
+  },
+  {
+    "file": "ppawareness_scores.csv",
+    "url": "https://osf.io/download/d9eug/",
+    "sha256": "c0343f6674b5c6bd43ae534480a91d2b604c8b21066cc6b54b672805db6f7ed1",
+    "bytes": 2595
+  }
+]

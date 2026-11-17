@@ -1,0 +1,38 @@
+[
+  [
+    "Independent delays",
+    "独立延迟",
+    "Removing delays leaves temporal mixtures unconstrained. Fixed mixed readout can change output ratios; use held-out recurrences.",
+    "删除延迟使时间混合缺少约束。固定混合读出也能改变输出比例，应检验留出递推。"
+  ],
+  [
+    "A second control output",
+    "第二控制输出",
+    "A single output cannot test common versus output-specific temporal modes.",
+    "单输出无法检验共同与输出特异时间模式。"
+  ],
+  [
+    "Independent report-loading constraints",
+    "独立报告载荷约束",
+    "With free cross-loadings, input and update contrasts form an exact continuum even when motor and report changes are measured.",
+    "交叉载荷自由时，即使测量运动及报告变化，输入和更新仍形成精确连续等价集合。"
+  ],
+  [
+    "Crossed training/test cues",
+    "训练/测试线索交叉",
+    "Matched cues alone confound training-associated and expression-associated effects; first probes under crossed cues supply the contrast.",
+    "仅匹配线索会混淆训练相关及表达相关效应；交叉线索下首次探针提供对比。"
+  ],
+  [
+    "Source-only tuning",
+    "仅来源内调参",
+    "Selecting penalties or modes on target post-exposure data converts external prediction into model development.",
+    "用目标暴露后数据选正则或模式，会把外部预测变成模型开发。"
+  ],
+  [
+    "Joint residual sampling",
+    "联合残差采样",
+    "Independent channel or time sampling changes the noise geometry and can inflate recovery; preserve paired temporal blocks.",
+    "独立抽取通道或时间会改变噪声结构并可能抬高恢复率，应保留配对时间块。"
+  ]
+]

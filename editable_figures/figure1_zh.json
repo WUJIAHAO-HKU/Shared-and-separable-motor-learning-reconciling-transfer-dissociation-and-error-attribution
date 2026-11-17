@@ -1,0 +1,1592 @@
+{
+  "width": 1000,
+  "height": 650,
+  "scale": 0.72,
+  "background": "#FFFFFF",
+  "font": "Arial",
+  "exportWidth": 3000,
+  "items": [
+    {
+      "kind": "text",
+      "name": "001 figure title",
+      "x": 24,
+      "y": 12,
+      "w": 952,
+      "h": 38,
+      "text": "共享与分离学习的证据",
+      "size": 28,
+      "color": "#19364D",
+      "bold": true,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "text",
+      "name": "002 figure subtitle",
+      "x": 24,
+      "y": 52,
+      "w": 952,
+      "h": 28,
+      "text": "沿输入、输出和时间尺度定位共享发生的环节",
+      "size": 17,
+      "color": "#536675",
+      "bold": false,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "box",
+      "name": "003 evidence panel",
+      "x": 24,
+      "y": 94,
+      "w": 226,
+      "h": 169,
+      "fill": "#EAF1F6",
+      "line": null,
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "box",
+      "name": "004 evidence accent",
+      "x": 24,
+      "y": 94,
+      "w": 226,
+      "h": 4,
+      "fill": "#19364D",
+      "line": null,
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "text",
+      "name": "005 evidence heading",
+      "x": 34,
+      "y": 105,
+      "w": 206,
+      "h": 28,
+      "text": "迁移",
+      "size": 21,
+      "color": "#19364D",
+      "bold": true,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "text",
+      "name": "006 evidence observation",
+      "x": 34,
+      "y": 213,
+      "w": 206,
+      "h": 43,
+      "text": "预先补偿与快速纠错",
+      "size": 17,
+      "color": "#19364D",
+      "bold": false,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "wire",
+      "name": "007 arm links",
+      "points": [
+        [
+          48,
+          192
+        ],
+        [
+          74.25,
+          162.0
+        ],
+        [
+          115.5,
+          178.5
+        ]
+      ],
+      "color": "#BFCBD2",
+      "arrow": false,
+      "dash": false,
+      "lineWidth": 9.75
+    },
+    {
+      "kind": "wire",
+      "name": "008 arm contours",
+      "points": [
+        [
+          48,
+          192
+        ],
+        [
+          74.25,
+          162.0
+        ],
+        [
+          115.5,
+          178.5
+        ]
+      ],
+      "color": "#19364D",
+      "arrow": false,
+      "dash": false,
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "ellipse",
+      "name": "009 arm joint",
+      "x": 43.5,
+      "y": 187.5,
+      "w": 9.0,
+      "h": 9.0,
+      "fill": "#FFFFFF",
+      "line": "#087F87",
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "ellipse",
+      "name": "010 arm joint",
+      "x": 69.75,
+      "y": 157.5,
+      "w": 9.0,
+      "h": 9.0,
+      "fill": "#FFFFFF",
+      "line": "#087F87",
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "ellipse",
+      "name": "011 arm joint",
+      "x": 111.0,
+      "y": 174.0,
+      "w": 9.0,
+      "h": 9.0,
+      "fill": "#FFFFFF",
+      "line": "#087F87",
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "ellipse",
+      "name": "012 target outer",
+      "x": 200,
+      "y": 141,
+      "w": 20,
+      "h": 20,
+      "fill": "#FFFFFF",
+      "line": "#087F87",
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "ellipse",
+      "name": "013 target centre",
+      "x": 206,
+      "y": 147,
+      "w": 8,
+      "h": 8,
+      "fill": "#087F87",
+      "line": "#087F87",
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "ellipse",
+      "name": "014 target outer",
+      "x": 200,
+      "y": 180,
+      "w": 20,
+      "h": 20,
+      "fill": "#FFFFFF",
+      "line": "#C35F4D",
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "ellipse",
+      "name": "015 target centre",
+      "x": 206,
+      "y": 186,
+      "w": 8,
+      "h": 8,
+      "fill": "#C35F4D",
+      "line": "#C35F4D",
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "wire",
+      "name": "016 transfer to planned",
+      "points": [
+        [
+          124,
+          173
+        ],
+        [
+          165,
+          151
+        ],
+        [
+          195,
+          151
+        ]
+      ],
+      "color": "#087F87",
+      "arrow": true,
+      "dash": false,
+      "lineWidth": 1.8
+    },
+    {
+      "kind": "wire",
+      "name": "017 transfer to correction",
+      "points": [
+        [
+          124,
+          173
+        ],
+        [
+          165,
+          190
+        ],
+        [
+          195,
+          190
+        ]
+      ],
+      "color": "#C35F4D",
+      "arrow": true,
+      "dash": false,
+      "lineWidth": 1.8
+    },
+    {
+      "kind": "box",
+      "name": "018 evidence panel",
+      "x": 266,
+      "y": 94,
+      "w": 226,
+      "h": 169,
+      "fill": "#E8F5F3",
+      "line": null,
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "box",
+      "name": "019 evidence accent",
+      "x": 266,
+      "y": 94,
+      "w": 226,
+      "h": 4,
+      "fill": "#087F87",
+      "line": null,
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "text",
+      "name": "020 evidence heading",
+      "x": 276,
+      "y": 105,
+      "w": 206,
+      "h": 28,
+      "text": "分离",
+      "size": 21,
+      "color": "#087F87",
+      "bold": true,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "text",
+      "name": "021 evidence observation",
+      "x": 276,
+      "y": 213,
+      "w": 206,
+      "h": 43,
+      "text": "终点反馈与在线反馈",
+      "size": 17,
+      "color": "#19364D",
+      "bold": false,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "box",
+      "name": "022 feedback screen",
+      "x": 284,
+      "y": 144,
+      "w": 85,
+      "h": 56,
+      "fill": "#FFFFFF",
+      "line": "#087F87",
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "ellipse",
+      "name": "023 target outer",
+      "x": 339,
+      "y": 146,
+      "w": 20,
+      "h": 20,
+      "fill": "#FFFFFF",
+      "line": "#C35F4D",
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "ellipse",
+      "name": "024 target centre",
+      "x": 345,
+      "y": 152,
+      "w": 8,
+      "h": 8,
+      "fill": "#C35F4D",
+      "line": "#C35F4D",
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "ellipse",
+      "name": "025 endpoint cursor",
+      "x": 302,
+      "y": 182,
+      "w": 7,
+      "h": 7,
+      "fill": "#087F87",
+      "line": "#087F87",
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "box",
+      "name": "026 feedback screen",
+      "x": 384,
+      "y": 144,
+      "w": 85,
+      "h": 56,
+      "fill": "#FFFFFF",
+      "line": "#087F87",
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "ellipse",
+      "name": "027 target outer",
+      "x": 439,
+      "y": 146,
+      "w": 20,
+      "h": 20,
+      "fill": "#FFFFFF",
+      "line": "#C35F4D",
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "ellipse",
+      "name": "028 target centre",
+      "x": 445,
+      "y": 152,
+      "w": 8,
+      "h": 8,
+      "fill": "#C35F4D",
+      "line": "#C35F4D",
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "wire",
+      "name": "029 online trajectory",
+      "points": [
+        [
+          394,
+          190
+        ],
+        [
+          413,
+          186
+        ],
+        [
+          427,
+          170
+        ],
+        [
+          440,
+          164
+        ]
+      ],
+      "color": "#087F87",
+      "arrow": true,
+      "dash": false,
+      "lineWidth": 1.8
+    },
+    {
+      "kind": "box",
+      "name": "030 evidence panel",
+      "x": 508,
+      "y": 94,
+      "w": 226,
+      "h": 169,
+      "fill": "#FBF2E1",
+      "line": null,
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "box",
+      "name": "031 evidence accent",
+      "x": 508,
+      "y": 94,
+      "w": 226,
+      "h": 4,
+      "fill": "#B7781D",
+      "line": null,
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "text",
+      "name": "032 evidence heading",
+      "x": 518,
+      "y": 105,
+      "w": 206,
+      "h": 28,
+      "text": "误差来源",
+      "size": 21,
+      "color": "#B7781D",
+      "bold": true,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "text",
+      "name": "033 evidence observation",
+      "x": 518,
+      "y": 213,
+      "w": 206,
+      "h": 43,
+      "text": "光标、手部与情境线索",
+      "size": 17,
+      "color": "#19364D",
+      "bold": false,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "polygon",
+      "name": "034 cursor",
+      "points": [
+        [
+          538,
+          150
+        ],
+        [
+          538,
+          188
+        ],
+        [
+          550,
+          177
+        ],
+        [
+          563,
+          177
+        ]
+      ],
+      "fill": "#19364D",
+      "line": null
+    },
+    {
+      "kind": "wire",
+      "name": "035 arm links",
+      "points": [
+        [
+          588,
+          192
+        ],
+        [
+          610.75,
+          166.0
+        ],
+        [
+          646.5,
+          180.3
+        ]
+      ],
+      "color": "#BFCBD2",
+      "arrow": false,
+      "dash": false,
+      "lineWidth": 8.450000000000001
+    },
+    {
+      "kind": "wire",
+      "name": "036 arm contours",
+      "points": [
+        [
+          588,
+          192
+        ],
+        [
+          610.75,
+          166.0
+        ],
+        [
+          646.5,
+          180.3
+        ]
+      ],
+      "color": "#19364D",
+      "arrow": false,
+      "dash": false,
+      "lineWidth": 1.3
+    },
+    {
+      "kind": "ellipse",
+      "name": "037 arm joint",
+      "x": 584.1,
+      "y": 188.1,
+      "w": 7.800000000000001,
+      "h": 7.800000000000001,
+      "fill": "#FFFFFF",
+      "line": "#B7781D",
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "ellipse",
+      "name": "038 arm joint",
+      "x": 606.85,
+      "y": 162.1,
+      "w": 7.800000000000001,
+      "h": 7.800000000000001,
+      "fill": "#FFFFFF",
+      "line": "#B7781D",
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "ellipse",
+      "name": "039 arm joint",
+      "x": 642.6,
+      "y": 176.4,
+      "w": 7.800000000000001,
+      "h": 7.800000000000001,
+      "fill": "#FFFFFF",
+      "line": "#B7781D",
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "box",
+      "name": "040 context cue",
+      "x": 680,
+      "y": 151,
+      "w": 36,
+      "h": 36,
+      "fill": "#FFFFFF",
+      "line": "#B7781D",
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "box",
+      "name": "041 cue tile",
+      "x": 683,
+      "y": 154,
+      "w": 10,
+      "h": 10,
+      "fill": "#B7781D",
+      "line": null,
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "box",
+      "name": "042 cue tile",
+      "x": 683,
+      "y": 174,
+      "w": 10,
+      "h": 10,
+      "fill": "#B7781D",
+      "line": null,
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "box",
+      "name": "043 cue tile",
+      "x": 693,
+      "y": 164,
+      "w": 10,
+      "h": 10,
+      "fill": "#B7781D",
+      "line": null,
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "box",
+      "name": "044 cue tile",
+      "x": 703,
+      "y": 154,
+      "w": 10,
+      "h": 10,
+      "fill": "#B7781D",
+      "line": null,
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "box",
+      "name": "045 cue tile",
+      "x": 703,
+      "y": 174,
+      "w": 10,
+      "h": 10,
+      "fill": "#B7781D",
+      "line": null,
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "box",
+      "name": "046 evidence panel",
+      "x": 750,
+      "y": 94,
+      "w": 226,
+      "h": 169,
+      "fill": "#F1ECF6",
+      "line": null,
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "box",
+      "name": "047 evidence accent",
+      "x": 750,
+      "y": 94,
+      "w": 226,
+      "h": 4,
+      "fill": "#795A96",
+      "line": null,
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "text",
+      "name": "048 evidence heading",
+      "x": 760,
+      "y": 105,
+      "w": 206,
+      "h": 28,
+      "text": "感觉特异性",
+      "size": 21,
+      "color": "#795A96",
+      "bold": true,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "text",
+      "name": "049 evidence observation",
+      "x": 760,
+      "y": 213,
+      "w": 206,
+      "h": 43,
+      "text": "视觉与本体感觉",
+      "size": 17,
+      "color": "#19364D",
+      "bold": false,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "polygon",
+      "name": "050 eye outline",
+      "points": [
+        [
+          770,
+          172.4
+        ],
+        [
+          783.5,
+          160.7
+        ],
+        [
+          797.0,
+          158
+        ],
+        [
+          810.5,
+          160.7
+        ],
+        [
+          824.0,
+          172.4
+        ],
+        [
+          810.5,
+          184.1
+        ],
+        [
+          797.0,
+          186.8
+        ],
+        [
+          783.5,
+          184.1
+        ]
+      ],
+      "fill": "#FFFFFF",
+      "line": "#19364D",
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "ellipse",
+      "name": "051 iris",
+      "x": 788.9,
+      "y": 164.3,
+      "w": 16.2,
+      "h": 16.2,
+      "fill": "#E8F5F3",
+      "line": "#087F87",
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "ellipse",
+      "name": "052 pupil",
+      "x": 794.3,
+      "y": 169.7,
+      "w": 5.4,
+      "h": 5.4,
+      "fill": "#19364D",
+      "line": "#19364D",
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "wire",
+      "name": "053 arm links",
+      "points": [
+        [
+          870,
+          191
+        ],
+        [
+          898.0,
+          159.0
+        ],
+        [
+          942.0,
+          176.6
+        ]
+      ],
+      "color": "#BFCBD2",
+      "arrow": false,
+      "dash": false,
+      "lineWidth": 10.4
+    },
+    {
+      "kind": "wire",
+      "name": "054 arm contours",
+      "points": [
+        [
+          870,
+          191
+        ],
+        [
+          898.0,
+          159.0
+        ],
+        [
+          942.0,
+          176.6
+        ]
+      ],
+      "color": "#19364D",
+      "arrow": false,
+      "dash": false,
+      "lineWidth": 1.6
+    },
+    {
+      "kind": "ellipse",
+      "name": "055 arm joint",
+      "x": 865.2,
+      "y": 186.2,
+      "w": 9.600000000000001,
+      "h": 9.600000000000001,
+      "fill": "#FFFFFF",
+      "line": "#795A96",
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "ellipse",
+      "name": "056 arm joint",
+      "x": 893.2,
+      "y": 154.2,
+      "w": 9.600000000000001,
+      "h": 9.600000000000001,
+      "fill": "#FFFFFF",
+      "line": "#795A96",
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "ellipse",
+      "name": "057 arm joint",
+      "x": 937.2,
+      "y": 171.79999999999998,
+      "w": 9.600000000000001,
+      "h": 9.600000000000001,
+      "fill": "#FFFFFF",
+      "line": "#795A96",
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "text",
+      "name": "058 process section",
+      "x": 24,
+      "y": 274,
+      "w": 230,
+      "h": 25,
+      "text": "学习过程",
+      "size": 18,
+      "color": "#19364D",
+      "bold": true,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "box",
+      "name": "059 training context band",
+      "x": 229,
+      "y": 277,
+      "w": 175,
+      "h": 28,
+      "fill": "#E8F5F3",
+      "line": null,
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "text",
+      "name": "060 training context",
+      "x": 229,
+      "y": 277,
+      "w": 175,
+      "h": 28,
+      "text": "训练情境",
+      "size": 16,
+      "color": "#087F87",
+      "bold": true,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "box",
+      "name": "061 test context band",
+      "x": 617,
+      "y": 277,
+      "w": 175,
+      "h": 28,
+      "fill": "#F1ECF6",
+      "line": null,
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "text",
+      "name": "062 test context",
+      "x": 617,
+      "y": 277,
+      "w": 175,
+      "h": 28,
+      "text": "测试情境",
+      "size": 16,
+      "color": "#795A96",
+      "bold": true,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "box",
+      "name": "063 learning stage",
+      "x": 24,
+      "y": 320,
+      "w": 176,
+      "h": 100,
+      "fill": "#EAF1F6",
+      "line": "#19364D",
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "text",
+      "name": "064 stage title",
+      "x": 32,
+      "y": 325,
+      "w": 160,
+      "h": 45,
+      "text": "误差表征",
+      "size": 18,
+      "color": "#19364D",
+      "bold": true,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "text",
+      "name": "065 stage meaning",
+      "x": 31,
+      "y": 375,
+      "w": 162,
+      "h": 40,
+      "text": "视觉／本体感觉",
+      "size": 16,
+      "color": "#19364D",
+      "bold": false,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "wire",
+      "name": "066 process direction",
+      "points": [
+        [
+          202,
+          369
+        ],
+        [
+          216,
+          369
+        ]
+      ],
+      "color": "#19364D",
+      "arrow": true,
+      "dash": false,
+      "lineWidth": 1.8
+    },
+    {
+      "kind": "box",
+      "name": "067 learning stage",
+      "x": 218,
+      "y": 320,
+      "w": 176,
+      "h": 100,
+      "fill": "#E8F5F3",
+      "line": "#087F87",
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "text",
+      "name": "068 stage title",
+      "x": 226,
+      "y": 325,
+      "w": 160,
+      "h": 45,
+      "text": "更新",
+      "size": 18,
+      "color": "#087F87",
+      "bold": true,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "text",
+      "name": "069 stage meaning",
+      "x": 225,
+      "y": 375,
+      "w": 162,
+      "h": 40,
+      "text": "什么发生改变",
+      "size": 16,
+      "color": "#19364D",
+      "bold": false,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "wire",
+      "name": "070 process direction",
+      "points": [
+        [
+          396,
+          369
+        ],
+        [
+          410,
+          369
+        ]
+      ],
+      "color": "#19364D",
+      "arrow": true,
+      "dash": false,
+      "lineWidth": 1.8
+    },
+    {
+      "kind": "box",
+      "name": "071 learning stage",
+      "x": 412,
+      "y": 320,
+      "w": 176,
+      "h": 100,
+      "fill": "#FBF2E1",
+      "line": "#B7781D",
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "text",
+      "name": "072 stage title",
+      "x": 420,
+      "y": 325,
+      "w": 160,
+      "h": 45,
+      "text": "记忆",
+      "size": 18,
+      "color": "#B7781D",
+      "bold": true,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "text",
+      "name": "073 stage meaning",
+      "x": 419,
+      "y": 375,
+      "w": 162,
+      "h": 40,
+      "text": "什么得以保留",
+      "size": 16,
+      "color": "#19364D",
+      "bold": false,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "wire",
+      "name": "074 process direction",
+      "points": [
+        [
+          590,
+          369
+        ],
+        [
+          604,
+          369
+        ]
+      ],
+      "color": "#19364D",
+      "arrow": true,
+      "dash": false,
+      "lineWidth": 1.8
+    },
+    {
+      "kind": "box",
+      "name": "075 learning stage",
+      "x": 606,
+      "y": 320,
+      "w": 176,
+      "h": 100,
+      "fill": "#F1ECF6",
+      "line": "#795A96",
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "text",
+      "name": "076 stage title",
+      "x": 614,
+      "y": 325,
+      "w": 160,
+      "h": 45,
+      "text": "表达",
+      "size": 18,
+      "color": "#795A96",
+      "bold": true,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "text",
+      "name": "077 stage meaning",
+      "x": 613,
+      "y": 375,
+      "w": 162,
+      "h": 40,
+      "text": "什么被读出",
+      "size": 16,
+      "color": "#19364D",
+      "bold": false,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "wire",
+      "name": "078 process direction",
+      "points": [
+        [
+          784,
+          369
+        ],
+        [
+          798,
+          369
+        ]
+      ],
+      "color": "#19364D",
+      "arrow": true,
+      "dash": false,
+      "lineWidth": 1.8
+    },
+    {
+      "kind": "box",
+      "name": "079 learning stage",
+      "x": 800,
+      "y": 320,
+      "w": 176,
+      "h": 100,
+      "fill": "#F9EDE8",
+      "line": "#C35F4D",
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "text",
+      "name": "080 stage title",
+      "x": 808,
+      "y": 325,
+      "w": 160,
+      "h": 45,
+      "text": "运动",
+      "size": 18,
+      "color": "#C35F4D",
+      "bold": true,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "text",
+      "name": "081 stage meaning",
+      "x": 807,
+      "y": 375,
+      "w": 162,
+      "h": 40,
+      "text": "力／运动学／肌电",
+      "size": 16,
+      "color": "#19364D",
+      "bold": false,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "wire",
+      "name": "082 training acts on update",
+      "points": [
+        [
+          316,
+          306
+        ],
+        [
+          316,
+          318
+        ]
+      ],
+      "color": "#087F87",
+      "arrow": true,
+      "dash": false,
+      "lineWidth": 1.8
+    },
+    {
+      "kind": "wire",
+      "name": "083 test acts on expression",
+      "points": [
+        [
+          704,
+          306
+        ],
+        [
+          704,
+          318
+        ]
+      ],
+      "color": "#795A96",
+      "arrow": true,
+      "dash": false,
+      "lineWidth": 1.8
+    },
+    {
+      "kind": "box",
+      "name": "084 comparison axis",
+      "x": 24,
+      "y": 438,
+      "w": 308,
+      "h": 63,
+      "fill": "#E8F5F3",
+      "line": null,
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "text",
+      "name": "085 axis",
+      "x": 36,
+      "y": 442,
+      "w": 284,
+      "h": 26,
+      "text": "感觉通道",
+      "size": 18,
+      "color": "#087F87",
+      "bold": true,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "text",
+      "name": "086 axis examples",
+      "x": 36,
+      "y": 469,
+      "w": 284,
+      "h": 25,
+      "text": "视觉／本体感觉误差",
+      "size": 16,
+      "color": "#19364D",
+      "bold": false,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "box",
+      "name": "087 comparison axis",
+      "x": 346,
+      "y": 438,
+      "w": 308,
+      "h": 63,
+      "fill": "#FBF2E1",
+      "line": null,
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "text",
+      "name": "088 axis",
+      "x": 358,
+      "y": 442,
+      "w": 284,
+      "h": 26,
+      "text": "控制输出",
+      "size": 18,
+      "color": "#B7781D",
+      "bold": true,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "text",
+      "name": "089 axis examples",
+      "x": 358,
+      "y": 469,
+      "w": 284,
+      "h": 25,
+      "text": "预先补偿／纠错响应",
+      "size": 16,
+      "color": "#19364D",
+      "bold": false,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "box",
+      "name": "090 comparison axis",
+      "x": 668,
+      "y": 438,
+      "w": 308,
+      "h": 63,
+      "fill": "#F1ECF6",
+      "line": null,
+      "lineWidth": 1.3,
+      "rounded": false
+    },
+    {
+      "kind": "text",
+      "name": "091 axis",
+      "x": 680,
+      "y": 442,
+      "w": 284,
+      "h": 26,
+      "text": "时间尺度",
+      "size": 18,
+      "color": "#795A96",
+      "bold": true,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "text",
+      "name": "092 axis examples",
+      "x": 680,
+      "y": 469,
+      "w": 284,
+      "h": 25,
+      "text": "快／慢成分",
+      "size": 16,
+      "color": "#19364D",
+      "bold": false,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "ellipse",
+      "name": "093 measurement number",
+      "x": 24,
+      "y": 527,
+      "w": 32,
+      "h": 32,
+      "fill": "#19364D",
+      "line": null,
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "text",
+      "name": "094 measurement number",
+      "x": 24,
+      "y": 527,
+      "w": 32,
+      "h": 32,
+      "text": "1",
+      "size": 18,
+      "color": "#FFFFFF",
+      "bold": true,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "text",
+      "name": "095 measurement heading",
+      "x": 67,
+      "y": 523,
+      "w": 263,
+      "h": 30,
+      "text": "配对读出",
+      "size": 19,
+      "color": "#19364D",
+      "bold": true,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "text",
+      "name": "096 measurement detail",
+      "x": 67,
+      "y": 556,
+      "w": 263,
+      "h": 36,
+      "text": "纠错＋下一试次学习",
+      "size": 16,
+      "color": "#19364D",
+      "bold": false,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "ellipse",
+      "name": "097 measurement number",
+      "x": 346,
+      "y": 527,
+      "w": 32,
+      "h": 32,
+      "fill": "#B7781D",
+      "line": null,
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "text",
+      "name": "098 measurement number",
+      "x": 346,
+      "y": 527,
+      "w": 32,
+      "h": 32,
+      "text": "2",
+      "size": 18,
+      "color": "#FFFFFF",
+      "bold": true,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "text",
+      "name": "099 measurement heading",
+      "x": 389,
+      "y": 523,
+      "w": 263,
+      "h": 30,
+      "text": "交叉情境",
+      "size": 19,
+      "color": "#19364D",
+      "bold": true,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "text",
+      "name": "100 measurement detail",
+      "x": 389,
+      "y": 556,
+      "w": 263,
+      "h": 36,
+      "text": "训练线索×测试线索",
+      "size": 16,
+      "color": "#19364D",
+      "bold": false,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "ellipse",
+      "name": "101 measurement number",
+      "x": 668,
+      "y": 527,
+      "w": 32,
+      "h": 32,
+      "fill": "#795A96",
+      "line": null,
+      "lineWidth": 1.5
+    },
+    {
+      "kind": "text",
+      "name": "102 measurement number",
+      "x": 668,
+      "y": 527,
+      "w": 32,
+      "h": 32,
+      "text": "3",
+      "size": 18,
+      "color": "#FFFFFF",
+      "bold": true,
+      "align": "center",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "text",
+      "name": "103 measurement heading",
+      "x": 711,
+      "y": 523,
+      "w": 263,
+      "h": 30,
+      "text": "校准输入",
+      "size": 19,
+      "color": "#19364D",
+      "bold": true,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "text",
+      "name": "104 measurement detail",
+      "x": 711,
+      "y": 556,
+      "w": 263,
+      "h": 36,
+      "text": "感知＋力学",
+      "size": 16,
+      "color": "#19364D",
+      "bold": false,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    },
+    {
+      "kind": "wire",
+      "name": "105 footer rule",
+      "points": [
+        [
+          24,
+          609
+        ],
+        [
+          976,
+          609
+        ]
+      ],
+      "color": "#D4DEE5",
+      "arrow": false,
+      "dash": false,
+      "lineWidth": 1
+    },
+    {
+      "kind": "text",
+      "name": "106 scope",
+      "x": 24,
+      "y": 614,
+      "w": 952,
+      "h": 24,
+      "text": "实验组织的概念顺序；各环节之间的关系需通过实验检验。",
+      "size": 15,
+      "color": "#536675",
+      "bold": false,
+      "align": "left",
+      "valign": "middle",
+      "wrap": true,
+      "font": "Microsoft YaHei"
+    }
+  ]
+}

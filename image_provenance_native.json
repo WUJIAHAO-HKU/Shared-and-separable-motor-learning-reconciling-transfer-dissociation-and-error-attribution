@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-18",
+  "backend": "Installed Microsoft PowerPoint via Windows COM",
+  "source": "editable_figures/make_layouts.py and layout JSON",
+  "raster_images_in_concept_decks": 0,
+  "earlier_drafts": "OpenAI image generation; archived locally, excluded from current figures",
+  "current": "AI-assisted code reconstructs scientific relationships with native text, shapes and lines; no claim of manual author drawing or journal policy approval",
+  "figures": [
+    {
+      "number": 1,
+      "language": "en",
+      "pptx": "editable_figures/figure1_en.pptx",
+      "sha256": "18698bc3120ac3a9f9ff90746f47bc443927088d6706f26071939085c8ff3136",
+      "pdf": "figures/figure1_en.pdf"
+    },
+    {
+      "number": 2,
+      "language": "en",
+      "pptx": "editable_figures/figure2_en.pptx",
+      "sha256": "2e18f1a7763b1859f96bada26ecfdb886becdc584be9026361e7d9f17db40f11",
+      "pdf": "figures/figure2_en.pdf"
+    },
+    {
+      "number": 1,
+      "language": "zh",
+      "pptx": "editable_figures/figure1_zh.pptx",
+      "sha256": "870b76dd594539b3ba0b8d5c37c24a6bbfa45ddc0727cec3cde7b363d2d95a3c",
+      "pdf": "figures/figure1_zh.pdf"
+    },
+    {
+      "number": 2,
+      "language": "zh",
+      "pptx": "editable_figures/figure2_zh.pptx",
+      "sha256": "072c2613b943361cddb88dc489ab4e0e75be436b849f5c6a44056f9a67712da0",
+      "pdf": "figures/figure2_zh.pdf"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+[
+  {
+    "id": "E01",
+    "key": "wagner2008",
+    "doi": "10.1523/JNEUROSCI.5479-07.2008",
+    "locator": "Results: responses to unexpected perturbations after force-field learning; model comparisons",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "e59763edb0e43f2e123fd084f1e9397565b5cf7aaef6fd845680065ed6c7dd3b"
+  },
+  {
+    "id": "E02",
+    "key": "maeda2018",
+    "doi": "10.1523/JNEUROSCI.1709-18.2018",
+    "locator": "Figures 3, 6 and 7; shoulder-fixation and no-fixation control",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "07d75f0b4fd60ac426f8be2c31bf1402f4bef6730187710c08b86c37c4c22608"
+  },
+  {
+    "id": "E03",
+    "key": "maeda2020",
+    "doi": "10.1016/j.cub.2020.03.005",
+    "locator": "Figures 3–4; perturbation training and transfer-to-reaching probes",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "5689dd0cf1f371008ddf6b14e1f0cd5065e815e11865c336fc1b1d26537c7942"
+  },
+  {
+    "id": "E04",
+    "key": "yousif2012",
+    "doi": "10.1152/jn.00315.2012",
+    "locator": "Experiments 1–3; Figures 4–6, especially Figure 6",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "c9c1485c1803660a3844ab3c4a53aad3eb4dfb5875581da07d3f73b9f42323e6"
+  },
+  {
+    "id": "E05",
+    "key": "kasuga2015",
+    "doi": "10.1152/jn.00096.2015",
+    "locator": "Figures 3–5; endpoint, online and no-mirror control groups",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "c978dfd30bf5d039db8f3cd4e10bfc1c55a35dd6b909d55fcdd3ada4e39865eb"
+  },
+  {
+    "id": "E06",
+    "key": "albert2016",
+    "doi": "10.1523/JNEUROSCI.0159-16.2016",
+    "locator": "Figures 1, 5–6; 2016 correction concerns Figure 2A Error 2 displacement traces",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "be6f9ce98ea955e0237aba8232628a4a580cb08cd695f875acf20cb7143e5068"
+  },
+  {
+    "id": "E07",
+    "key": "makino2026",
+    "doi": "10.7554/eLife.111537.1",
+    "locator": "Experiments 1–3; Figures 1–4; reviewed preprint v1, 29 June 2026",
+    "accessed": "2026-11-17",
+    "verification": "primary_web_fulltext",
+    "sha256": null
+  },
+  {
+    "id": "E08",
+    "key": "cluff2013",
+    "doi": "10.1523/JNEUROSCI.0263-13.2013",
+    "locator": "Results: load magnitude/direction and rapid-feedback adaptation",
+    "accessed": "2026-11-17",
+    "verification": "primary_web_fulltext",
+    "sha256": null
+  },
+  {
+    "id": "E09",
+    "key": "franklin2003",
+    "doi": "10.1152/jn.01112.2002",
+    "locator": "Stable velocity field versus unstable divergent field; Figures 5–10",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "8c5312deb3309bb33a166046e94df988f02cd2ec6bb79609a9735abe08cfaa87"
+  },
+  {
+    "id": "E10",
+    "key": "franklin2023",
+    "doi": "10.51628/001c.91252",
+    "locator": "Results: visual-error availability, feedback gains and co-contraction",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "f3fd6987d99029963c0c52e6d7518dee2576e74929b0338eae90a250dcf92406"
+  },
+  {
+    "id": "E11",
+    "key": "crevecoeur2020",
+    "doi": "10.1523/ENEURO.0400-19.2020",
+    "locator": "Experiments 1–2; Figures 3–7",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "6771c52044aec53bb92039ee05bfa3388a843df028b9c0a06ae1a0592a8767d9"
+  },
+  {
+    "id": "E12",
+    "key": "izawa2011",
+    "doi": "10.1371/journal.pcbi.1002012",
+    "locator": "Sensory versus reward prediction-error training; sensory remapping and generalization results",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "61b98d336dc701bdb7c5ba95184e9699b35b9fc5383c17a1509c36cfc59fc0f4"
+  },
+  {
+    "id": "E13",
+    "key": "berniker2008",
+    "doi": "10.1038/nn.2229",
+    "locator": "Model and comparisons with published generalization experiments; Figures 1–5",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "8ac3b348b8e1674a628d4908328f9d39fb8630dcd1122c5af3a65c225696007b"
+  },
+  {
+    "id": "E14",
+    "key": "wei2009",
+    "doi": "10.1152/jn.90545.2008",
+    "locator": "Experiments manipulating error magnitude; relevance model",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "a4ddbdb7c64e0c92a49dd41c82abfdd36e688ce58b17444ce1346557452799a3"
+  },
+  {
+    "id": "E15",
+    "key": "external2020",
+    "doi": "10.1038/s41598-020-76940-3",
+    "locator": "Results: reach aftereffects, passive localization, active-minus-passive localization; hand-view and cursor-jump groups",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "f53ebc4242ee862148de3505933b6b307fc13ed931999e0d43610a81fedd2fde"
+  },
+  {
+    "id": "E16",
+    "key": "piece2025",
+    "doi": "10.1098/rspb.2025.1320",
+    "locator": "Figure 1 experimental setup; Figure 2 human results; model comparisons",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "1ddf05283ae82ec01fbb4a3d672be15d88f3076753c96932d0060641659a003d"
+  },
+  {
+    "id": "E17",
+    "key": "hayashi2020",
+    "doi": "10.1523/JNEUROSCI.1745-19.2019",
+    "locator": "Experiments 1–3; Figures 4, 7 and 8; Figure 8-1 model",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "f05be2b78661fed7eed5a9cca4394a20d36eab0d5b877841c45ef1e5cb5c10cf"
+  },
+  {
+    "id": "E18",
+    "key": "hoffmann2023",
+    "doi": "10.1523/ENEURO.0068-23.2023",
+    "locator": "Experiments 1–2: visual error scaling and hand-versus-cursor instructions",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "503c444bc3b1f541998827fcbf72819a9e009c421f45071536093949627c5a9b"
+  },
+  {
+    "id": "E19",
+    "key": "coin2021",
+    "doi": "10.1038/s41586-021-04129-3",
+    "locator": "Figures 2–3: evoked recovery and context-dependent single-trial learning",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "b40240d6e9887a098a7a2bef70e7345dde07c6650b6d115b0a0c0788cef5a57e"
+  },
+  {
+    "id": "E20",
+    "key": "unlearning2016",
+    "doi": "10.3389/fnhum.2016.00472",
+    "locator": "Cursor, Arc and Augmented-Error groups; channel-trial memory decay results",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "bf7e8be4cd0e793a3a9a95c165ba16e3fd6da4266082599d04a490f90bc442ab"
+  },
+  {
+    "id": "E21",
+    "key": "feulner2025",
+    "doi": "10.1038/s41467-024-54738-5",
+    "locator": "Recurrent-network learning rule; behavioural and macaque neural comparisons",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "b3bfecb860da9cd1e08a19cf27f2d2de12a228778dcfde10b2279e8a549bcf84"
+  },
+  {
+    "id": "E22",
+    "key": "tsay2022",
+    "doi": "10.1371/journal.pcbi.1010005",
+    "locator": "Experiments 1–3; Figures 2, 3, 5 and 6",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "59010fd141c30c9429d6a6c1c54399f6e547d29e9d70fce7f809703ec02d5f9d"
+  },
+  {
+    "id": "E23",
+    "key": "oza2024",
+    "doi": "10.1371/journal.pbio.3002703",
+    "locator": "Experiments 1–4; Figures 1–4; Mathematical modeling",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "c42900667a744753c4488ff1582698fe43258b5ea1413060d8a632d54a635976"
+  },
+  {
+    "id": "E24",
+    "key": "uncertain2023",
+    "doi": "10.1371/journal.pcbi.1010526",
+    "locator": "Results: uncertainty-dependent changes in initial movement vector; model comparisons",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "0306e3ae1d87c4dffd2c12a92de50acfc71bc4a254c85b1e4551e7598cc93019"
+  },
+  {
+    "id": "E25",
+    "key": "premo2022",
+    "doi": "10.7554/eLife.76639",
+    "locator": "Model definition; core predictions and challenges",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "8a4655ae8ed9b3136f8f13596944d0807d35d8091bf3b7aa609ee52a7dc44938"
+  },
+  {
+    "id": "E26",
+    "key": "percept2026",
+    "doi": "10.1371/journal.pcbi.1014196",
+    "locator": "Experiments 1–6; Figure 8 perceptual probe; model comparisons",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "6e8985c235f172570782d5b9fe86f613cd853c7348f7971c6884b801a760af56"
+  },
+  {
+    "id": "E27",
+    "key": "attention2026",
+    "doi": "10.1523/ENEURO.0243-25.2026",
+    "locator": "Experiments 1–2; Figures 2, 5 and 6; single-task, dual-task and contingent-feedback groups",
+    "accessed": "2026-11-17",
+    "verification": "local_fulltext",
+    "sha256": "1e1e680f49cab512f6a0b95ed5fd880b6ec59e4c8819664fa27bc7fde33a5759"
+  }
+]

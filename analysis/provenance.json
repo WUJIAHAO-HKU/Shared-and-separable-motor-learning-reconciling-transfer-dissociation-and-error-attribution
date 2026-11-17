@@ -1,0 +1,15 @@
+{
+  "data_sha256": "5cae74833159230afee1604dead7f3f0a87fc048797c92c25e09ae17413ccc8f",
+  "n_people": 24,
+  "studies": [
+    "10.51628/001c.22336",
+    "10.51628/001c.91252"
+  ],
+  "unit": "processed 12-trial blocks; mean field in block; half-block state observation",
+  "primary_window": "180_230",
+  "secondary_window": "230_300",
+  "calibration": "target pre-exposure mean only; source-baseline-only sensitivity included",
+  "uncertainty": "target-participant cluster bootstrap, conditional on trained source; no source uncertainty CI",
+  "source_cv": "six fixed participant folds, all target post-exposure values excluded",
+  "mechanistic_scope": "effective stable linear temporal kernels; poles are closed-loop block persistence, not neural retention"
+}

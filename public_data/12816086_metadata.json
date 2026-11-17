@@ -1,0 +1,180 @@
+{
+  "files": [
+    {
+      "id": 24313316,
+      "name": "df_analyze_RJ_visualpert.m",
+      "size": 26061,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/24313316",
+      "supplied_md5": "cea2125a1934b3fbe3c877a328280b55",
+      "computed_md5": "cea2125a1934b3fbe3c877a328280b55",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 24313337,
+      "name": "helpfunctions.zip",
+      "size": 2968,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/24313337",
+      "supplied_md5": "a3dd6e87dbecd6fb46bc1c4bc907c77e",
+      "computed_md5": "a3dd6e87dbecd6fb46bc1c4bc907c77e",
+      "mimetype": "application/zip"
+    },
+    {
+      "id": 24313367,
+      "name": "datafiles.zip",
+      "size": 2515645732,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/24313367",
+      "supplied_md5": "89de383f309d145e517e96be6ff07879",
+      "computed_md5": "89de383f309d145e517e96be6ff07879",
+      "mimetype": "application/zip"
+    },
+    {
+      "id": 24343751,
+      "name": "df_analyze_RJ_channeltrials.m",
+      "size": 29115,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/24343751",
+      "supplied_md5": "70a012c4b72c9b7e6b9268d019a5bd41",
+      "computed_md5": "70a012c4b72c9b7e6b9268d019a5bd41",
+      "mimetype": "text/plain"
+    },
+    {
+      "id": 24343769,
+      "name": "df_analyze_RJ_fieldtrials.m",
+      "size": 9841,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/24343769",
+      "supplied_md5": "4d6eb4d4caeb9984ce091d04a1d3fce8",
+      "computed_md5": "4d6eb4d4caeb9984ce091d04a1d3fce8",
+      "mimetype": "text/plain"
+    }
+  ],
+  "folder_structure": {},
+  "authors": [
+    {
+      "id": 2554246,
+      "full_name": "David Franklin",
+      "first_name": "David",
+      "last_name": "Franklin",
+      "is_active": true,
+      "url_name": "_",
+      "orcid_id": "0000-0001-9530-0820"
+    },
+    {
+      "id": 9247983,
+      "full_name": "Sae Franklin",
+      "first_name": "Sae",
+      "last_name": "Franklin",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": "0000-0003-3002-6589"
+    }
+  ],
+  "custom_fields": [],
+  "figshare_url": "https://figshare.com/articles/dataset/Data_and_Code_for_Feedback_Gains_modulate_with_motor_memory_uncertainty_/12816086",
+  "download_disabled": false,
+  "description": "<div>This is the data and matlab code to prepare the figures for the manuscript \"Feedback gains modulate with motor memory uncertainty\" by Sae Franklin and David Franklin.</div><div><br></div><div>The three main programs to obtain the analysis are:</div><div>df_analyze_RJ_channeltrials.m</div><div>df_analyze_RJ_fieldtrials.m</div><div>df_analyze_RJ_visualpert.m<br></div><div><br></div><div>which will generate each of the figures in the results section of the manuscript. <br></div><div><br></div><div>Data files (.mat) are found within the datafiles.zip</div><div>Additional code is found within helpfunctions.zip<br></div>",
+  "funding": null,
+  "funding_list": [],
+  "version": 1,
+  "status": "public",
+  "size": 2515713717,
+  "created_date": "2020-08-19T08:21:11Z",
+  "modified_date": "2023-05-31T19:24:05Z",
+  "is_public": true,
+  "is_confidential": false,
+  "is_metadata_record": false,
+  "confidential_reason": "",
+  "metadata_reason": "",
+  "license": {
+    "value": 1,
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "tags": [
+    "motor memory",
+    "motor adaptation",
+    "force field behavior",
+    "Behavioral Neuroscience",
+    "Biological Adaptation",
+    "Neuroscience"
+  ],
+  "keywords": [
+    "motor memory",
+    "motor adaptation",
+    "force field behavior",
+    "Behavioral Neuroscience",
+    "Biological Adaptation",
+    "Neuroscience"
+  ],
+  "categories": [
+    {
+      "id": 30331,
+      "title": "Behavioural neuroscience",
+      "parent_id": 30325,
+      "path": "/30292/30325/30331",
+      "source_id": "520202",
+      "taxonomy_id": 100
+    },
+    {
+      "id": 24250,
+      "title": "Biological adaptation",
+      "parent_id": 24241,
+      "path": "/24130/24241/24250",
+      "source_id": "310403",
+      "taxonomy_id": 100
+    },
+    {
+      "id": 24748,
+      "title": "Neurosciences not elsewhere classified",
+      "parent_id": 24724,
+      "path": "/24457/24724/24748",
+      "source_id": "320999",
+      "taxonomy_id": 100
+    }
+  ],
+  "references": [
+    "http://arxiv.org/abs/2008.07574"
+  ],
+  "has_linked_file": false,
+  "citation": "Franklin, David; Franklin, Sae (2020). Data and Code for \"Feedback Gains modulate with motor memory uncertainty\". figshare. Dataset. https://doi.org/10.6084/m9.figshare.12816086.v1",
+  "related_materials": [
+    {
+      "id": 13491131,
+      "identifier": "http://arxiv.org/abs/2008.07574",
+      "title": "",
+      "relation": "References",
+      "identifier_type": "URL",
+      "is_linkout": false,
+      "link": "http://arxiv.org/abs/2008.07574"
+    }
+  ],
+  "is_embargoed": false,
+  "embargo_date": null,
+  "embargo_type": "file",
+  "embargo_title": "",
+  "embargo_reason": "",
+  "embargo_options": [],
+  "id": 12816086,
+  "title": "Data and Code for \"Feedback Gains modulate with motor memory uncertainty\"",
+  "doi": "10.6084/m9.figshare.12816086.v1",
+  "handle": "",
+  "url": "https://api.figshare.com/v2/articles/12816086",
+  "published_date": "2020-08-19T08:21:11Z",
+  "thumb": "",
+  "defined_type": 3,
+  "defined_type_name": "dataset",
+  "group_id": null,
+  "url_private_api": "https://api.figshare.com/v2/account/articles/12816086",
+  "url_public_api": "https://api.figshare.com/v2/articles/12816086",
+  "url_private_html": "https://figshare.com/account/articles/12816086",
+  "url_public_html": "https://figshare.com/articles/dataset/Data_and_Code_for_Feedback_Gains_modulate_with_motor_memory_uncertainty_/12816086",
+  "timeline": {
+    "posted": "2020-08-19T08:21:11",
+    "firstOnline": "2020-08-19"
+  },
+  "resource_title": "",
+  "resource_doi": ""
+}
