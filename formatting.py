@@ -71,4 +71,4 @@ def bibliography(keys):
    if v.get(x):fields[x]=v[x]
   out.append('@article{'+k+',\n'+',\n'.join(' '+a+'={'+str(b)+'}' for a,b in fields.items())+'\n}')
  (R/'references.bib').write_text('\n\n'.join(out),'utf8')
-def end(clear=False):return '\n'+(r'\clearpage' if clear else '')+r'\begingroup\fontsize{8.5}{9.6}\selectfont\setlength{\parskip}{0pt}\setlength{\bibsep}{1pt}\bibliographystyle{unsrtnat}\bibliography{references}\endgroup\end{document}'
+def end(clear=False):return '\n'+(r'\clearpage' if clear else '')+r'\begingroup\fontsize{8.5}{9.6}\selectfont\setlength{\parskip}{0pt}\setlength{\bibsep}{0pt}\bibliographystyle{unsrtnat}\bibliography{references}\endgroup\end{document}'

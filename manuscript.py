@@ -168,3 +168,5 @@ from acceptance_content import ABSTRACT, update
 SECTIONS=update(SECTIONS)
 from revision_content import ABSTRACT, revise
 SECTIONS=revise(SECTIONS)
+from final_content import ABSTRACT, revise as final_revision
+SECTIONS=final_revision(SECTIONS)

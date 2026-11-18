@@ -6,6 +6,8 @@ from rules import RULES
 from manuscript import TITLE,ABSTRACT,SECTIONS
 from current_render import render as render_acceptance
 from acceptance import CLAIMS,REMOVALS
+from supplementary_methods import render as render_methods
+from final_content import contribution_table
 R=Path(__file__).parent
 def tex(x):return f.esc(x).replace('×',r'$\times$').replace('→',r'$\rightarrow$').replace('–','--')
 def para(t):return t.strip()+'\n\n'
@@ -31,7 +33,7 @@ def rulestable(z):
  for row in RULES:s+=tex(row[0]+' '+row[2][z])+' & '+tex(row[3][z])+' & '+tex(row[4][z])+r'\\[9pt]'+'\n'
  return s+r'\end{longtable}\normalsize'+'\n'
 def header(z,atlas=False):
- s=f.pre(z).replace('ADAPTIVE FEEDBACK','EVIDENCE TO EXPERIMENT').replace('November 2026','17 November 2026')
+ s=f.pre(z).replace('ADAPTIVE FEEDBACK','EVIDENCE TO EXPERIMENT').replace('November 2026','18 November 2026')
  if not atlas:
   s=s.replace(r'\begin{document}',r'\usepackage[mathlines]{lineno}'+ '\n'+r'\setlength{\linenumbersep}{8pt}'+ '\n'+r'\renewcommand\linenumberfont{\normalfont\tiny\sffamily}'+ '\n'+r'\begin{document}\runninglinenumbers')
  s+=r'{\small\sffamily\color{navy} '+(('SUPPLEMENTARY EVIDENCE ATLAS' if atlas else 'PERSPECTIVE | EVIDENCE SYNTHESIS') if not z else ('补充证据图谱' if atlas else 'PERSPECTIVE | 证据综合'))+r'}\par\medskip'+'\n'
@@ -47,7 +49,7 @@ def make_main(z):
  for i,(h,t) in enumerate(SECTIONS):
   s+=heading(h[z])+para(t[z])
   if i==0:s+=figure(('figure1_en.pdf','figure1_zh.pdf')[z],('Evidence streams and proposed integration. The four observations constrain different stages of learning and three independent dimensions: sensory channels, control outputs and timescales. The pathway organizes experimental comparisons. Native PowerPoint text, shapes and connectors depict conceptual relationships to be tested.','证据线索与拟议整合。四类观察约束不同学习环节，以及感觉通道、控制输出和时间尺度三个独立维度。流程组织实验比较。文字、图形与连线由PowerPoint原生对象组成，表示待检验的概念关系。')[z])
-  if h[0]=='A joint explanation with explicit observables':s+=tablesynth(z)
+  if h[0]=='What the integration adds':s+=contribution_table(z)
   if h[0]=='Choosing an experiment by the restriction it tests':
    s+=figure(('figure2_en.pdf','figure2_zh.pdf')[z],('Testing temporal mixtures, report loadings and external prediction. Fixed mixed readout can change delay ratios. Solid arrows connect temporal modes to the two measured outputs; dashed arrows denote candidate contributions to localization reports. Independent calibration constrains the report loadings. Passive movement denotes robot-guided human-arm movement. Source-fitted parameters are frozen before target-study scoring. The diagram is composed of native PowerPoint objects.','检验时间混合、报告载荷及外部预测。固定混合读出能够改变延迟比例；实线连接时间成分与两项测量输出；虚线表示定位报告的候选贡献，报告载荷由独立校准约束。被动运动指机器人引导人体手臂运动。来源拟合参数在目标研究评分前冻结。本图由PowerPoint原生对象组成。')[z])+r'\FloatBarrier'+'\n'+rulestable(z)
   if h[0]=='Frozen predictions across public human studies':
@@ -69,7 +71,7 @@ def field(label,text):return r'\textbf{'+label+r'} '+text+r'\par'+'\n'
 def make_atlas(z):
  s=header(z,True)
  s+=('The 29 entries distinguish published observations from our interpretive synthesis and proposed tests. Each entry cites the source and a figure, experiment or section locator. The eight decision cards specify controls and computational boundaries. Coverage is centered on human upper-limb adaptation; the 2026 reviewed preprint and computational contributions are explicitly labelled. The full paired records are also supplied as JSON.\n' if not z else '29个条目分别记录已发表观察、本文综合推断和拟议测试；每项给出文献及原文图、实验或节定位。八张决策卡说明对照与计算边界。覆盖以人类上肢适应为中心，2026年已评审预印本及计算贡献均单独标示；完整双语条目另以JSON提供。\n')
- s+=tablesynth(z)
+ s+=contribution_table(z)
  s+=heading(('Reading the evidence levels','证据层级的阅读方式')[z])
  s+=('Observed result: what the experiment measured. Supported inference: the mechanism level constrained by its controls. Residual explanation: a specific alternative that can produce the observation. Proposed test: our next comparison and its predicted interpretive value. A surviving alternative is retained without changing the original result.\n' if not z else '观察结果：实验实际测得什么。支持推断：原实验对照约束到的机制层级。残余解释：能产生该观察的具体竞争解释。拟议测试：本文提出的下一对比及其解释价值。保留竞争解释，同时保留原研究已确立的结果。\n')
  for ix,row in enumerate(ROWS):
@@ -97,6 +99,7 @@ def make_atlas(z):
  s+=heading(('Source-check notes','来源核查说明')[z])
  s+=('The preceding edition checked 25 local full texts; this revision adds the Smith et al. full text and the Franklin et al. primary study and repository records. Cluff and Scott (2013) and Makino et al. (2026) were checked through the primary-source web text. The Albert and Shadmehr correction concerns the purple displacement traces for Error 2 in Figure 2A; those traces were not digitized or used for new quantitative inference. Bibliographic titles and DOIs were reconciled against publisher/Crossref records. No percentages of alleged overclaiming were computed.\n' if not z else '前版核查25篇本地全文；本版补充Smith等全文及Franklin等原始研究与档案记录。Cluff和Scott（2013）、Makino等（2026）通过原始来源网页正文核查。Albert和Shadmehr的更正涉及图2A中Error 2的紫色位移曲线，本稿未数字化该曲线或用其进行新增定量推断。书目信息按出版社/Crossref记录校对，未计算所谓过度归因文献比例。\n')
  s+=heading(('AI disclosure','AI披露')[z])+('Language-model assistance supported extraction organization, paired drafting and document production. Observations are paraphrased with source locators; proposed tests are labelled as synthesis.\n' if not z else '语言模型辅助用于提取结果组织、双语撰写及文档制作。观察结果按原文定位转述；拟议测试标为本文综合。\n')
+ s+=render_methods(z)
  s+=render_acceptance(z)
  return s.replace('simulation_snapshot',r'simulation\_snapshot')+end()
 outputs={}

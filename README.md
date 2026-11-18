@@ -67,7 +67,7 @@ The script creates native slides from the deposited layout JSON, exports PNG/PDF
 
 The analyses are retrospective. Two force-field studies contribute 24 participants; localization estimates cover 90 participants. Target post-exposure observations are withheld from fitting and penalty selection; target pre-exposure calibration and source-baseline-only scoring are both reported. Recovery compares overlapping effective temporal-response families. Behavioural equivalence between shared states and duplicated states remains explicit in the manuscript.
 
-No new human experiment was conducted for this release. Existing results, including model-ranking changes and unresolved comparisons, are retained. The 18 November update changes figure construction, disclosures and reproducibility portability.
+No new human experiment was conducted for this release. Existing results, including model-ranking changes and unresolved comparisons, are retained. The final 18 November editorial revision explains the increment relative to prior work, develops the early-transfer/late-dissociation case and reports family-specific recovery. Main-text scientific conclusions point to Supplementary Methods SM1–SM3 for derivations, report-loadings analysis, optimization and recovery procedures. Numerical observations, fitted parameters and predictions are unchanged. `final_content.py` and `supplementary_methods.py` contain the paired final revision; `build.py` generates the manuscript and atlas from these sources. Private synopsis and editorial-email files are distributed separately from this public repository.
 
 ## Attribution and AI assistance
 
